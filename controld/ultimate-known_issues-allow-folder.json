@@ -8,13 +8,6 @@
   },
   "rules": [
     {
-      "PK": "ad-ipd.sxp.smartclip.net",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "a-fds.youborafds01.com",
       "action": {
         "do": 1,
@@ -58,13 +51,6 @@
     },
     {
       "PK": "conduit.redfast.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "des.smartclip.net",
       "action": {
         "do": 1,
         "status": 1
@@ -128,20 +114,6 @@
     },
     {
       "PK": "tags.tiqcdn.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "te.ip-prod.aws-cbc.cloud",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "te.technical-service.net",
       "action": {
         "do": 1,
         "status": 1

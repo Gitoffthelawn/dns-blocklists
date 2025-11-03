@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 02:29 UTC
-# Version: 2025.1103.0229.53
+# Last modified: 03 Nov 2025 10:31 UTC
+# Version: 2025.1103.1031.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11257
+# Number of entries: 11249
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5475,7 +5475,6 @@ local=/klon.tv/
 local=/kludd.com/
 local=/kmnbd.net/
 local=/kmsautoplus.su/
-local=/tracker.home.kmzs123.cn/
 local=/tracker.kmzs123.cn/
 local=/tracker.kmzs123.top/
 local=/knaben.eu/
@@ -5508,7 +5507,6 @@ local=/kuiken.co/
 local=/kukaj.me/
 local=/kukaj.sk/
 local=/kukaj-to.cz/
-local=/kukajto.io/
 local=/kuribo64.net/
 local=/kuroiru.co/
 local=/tracker.kuroy.me/
@@ -6224,7 +6222,6 @@ local=/movie-blog.sx/
 local=/movie-blog.to/
 local=/movie-blog.tv/
 local=/movie-forum.co/
-local=/movie-web.me/
 local=/movie2k.to/
 local=/movie4k.ag/
 local=/movie4k.is/
@@ -6496,7 +6493,6 @@ local=/ssp2.myflixer.run/
 local=/myflixerhd.ru/
 local=/myflixertv.to/
 local=/myflixerz.to/
-local=/myflixerz.vip/
 local=/myflixtor.tv/
 local=/myfreeleech.com/
 local=/myfreemp3.vip/
@@ -6609,7 +6605,6 @@ local=/net51.cc/
 local=/netanime.tv/
 local=/netathomebd.com/
 local=/netcine.biz/
-local=/netcine.me/
 local=/netcine.tv/
 local=/netcine.us/
 local=/netcitybd.com/
@@ -6708,7 +6703,6 @@ local=/ngprovider.com/
 local=/nhentai.net/
 local=/nhl24all.ir/
 local=/nhlbite.com/
-local=/nhlstream.net/
 local=/nhlstreams.io/
 local=/nhlstreams.to/
 local=/h4.trakx.nibba.trade/
@@ -6721,8 +6715,6 @@ local=/nima4k.org/
 local=/nineoneone.nl/
 local=/nites.is/
 local=/nites.tv/
-local=/nitesgate.org/
-local=/nitestv.co/
 local=/tracker.nitrix.me/
 local=/nitro.to/
 local=/nitroflare.com/
@@ -6883,7 +6875,6 @@ local=/nzb-chat.com/
 local=/nzbclub.com/
 local=/nzbfinder.ws/
 local=/nzbfriends.com/
-local=/nzbfriends.de/
 local=/nzbgeek.info/
 local=/nzbget.com/
 local=/nzbget.net/
@@ -10436,6 +10427,7 @@ local=/vidnext.net/
 local=/vidnow.tv/
 local=/vidoy.fit/
 local=/vidoy.ink/
+local=/vidoy.store/
 local=/vidoza.co/
 local=/vidoza.com/
 local=/vidoza.net/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762136940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762165860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 02:29 UTC
-; Version: 2025.1103.0229.53
+; Last modified: 03 Nov 2025 10:31 UTC
+; Version: 2025.1103.1031.09
 ; Syntax: RPZ
-; Number of entries: 22514
+; Number of entries: 22498
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2106,8 +2106,6 @@ tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
 *.jshdtv.cn CNAME .
-tracker.home.kmzs123.cn CNAME .
-*.tracker.home.kmzs123.cn CNAME .
 tracker.kmzs123.cn CNAME .
 *.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
@@ -2286,8 +2284,6 @@ ln.mtahost.co CNAME .
 *.ln.mtahost.co CNAME .
 newkatcr.co CNAME .
 *.newkatcr.co CNAME .
-nitestv.co CNAME .
-*.nitestv.co CNAME .
 olympicstreams.co CNAME .
 *.olympicstreams.co CNAME .
 onepiece-streaming.co CNAME .
@@ -8454,8 +8450,6 @@ mp3tipeurope.de CNAME .
 *.mp3tipeurope.de CNAME .
 neuvertonung.de CNAME .
 *.neuvertonung.de CNAME .
-nzbfriends.de CNAME .
-*.nzbfriends.de CNAME .
 online-tv.de CNAME .
 *.online-tv.de CNAME .
 index.plan9.de CNAME .
@@ -10572,8 +10566,6 @@ koora-live.io CNAME .
 *.koora-live.io CNAME .
 koora365.io CNAME .
 *.koora365.io CNAME .
-kukajto.io CNAME .
-*.kukajto.io CNAME .
 letsupload.io CNAME .
 *.letsupload.io CNAME .
 boards.libre.io CNAME .
@@ -11932,8 +11924,6 @@ wg.mortis.me CNAME .
 *.wg.mortis.me CNAME .
 motogpstream.me CNAME .
 *.motogpstream.me CNAME .
-movie-web.me CNAME .
-*.movie-web.me CNAME .
 movies123-online.me CNAME .
 *.movies123-online.me CNAME .
 movies25.me CNAME .
@@ -11944,8 +11934,6 @@ nelion.me CNAME .
 *.nelion.me CNAME .
 download.nerocloud.me CNAME .
 *.download.nerocloud.me CNAME .
-netcine.me CNAME .
-*.netcine.me CNAME .
 nflixvod.me CNAME .
 *.nflixvod.me CNAME .
 tracker.nitrix.me CNAME .
@@ -13586,8 +13574,6 @@ nfomation.net CNAME .
 *.nfomation.net CNAME .
 nhentai.net CNAME .
 *.nhentai.net CNAME .
-nhlstream.net CNAME .
-*.nhlstream.net CNAME .
 nitroflare.net CNAME .
 *.nitroflare.net CNAME .
 504e163a.host.njalla.net CNAME .
@@ -16032,8 +16018,6 @@ nicoblog.org CNAME .
 *.nicoblog.org CNAME .
 nima4k.org CNAME .
 *.nima4k.org CNAME .
-nitesgate.org CNAME .
-*.nitesgate.org CNAME .
 nmuca.org CNAME .
 *.nmuca.org CNAME .
 nntt.org CNAME .
@@ -19126,6 +19110,8 @@ viddee.store CNAME .
 *.viddee.store CNAME .
 videyco.store CNAME .
 *.videyco.store CNAME .
+vidoy.store CNAME .
+*.vidoy.store CNAME .
 0123movie.stream CNAME .
 *.0123movie.stream CNAME .
 01streaming.stream CNAME .
@@ -21492,8 +21478,6 @@ m4ufree.vip CNAME .
 *.m4ufree.vip CNAME .
 megapeer.vip CNAME .
 *.megapeer.vip CNAME .
-myflixerz.vip CNAME .
-*.myflixerz.vip CNAME .
 myfreemp3.vip CNAME .
 *.myfreemp3.vip CNAME .
 nyafilmer.vip CNAME .

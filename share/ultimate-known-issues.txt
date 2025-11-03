@@ -15,10 +15,12 @@ www.asadcdn.com
 tags-eu.tiqcdn.com
 
 # n-tv app: When blocked, a video starts again after a few seconds
-ad-ipd.sxp.smartclip.net
-des.smartclip.net
-te.technical-service.net
-te.ip-prod.aws-cbc.cloud
+# 11/2025: The problem no longer exists.
+# ad-ipd.sxp.smartclip.net
+# des.smartclip.net
+# te.technical-service.net
+# te2.technical-service.net
+# te.ip-prod.aws-cbc.cloud
 
 # CMP - Breaks some Apps/Sites
 fundingchoices.google.com
@@ -42,6 +44,8 @@ footprints-pa.googleapis.com
 
 # May interfere with some apps on Android, not confirmed.
 # https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2590327413
+# Needed for speech-to-text with the Gboard keyboard on Galaxy smart watch.
+# https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-3478793925
 voilatile-pa.googleapis.com
 
 # Google API for geo-location through cell towers and Wi-Fi access points to determine device location.
@@ -50,9 +54,10 @@ voilatile-pa.googleapis.com
 # Needed for Google Timeline
 userlocation.googleapis.com
 
-# Perplexity model selection on Android.
-# The problem does not occur under iOS.
+# Perplexity model selection on Android. The problem does not occur under iOS.
 # https://github.com/hagezi/dns-blocklists/issues/6664
+# Breaks search on booksy.com
+# https://github.com/hagezi/dns-blocklists/issues/7579#issuecomment-3479258974
 fscdn.eppo.cloud
 
 # NFL app iOS/Android gets stuck on the start screen

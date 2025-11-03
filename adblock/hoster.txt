@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 01:55 UTC
-! Version: 2025.1103.0155.50
+! Last modified: 03 Nov 2025 09:56 UTC
+! Version: 2025.1103.0956.45
 ! Syntax: AdBlock
-! Number of entries: 1335
+! Number of entries: 1334
 !
 ||000a.de^
 ||000space.com^
@@ -896,7 +896,6 @@
 ||myfoolmoon.com^
 ||myfreesites.net^
 ||mygamesonline.org^
-||mypcprotech.com^
 ||myportfolio.com^
 ||mypressonline.com^
 ||mysteria.cz^

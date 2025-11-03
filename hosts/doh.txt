@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 02:35 UTC
-# Version: 2025.1103.0235.15
+# Last modified: 03 Nov 2025 10:36 UTC
+# Version: 2025.1103.1036.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3863
+# Number of entries: 3860
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2228,7 +2228,6 @@
 0.0.0.0 mx1.laoxiao789.com
 0.0.0.0 larkin.wang
 0.0.0.0 dns.lars-lehmann.net
-0.0.0.0 dns.lashes-brow.ru
 0.0.0.0 lastentarvike.fi
 0.0.0.0 dns.lauraeguido.com
 0.0.0.0 adguard.laurenlaufman.com
@@ -2455,7 +2454,6 @@
 0.0.0.0 alexj123.mooo.com
 0.0.0.0 disinformer.mooo.com
 0.0.0.0 e23a.mooo.com
-0.0.0.0 epic3.mooo.com
 0.0.0.0 dns.moraru.net
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
@@ -2737,7 +2735,6 @@
 0.0.0.0 ns3.com
 0.0.0.0 ns3.link
 0.0.0.0 dnscache0.ns71.net
-0.0.0.0 dns.ntcrz.ru
 0.0.0.0 dns.ntr.lol
 0.0.0.0 ntwrkh.pro
 0.0.0.0 dns.nubecita.biz

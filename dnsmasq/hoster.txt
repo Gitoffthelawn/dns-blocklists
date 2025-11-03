@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 01:55 UTC
-# Version: 2025.1103.0155.50
+# Last modified: 03 Nov 2025 09:56 UTC
+# Version: 2025.1103.0956.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1335
+# Number of entries: 1334
 #
 local=/000a.de/
 local=/000space.com/
@@ -895,7 +895,6 @@ local=/myeweb.net/
 local=/myfoolmoon.com/
 local=/myfreesites.net/
 local=/mygamesonline.org/
-local=/mypcprotech.com/
 local=/myportfolio.com/
 local=/mypressonline.com/
 local=/mysteria.cz/

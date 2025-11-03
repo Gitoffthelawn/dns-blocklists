@@ -1,11 +1,14 @@
 # Unblocking for relaxed lists only
 
+# n-tv app: When blocked, a video starts again after a few seconds
+ad-ipd.sxp.smartclip.net
+des.smartclip.net
+te.technical-service.net
+te2.technical-service.net
+te.ip-prod.aws-cbc.cloud
+
 # Slow loading of the top images (tiles) in the new Windows 11 App Store
 bat.bing.com
-
-# https://github.com/hagezi/dns-blocklists/issues/6664
-# https://github.com/hagezi/dns-blocklists/issues/7579
-fscdn.eppo.cloud
 
 # https://github.com/hagezi/dns-blocklists/issues/7392
 *.i.posthog.com

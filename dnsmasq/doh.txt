@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 02:35 UTC
-# Version: 2025.1103.0235.15
+# Last modified: 03 Nov 2025 10:36 UTC
+# Version: 2025.1103.1036.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3386
+# Number of entries: 3383
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1907,7 +1907,6 @@ local=/x.laoban.fun/
 local=/mx1.laoxiao789.com/
 local=/larkin.wang/
 local=/dns.lars-lehmann.net/
-local=/dns.lashes-brow.ru/
 local=/lastentarvike.fi/
 local=/dns.lauraeguido.com/
 local=/adguard.laurenlaufman.com/
@@ -2123,7 +2122,6 @@ local=/akunamatata8888.mooo.com/
 local=/alexj123.mooo.com/
 local=/disinformer.mooo.com/
 local=/e23a.mooo.com/
-local=/epic3.mooo.com/
 local=/dns.moraru.net/
 local=/morbitzer.de/
 local=/crypt.mostsecureme.com/
@@ -2358,7 +2356,6 @@ local=/x.ns1net.com/
 local=/ns3.com/
 local=/ns3.link/
 local=/dnscache0.ns71.net/
-local=/dns.ntcrz.ru/
 local=/dns.ntr.lol/
 local=/ntwrkh.pro/
 local=/dns.nubecita.biz/
