@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Nov 2025 18:32 UTC
-! Version: 2025.1104.1832.31
+! Last modified: 05 Nov 2025 10:31 UTC
+! Version: 2025.1105.1031.52
 ! Syntax: AdBlock
-! Number of entries: 502
+! Number of entries: 492
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -24,14 +24,12 @@
 ||3dns.eu^
 ||dns.3wv.de^
 ||vpn.4-the.win^
-||doh.42l.fr^
 ||ns2.4netguides.org^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
 ||8888.google^
 ||dns.9999.sg^
-||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.abdullahabas.de^
 ||adl.adfilter.net^
@@ -57,7 +55,6 @@
 ||nsec.arnor.org^
 ||dns.artikel10.org^
 ||dandelionsprout.asuscomm.com^
-||dohtrial.att.net^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||bazooki-infra.dev^
@@ -86,7 +83,6 @@
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||callies-online.site^
-||doh.captnemo.in^
 ||catdns.org^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
@@ -126,10 +122,8 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
-||dns.decloudus.com^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
-||doh.disconnect.app^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -161,7 +155,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dns.dnswarden.com^
 ||doh.beauty^
@@ -300,7 +293,6 @@
 ||dns.neutopia.org^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
-||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -371,7 +363,6 @@
 ||dns11.quad9.net^
 ||dns12.quad9.net^
 ||dns9.quad9.net^
-||doh.quickline.ch^
 ||dns.quiet.rocks^
 ||r1bnc.com^
 ||dns.rabbitdns.org^
@@ -426,7 +417,6 @@
 ||ibksturm.synology.me^
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
-||dns.t53.de^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

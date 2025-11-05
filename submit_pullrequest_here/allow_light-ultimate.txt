@@ -1436,3 +1436,6 @@ zhoubao.minghui.org
 # Facebook
 gateway.facebook.com
 gateway-fallback.facebook.com
+*gateway.facebook.com
+z-m-gateway.facebook.com
+z-p4-gateway.facebook.com

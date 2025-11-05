@@ -1652,6 +1652,13 @@
       }
     },
     {
+      "PK": "dmn.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dnsspeedtest.online",
       "action": {
         "do": 1,

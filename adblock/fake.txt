@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Nov 2025 17:26 UTC
-! Version: 2025.1104.1726.18
+! Last modified: 05 Nov 2025 09:26 UTC
+! Version: 2025.1105.0926.14
 ! Syntax: AdBlock
-! Number of entries: 13905
+! Number of entries: 13931
 !
 ||01broker.com^
 ||01crypto.com^
@@ -275,6 +275,7 @@
 ||akku-laden.at^
 ||akku-staubsauger.eu^
 ||akkuschrauber-heinrich.com^
+||akkusmir.de^
 ||akkusnotebook.at^
 ||akronreia.com^
 ||akselinvest.pro^
@@ -341,6 +342,7 @@
 ||allclothes.club^
 ||alldiamondpaintingdeeu.shop^
 ||alle-hebel.de^
+||allefoxmesser.com^
 ||allegoo.com^
 ||allekaufhauser.com^
 ||alles-anhanger.com^
@@ -1578,6 +1580,7 @@
 ||biticodes.com^
 ||bitkabelvore.de^
 ||bitlast.com^
+||bitnixer.io^
 ||area.bitnixer.net^
 ||bitoraxe.com^
 ||bitportfolio.de^
@@ -3152,6 +3155,7 @@
 ||deutsche-fahrrader.com^
 ||deutsche-finanzag.com^
 ||deutsche-rentenauskunft.de^
+||deutsche-wurst-manufaktur.com^
 ||deutschegrammophoneu-outlets.shop^
 ||deutschezeltwelt.com^
 ||deutschla.de^
@@ -3167,6 +3171,7 @@
 ||devicesair.com^
 ||devoteonese.com^
 ||devoza.de^
+||deweins.com^
 ||dexonirax.com^
 ||dfdge.shop^
 ||dfeoq.com^
@@ -3496,6 +3501,7 @@
 ||easyfiles.io^
 ||easygestions.com^
 ||easykreditpro.com^
+||easyrenthomez.com^
 ||easyxp.com^
 ||easyzon.it^
 ||eatathome.de^
@@ -3902,6 +3908,7 @@
 ||estrategen.de^
 ||esyqefp.top^
 ||etcydecor.de^
+||etercitenal.com^
 ||eternity.business^
 ||hippo2.eth.limo^
 ||ether-invest.com^
@@ -4493,6 +4500,7 @@
 ||foldcase.co^
 ||foldingboxesstore.com^
 ||foldingsbikedk.com^
+||folger-kollegen.com^
 ||folioflare.com^
 ||followintg.com^
 ||followjetzt.at^
@@ -4875,6 +4883,7 @@
 ||gastebetten.de^
 ||gastro-max-profi.com^
 ||gastronomiebedarf24.com^
+||gastryner.com^
 ||gatar-baumarkt.de^
 ||gatar-trading.de^
 ||gate3londonuk.com^
@@ -5667,6 +5676,7 @@
 ||heiz-oel24.net^
 ||heiz-oil.de^
 ||heiz-pellets24.com^
+||heiz-smart.de^
 ||heiz-traum.com^
 ||heizdock.de^
 ||heizendirekt.de^
@@ -6150,6 +6160,7 @@
 ||hybridfahrrader.com^
 ||hydrip.de^
 ||hygienecleanshop.com^
+||hyip.com^
 ||hype-handel.de^
 ||hype-hoodies.com^
 ||hypelaced.co^
@@ -6522,6 +6533,7 @@
 ||jaxban.com^
 ||jaxban.eu^
 ||jaytoys.shop^
+||jayunlocks.com^
 ||jazzfantasy.it^
 ||jazzzcity.com^
 ||jb-store.de^
@@ -6821,6 +6833,7 @@
 ||kedssuomishop.com^
 ||keen--shoes.com^
 ||keendeutsch.de^
+||keendeutschland.de^
 ||keenknown.com^
 ||keenschuhe.at^
 ||keepcandlesdeava.shop^
@@ -6998,6 +7011,7 @@
 ||koedel-gartenbau.de^
 ||koel--schuhe.com^
 ||koellers.de^
+||koelner-kraftstoff.de^
 ||koenigsthal.de^
 ||kofferverkaufde.com^
 ||kohlenbrikett.de^
@@ -7600,7 +7614,6 @@
 ||lovebikestore.com^
 ||lovefortennis.com^
 ||lovefreedom.net^
-||loveideaet.click^
 ||lovekizoar.live^
 ||lovenewtech.co^
 ||loveprintiful.com^
@@ -8286,6 +8299,8 @@
 ||mntransglobal.de^
 ||moanaforyoudiscount.shop^
 ||moancd.shop^
+||mobefind.com^
+||mobefind-de.com^
 ||mobel-welt.com^
 ||mobelimfreien.com^
 ||mobelmagie.com^
@@ -8917,6 +8932,7 @@
 ||njordoutdoors.com^
 ||nl-fashion.de^
 ||nlynelly.com^
+||nmb-service.de^
 ||nmcvsaxio.shop^
 ||nms-stmichael.at^
 ||nnomerch.store^
@@ -8984,6 +9000,7 @@
 ||northwaveoff.com^
 ||northwavestore.com^
 ||norvatix.io^
+||norwayhotel.net^
 ||not-bad.shop^
 ||not-schlosser.at^
 ||notationi.com^
@@ -9527,6 +9544,7 @@
 ||papershredder-store.com^
 ||parakonz.de^
 ||paramount111.com^
+||pardiar.com^
 ||parfumly.com^
 ||parfumundkosmetik.com^
 ||parisinpink.com^
@@ -9636,6 +9654,7 @@
 ||pesos-shop.de^
 ||peteclune.com^
 ||peterkaiserschuhe.de^
+||petersimrecht.de^
 ||petfoodedeals.com^
 ||petfuttershop.com^
 ||petgroomingdeal.com^
@@ -10278,6 +10297,7 @@
 ||recentliy.com^
 ||receptiond.com^
 ||recetasplus.com^
+||rechtsanwalt-scheer.net^
 ||reciprocau.com^
 ||recognizen.com^
 ||recollectk.com^
@@ -10550,6 +10570,7 @@
 ||ronald-schminke.de^
 ||ronctly.com^
 ||ronovia.de^
+||ronpalleschilawoffice.com^
 ||ronstanstore.com^
 ||rontis.de^
 ||roof-tube.com^
@@ -10593,6 +10614,7 @@
 ||rromaakt.de^
 ||rrsstore.com^
 ||rtieej.buzz^
+||gold-realm.ru.com^
 ||rub-guben.de^
 ||rubberweekly.com^
 ||rubis-patrimoine.biz^
@@ -10679,6 +10701,7 @@
 ||sakerwerkzeuge.de^
 ||sakimo.net^
 ||salanza-berlin.de^
+||sale-dress.com^
 ||sale-ersatzteile.com^
 ||sale-homedecor.com^
 ||sale-perfume.com^
@@ -10710,6 +10733,7 @@
 ||salestoragecabinet.com^
 ||salestrikots.com^
 ||salesupsurf.com^
+||saleswset.click^
 ||salewabootsnz.com^
 ||salewaoutlet.at^
 ||saleworkshopequip.com^
@@ -11573,6 +11597,7 @@
 ||starwarslover.com^
 ||starwindshieldfl.com^
 ||statehills.com^
+||stationerh.com^
 ||stationeryopt.com^
 ||staubsaugerrabatt.de^
 ||staubzon.de^
@@ -12524,6 +12549,7 @@
 ||travel-24.eu^
 ||travel-and-jobs.com^
 ||traveledgee.com^
+||travellabag.de^
 ||travenu.de^
 ||traviro.de^
 ||travisscottofficial.com^
