@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762424820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762453500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 10:27 UTC
-; Version: 2025.1106.1027.33
+; Last modified: 06 Nov 2025 18:25 UTC
+; Version: 2025.1106.1825.43
 ; Syntax: RPZ
-; Number of entries: 75380
+; Number of entries: 75344
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -16130,8 +16130,6 @@ betsulk.com CNAME .
 *.betsulk.com CNAME .
 betsurfers25.com CNAME .
 *.betsurfers25.com CNAME .
-betsvictor.com CNAME .
-*.betsvictor.com CNAME .
 betswagger.com CNAME .
 *.betswagger.com CNAME .
 betswing.com CNAME .
@@ -31354,10 +31352,6 @@ maxwin303mewah.com CNAME .
 *.maxwin303mewah.com CNAME .
 maxwin367.com CNAME .
 *.maxwin367.com CNAME .
-maxwin449.com CNAME .
-*.maxwin449.com CNAME .
-maxwin450.com CNAME .
-*.maxwin450.com CNAME .
 maxwin5000ambon.com CNAME .
 *.maxwin5000ambon.com CNAME .
 maxwin5000jkt.com CNAME .
@@ -31394,10 +31388,6 @@ maxwin526.com CNAME .
 *.maxwin526.com CNAME .
 maxwin527.com CNAME .
 *.maxwin527.com CNAME .
-maxwin546.com CNAME .
-*.maxwin546.com CNAME .
-maxwin547.com CNAME .
-*.maxwin547.com CNAME .
 maxwin548.com CNAME .
 *.maxwin548.com CNAME .
 maxwin550.com CNAME .
@@ -45370,8 +45360,6 @@ k89bet.cyou CNAME .
 *.k89bet.cyou CNAME .
 logina.cyou CNAME .
 *.logina.cyou CNAME .
-maxwin88bonus.cyou CNAME .
-*.maxwin88bonus.cyou CNAME .
 maxwin88famous.cyou CNAME .
 *.maxwin88famous.cyou CNAME .
 minislotscasinos.cyou CNAME .
@@ -48168,8 +48156,6 @@ kano777.homes CNAME .
 *.kano777.homes CNAME .
 maxwin88famous.homes CNAME .
 *.maxwin88famous.homes CNAME .
-maxwin88good.homes CNAME .
-*.maxwin88good.homes CNAME .
 okggpoker.homes CNAME .
 *.okggpoker.homes CNAME .
 pokerdomaz.homes CNAME .
@@ -48314,8 +48300,6 @@ jackpot-casino.icu CNAME .
 *.jackpot-casino.icu CNAME .
 kubetcasino.icu CNAME .
 *.kubetcasino.icu CNAME .
-maxwin88cap.icu CNAME .
-*.maxwin88cap.icu CNAME .
 maxwin88cek.icu CNAME .
 *.maxwin88cek.icu CNAME .
 maxwin88famous.icu CNAME .
@@ -48522,8 +48506,6 @@ supernova.im CNAME .
 *.1xbetind.in CNAME .
 247games.in CNAME .
 *.247games.in CNAME .
-alfabetservice.in CNAME .
-*.alfabetservice.in CNAME .
 allcodesindia.in CNAME .
 *.allcodesindia.in CNAME .
 appsbetting.in CNAME .
@@ -51344,8 +51326,6 @@ maxwin4da.lol CNAME .
 *.maxwin4da.lol CNAME .
 maxwin88famous.lol CNAME .
 *.maxwin88famous.lol CNAME .
-maxwin88good.lol CNAME .
-*.maxwin88good.lol CNAME .
 maxwin919baru.lol CNAME .
 *.maxwin919baru.lol CNAME .
 merkurcasino.lol CNAME .
@@ -51858,8 +51838,6 @@ indorajapoker.mom CNAME .
 *.indorajapoker.mom CNAME .
 marinabaysandscasino.mom CNAME .
 *.marinabaysandscasino.mom CNAME .
-maxwin88cap.mom CNAME .
-*.maxwin88cap.mom CNAME .
 maxwin88cek.mom CNAME .
 *.maxwin88cek.mom CNAME .
 maxwin88famous.mom CNAME .
@@ -51888,8 +51866,6 @@ loto188.monster CNAME .
 *.loto188.monster CNAME .
 maxwin88buy.monster CNAME .
 *.maxwin88buy.monster CNAME .
-maxwin88cap.monster CNAME .
-*.maxwin88cap.monster CNAME .
 maxwin88famous.monster CNAME .
 *.maxwin88famous.monster CNAME .
 menarabet.monster CNAME .
@@ -52932,6 +52908,8 @@ claps-casino-de.net CNAME .
 *.claps-casino-de.net CNAME .
 d1i1wfn7hj3mva.cloudfront.net CNAME .
 *.d1i1wfn7hj3mva.cloudfront.net CNAME .
+d29my8eu7x251e.cloudfront.net CNAME .
+*.d29my8eu7x251e.cloudfront.net CNAME .
 dlmxz0etq5yy6.cloudfront.net CNAME .
 *.dlmxz0etq5yy6.cloudfront.net CNAME .
 clubgamescasino.net CNAME .
@@ -57616,8 +57594,6 @@ iasp2013.org CNAME .
 *.iasp2013.org CNAME .
 ibitcoincasino.org CNAME .
 *.ibitcoincasino.org CNAME .
-icecasinoslots.org CNAME .
-*.icecasinoslots.org CNAME .
 idealbet-casino.org CNAME .
 *.idealbet-casino.org CNAME .
 idibandung.org CNAME .
@@ -63448,12 +63424,8 @@ maxwin889.site CNAME .
 *.maxwin889.site CNAME .
 maxwin88bonus.site CNAME .
 *.maxwin88bonus.site CNAME .
-maxwin88cap.site CNAME .
-*.maxwin88cap.site CNAME .
 maxwin88famous.site CNAME .
 *.maxwin88famous.site CNAME .
-maxwin88good.site CNAME .
-*.maxwin88good.site CNAME .
 mayfairslots.site CNAME .
 *.mayfairslots.site CNAME .
 mellstroy01casino.site CNAME .
@@ -63820,8 +63792,6 @@ drop.skin CNAME .
 *.drop.skin CNAME .
 maxwin88famous.skin CNAME .
 *.maxwin88famous.skin CNAME .
-maxwin88zip.skin CNAME .
-*.maxwin88zip.skin CNAME .
 rtp-lxwhitelabel.skin CNAME .
 *.rtp-lxwhitelabel.skin CNAME .
 samehadaku.skin CNAME .
@@ -71212,8 +71182,6 @@ malaysiacasino.website CNAME .
 *.malaysiacasino.website CNAME .
 maxwin88buy.website CNAME .
 *.maxwin88buy.website CNAME .
-maxwin88cap.website CNAME .
-*.maxwin88cap.website CNAME .
 maxwin88cek.website CNAME .
 *.maxwin88cek.website CNAME .
 maxwin88famous.website CNAME .
@@ -74150,10 +74118,6 @@ premier-ton.xyz CNAME .
 *.premier-ton.xyz CNAME .
 preolympusday.xyz CNAME .
 *.preolympusday.xyz CNAME .
-maxwin77.presidenslotsabung.xyz CNAME .
-*.maxwin77.presidenslotsabung.xyz CNAME .
-maxwin777.presidenslotsabung.xyz CNAME .
-*.maxwin777.presidenslotsabung.xyz CNAME .
 prj4fa-146.xyz CNAME .
 *.prj4fa-146.xyz CNAME .
 proatom.xyz CNAME .

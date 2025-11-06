@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Nov 2025 10:27 UTC
-! Version: 2025.1106.1027.00
+! Last modified: 06 Nov 2025 18:25 UTC
+! Version: 2025.1106.1825.11
 ! Syntax: AdBlock
-! Number of entries: 79249
+! Number of entries: 79220
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -7446,7 +7446,6 @@
 ||alexis77.store^
 ||alfa.casino^
 ||alfa4dpro88.com^
-||alfabetservice.in^
 ||alfabetslot.vip^
 ||alfatobetss.xyz^
 ||alfcasino.com^
@@ -13821,7 +13820,6 @@
 ||betsvaultbank.com^
 ||betsverse.xyz^
 ||betsversevault.com^
-||betsvictor.com^
 ||betsview.xyz^
 ||betsviewer.xyz^
 ||betsvirtual.xyz^
@@ -26438,6 +26436,7 @@
 ||cloudcasinob.com^
 ||uywe88soa.cloudcdnetw.com^
 ||d1i1wfn7hj3mva.cloudfront.net^
+||d29my8eu7x251e.cloudfront.net^
 ||dlmxz0etq5yy6.cloudfront.net^
 ||cloudoye.com^
 ||cloudslots.live^
@@ -39310,7 +39309,6 @@
 ||icecasinom.com^
 ||icecasinoph.com^
 ||icecasinoromania.com^
-||icecasinoslots.org^
 ||icecasinosx.com^
 ||iceccasino.pl^
 ||icecoffee.lol^
@@ -48677,7 +48675,6 @@
 ||maxwin138as.com^
 ||maxwin138at.com^
 ||maxwin138au.com^
-||maxwin138id.icu^
 ||maxwin138p.com^
 ||maxwin138zz.com^
 ||maxwin150.site^
@@ -48712,7 +48709,6 @@
 ||maxwin2u.win^
 ||maxwin303.com^
 ||maxwin3031.com^
-||maxwin3031.org^
 ||maxwin3032.com^
 ||maxwin303mewah.com^
 ||maxwin303wina.com^
@@ -48729,8 +48725,6 @@
 ||maxwin369g.store^
 ||maxwin3o3.com^
 ||maxwin3o3.org^
-||maxwin449.com^
-||maxwin450.com^
 ||maxwin492.com^
 ||maxwin493.com^
 ||maxwin494.com^
@@ -48764,8 +48758,6 @@
 ||maxwin525.com^
 ||maxwin526.com^
 ||maxwin527.com^
-||maxwin546.com^
-||maxwin547.com^
 ||maxwin548.com^
 ||maxwin55.org^
 ||maxwin550.com^
@@ -48785,7 +48777,6 @@
 ||maxwin569.com^
 ||maxwin570.com^
 ||maxwin572.com^
-||maxwin621.com^
 ||maxwin636.com^
 ||maxwin6789slot.com^
 ||maxwin688.site^
@@ -48833,7 +48824,6 @@
 ||maxwin88bet.online^
 ||maxwin88bet.site^
 ||maxwin88bonus.buzz^
-||maxwin88bonus.cyou^
 ||maxwin88bonus.icu^
 ||maxwin88bonus.online^
 ||maxwin88bonus.site^
@@ -48842,11 +48832,6 @@
 ||maxwin88buy.monster^
 ||maxwin88buy.online^
 ||maxwin88buy.website^
-||maxwin88cap.icu^
-||maxwin88cap.mom^
-||maxwin88cap.monster^
-||maxwin88cap.site^
-||maxwin88cap.website^
 ||maxwin88cek.buzz^
 ||maxwin88cek.icu^
 ||maxwin88cek.mom^
@@ -48866,11 +48851,9 @@
 ||maxwin88famous.top^
 ||maxwin88famous.website^
 ||maxwin88famous.xyz^
-||maxwin88free.buzz^
 ||maxwin88free.click^
 ||maxwin88free.cyou^
 ||maxwin88free.homes^
-||maxwin88free.icu^
 ||maxwin88free.life^
 ||maxwin88free.lol^
 ||maxwin88free.mom^
@@ -48880,11 +48863,7 @@
 ||maxwin88free.skin^
 ||maxwin88free.top^
 ||maxwin88free.website^
-||maxwin88free.xyz^
-||maxwin88good.homes^
 ||maxwin88good.life^
-||maxwin88good.lol^
-||maxwin88good.site^
 ||maxwin88hot.buzz^
 ||maxwin88hot.click^
 ||maxwin88hot.cyou^
@@ -48901,9 +48880,6 @@
 ||maxwin88hot.website^
 ||maxwin88hot.xyz^
 ||maxwin88i.com^
-||maxwin88nice.cyou^
-||maxwin88nice.lol^
-||maxwin88nice.website^
 ||maxwin88plus.live^
 ||maxwin88plus.net^
 ||maxwin88plus.org^
@@ -48912,11 +48888,9 @@
 ||maxwin88plus.vip^
 ||maxwin88plus-th.com^
 ||maxwin88s.com^
-||maxwin88zip.skin^
 ||maxwin89.pro^
 ||maxwin890pro.com^
 ||maxwin89bg.com^
-||maxwin89c17.xyz^
 ||maxwin89c20.xyz^
 ||maxwin89c22.xyz^
 ||maxwin89c28.xyz^
@@ -48927,7 +48901,6 @@
 ||maxwin89w13.com^
 ||maxwin89w14.com^
 ||maxwin89w15.com^
-||maxwin89w2.com^
 ||maxwin89w3.com^
 ||maxwin89w4.com^
 ||maxwin89w5.com^
@@ -60581,8 +60554,6 @@
 ||premiumplayvipslots.com^
 ||preolympusday.xyz^
 ||presentcasino.com^
-||maxwin77.presidenslotsabung.xyz^
-||maxwin777.presidenslotsabung.xyz^
 ||presidentaltar.com^
 ||presidentepg.vip^
 ||presidentpilih.com^

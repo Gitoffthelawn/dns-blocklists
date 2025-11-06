@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 10:27 UTC
-# Version: 2025.1106.1027.33
+# Last modified: 06 Nov 2025 18:25 UTC
+# Version: 2025.1106.1825.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 37690
+# Number of entries: 37672
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -3939,7 +3939,6 @@ local=/alexa88slots.com/
 local=/alexanderjean.net/
 local=/alexis77.store/
 local=/alfa4dpro88.com/
-local=/alfabetservice.in/
 local=/alfabetslot.vip/
 local=/alfcasino.com/
 local=/alfcasinosx.com/
@@ -6770,7 +6769,6 @@ local=/betsuno.store/
 local=/betsupermy2.net/
 local=/betsurfers25.com/
 local=/betsuroute.jp/
-local=/betsvictor.com/
 local=/betswagger.com/
 local=/betswap.gg/
 local=/betswing.com/
@@ -11513,6 +11511,7 @@ local=/cloud9design.biz/
 local=/cloudbet.com/
 local=/cloudcasinob.com/
 local=/d1i1wfn7hj3mva.cloudfront.net/
+local=/d29my8eu7x251e.cloudfront.net/
 local=/dlmxz0etq5yy6.cloudfront.net/
 local=/cloudoye.com/
 local=/cloutbets.fun/
@@ -17830,7 +17829,6 @@ local=/icecasinode.com/
 local=/icecasinom.com/
 local=/icecasinoph.com/
 local=/icecasinoromania.com/
-local=/icecasinoslots.org/
 local=/iceccasino.pl/
 local=/icecreammixue.xyz/
 local=/icecube.cc/
@@ -22609,8 +22607,6 @@ local=/maxwin303mewah.com/
 local=/maxwin365.net/
 local=/maxwin367.com/
 local=/maxwin367.org/
-local=/maxwin449.com/
-local=/maxwin450.com/
 local=/maxwin4d.store/
 local=/maxwin4da.lol/
 local=/maxwin5000ambon.com/
@@ -22632,8 +22628,6 @@ local=/maxwin524.com/
 local=/maxwin525.com/
 local=/maxwin526.com/
 local=/maxwin527.com/
-local=/maxwin546.com/
-local=/maxwin547.com/
 local=/maxwin548.com/
 local=/maxwin55.org/
 local=/maxwin550.com/
@@ -22677,17 +22671,11 @@ local=/maxwin888a.org/
 local=/maxwin888daftar.com/
 local=/maxwin889.site/
 local=/maxwin88bonus.buzz/
-local=/maxwin88bonus.cyou/
 local=/maxwin88bonus.online/
 local=/maxwin88bonus.site/
 local=/maxwin88bonus.xyz/
 local=/maxwin88buy.monster/
 local=/maxwin88buy.website/
-local=/maxwin88cap.icu/
-local=/maxwin88cap.mom/
-local=/maxwin88cap.monster/
-local=/maxwin88cap.site/
-local=/maxwin88cap.website/
 local=/maxwin88cek.buzz/
 local=/maxwin88cek.icu/
 local=/maxwin88cek.mom/
@@ -22708,12 +22696,8 @@ local=/maxwin88famous.top/
 local=/maxwin88famous.website/
 local=/maxwin88famous.xyz/
 local=/maxwin88free.online/
-local=/maxwin88good.homes/
 local=/maxwin88good.life/
-local=/maxwin88good.lol/
-local=/maxwin88good.site/
 local=/maxwin88s.com/
-local=/maxwin88zip.skin/
 local=/maxwin89bg.com/
 local=/maxwin89w15.com/
 local=/maxwin89w4.com/
@@ -28173,8 +28157,6 @@ local=/premierlivecasino.com/
 local=/premioesportemega.net/
 local=/premiumplayvipslots.com/
 local=/preolympusday.xyz/
-local=/maxwin77.presidenslotsabung.xyz/
-local=/maxwin777.presidenslotsabung.xyz/
 local=/presidentepg.vip/
 local=/presidentpilih.com/
 local=/presport.bet/

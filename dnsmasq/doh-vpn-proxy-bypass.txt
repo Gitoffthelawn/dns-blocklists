@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 10:34 UTC
-# Version: 2025.1106.1034.03
+# Last modified: 06 Nov 2025 18:31 UTC
+# Version: 2025.1106.1831.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6762
+# Number of entries: 6772
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -601,6 +601,7 @@ local=/bestaitool.news/
 local=/bestfreevpn.com/
 local=/bestproxy.xyz/
 local=/bestssh.net/
+local=/lebron.is.the.besttoday.ru/
 local=/bestukvpn.com/
 local=/bestvideoproxy.com/
 local=/bestvpn.org/
@@ -718,6 +719,7 @@ local=/cloudns.bosco.ovh/
 local=/botclassic.com/
 local=/pakupaku.bounceme.net/
 local=/dns.bovat.net/
+local=/y9iiz61k4yu67jfgcx.boxathome.net/
 local=/boxpn.com/
 local=/adguard.boykevanvugt.nl/
 local=/adguard2.boykevanvugt.nl/
@@ -758,6 +760,7 @@ local=/buffered.com/
 local=/doh.bugdns.com/
 local=/stratus.bugz.fr/
 local=/bulletvpn.com/
+local=/bum.education/
 local=/bunkerbustervpn.com/
 local=/dns.burgas.pro/
 local=/dns.busold.ws/
@@ -843,9 +846,12 @@ local=/ougonokaze.cheftayebeh.ir/
 local=/dns.chenu.ch/
 local=/adguard.chestnov.ru/
 local=/azulxymadets.chickenkiller.com/
+local=/coolkidd.chickenkiller.com/
+local=/jayisthe.chickenkiller.com/
 local=/jordanmadethis.chickenkiller.com/
 local=/freedns.kiuo-utopias.chickenkiller.com/
 local=/andersonalcantara.my28.chickenkiller.com/
+local=/soulsorcereryt.chickenkiller.com/
 local=/whydidiask.chickenkiller.com/
 local=/doq.chikawa.cc/
 local=/dns.chilimac.net/
@@ -2071,6 +2077,7 @@ local=/dns.floriantinney.de/
 local=/flowvpn.com/
 local=/agh.fltn.us/
 local=/dns.flux24.net/
+local=/javascriptisfuntoeat.com.fluxus.org/
 local=/dns.flwagners.com/
 local=/dns.flyer.vn/
 local=/dns.flymc.cc/
@@ -2386,6 +2393,7 @@ local=/graveofhope.ru/
 local=/greatestfreeproxy.com/
 local=/dns.green-ping.lol/
 local=/adguard.green1052.com/
+local=/c00lkiddtech.ut.greenaudio.ch/
 local=/greenproxy.net/
 local=/greenssh.com/
 local=/greppie.nl/
@@ -3293,6 +3301,7 @@ local=/doh.maskab.com/
 local=/maskedip.com/
 local=/master-clock.us/
 local=/mastergad.me/
+local=/media.level.mastergolfworld.com/
 local=/masters-of-cloud.de/
 local=/masterssh.com/
 local=/dns.mateo.ovh/
@@ -3813,6 +3822,7 @@ local=/dns.omee4.ru/
 local=/omegaproxy.com/
 local=/adguard.oms-ctr.ru/
 local=/onconnect.info/
+local=/idea.guide.dns1.one.pl/
 local=/one.one.one.one/
 local=/doh.onedns.net/
 local=/doh-pure.onedns.net/

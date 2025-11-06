@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 10:27 UTC
-# Version: 2025.1106.1027.33
+# Last modified: 06 Nov 2025 18:25 UTC
+# Version: 2025.1106.1825.43
 # Syntax: Domains (without subdomains)
-# Number of entries: 37690
+# Number of entries: 37672
 #
 0-casino.info
 000-online-casino.com
@@ -3939,7 +3939,6 @@ alexa88slots.com
 alexanderjean.net
 alexis77.store
 alfa4dpro88.com
-alfabetservice.in
 alfabetslot.vip
 alfcasino.com
 alfcasinosx.com
@@ -6770,7 +6769,6 @@ betsuno.store
 betsupermy2.net
 betsurfers25.com
 betsuroute.jp
-betsvictor.com
 betswagger.com
 betswap.gg
 betswing.com
@@ -11513,6 +11511,7 @@ cloud9design.biz
 cloudbet.com
 cloudcasinob.com
 d1i1wfn7hj3mva.cloudfront.net
+d29my8eu7x251e.cloudfront.net
 dlmxz0etq5yy6.cloudfront.net
 cloudoye.com
 cloutbets.fun
@@ -17830,7 +17829,6 @@ icecasinode.com
 icecasinom.com
 icecasinoph.com
 icecasinoromania.com
-icecasinoslots.org
 iceccasino.pl
 icecreammixue.xyz
 icecube.cc
@@ -22609,8 +22607,6 @@ maxwin303mewah.com
 maxwin365.net
 maxwin367.com
 maxwin367.org
-maxwin449.com
-maxwin450.com
 maxwin4d.store
 maxwin4da.lol
 maxwin5000ambon.com
@@ -22632,8 +22628,6 @@ maxwin524.com
 maxwin525.com
 maxwin526.com
 maxwin527.com
-maxwin546.com
-maxwin547.com
 maxwin548.com
 maxwin55.org
 maxwin550.com
@@ -22677,17 +22671,11 @@ maxwin888a.org
 maxwin888daftar.com
 maxwin889.site
 maxwin88bonus.buzz
-maxwin88bonus.cyou
 maxwin88bonus.online
 maxwin88bonus.site
 maxwin88bonus.xyz
 maxwin88buy.monster
 maxwin88buy.website
-maxwin88cap.icu
-maxwin88cap.mom
-maxwin88cap.monster
-maxwin88cap.site
-maxwin88cap.website
 maxwin88cek.buzz
 maxwin88cek.icu
 maxwin88cek.mom
@@ -22708,12 +22696,8 @@ maxwin88famous.top
 maxwin88famous.website
 maxwin88famous.xyz
 maxwin88free.online
-maxwin88good.homes
 maxwin88good.life
-maxwin88good.lol
-maxwin88good.site
 maxwin88s.com
-maxwin88zip.skin
 maxwin89bg.com
 maxwin89w15.com
 maxwin89w4.com
@@ -28173,8 +28157,6 @@ premierlivecasino.com
 premioesportemega.net
 premiumplayvipslots.com
 preolympusday.xyz
-maxwin77.presidenslotsabung.xyz
-maxwin777.presidenslotsabung.xyz
 presidentepg.vip
 presidentpilih.com
 presport.bet

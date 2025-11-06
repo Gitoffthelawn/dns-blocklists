@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762425240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762453860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 10:34 UTC
-; Version: 2025.1106.1034.03
+; Last modified: 06 Nov 2025 18:31 UTC
+; Version: 2025.1106.1831.54
 ; Syntax: RPZ
-; Number of entries: 13524
+; Number of entries: 13544
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -627,6 +627,8 @@ c.cicitt.ch CNAME .
 *.c.cicitt.ch CNAME .
 digitale-gesellschaft.ch CNAME .
 *.digitale-gesellschaft.ch CNAME .
+c00lkiddtech.ut.greenaudio.ch CNAME .
+*.c00lkiddtech.ut.greenaudio.ch CNAME .
 doh.immerda.ch CNAME .
 *.doh.immerda.ch CNAME .
 adg.jabertechnologies.ch CNAME .
@@ -1567,12 +1569,18 @@ adguard.chaudharyarnav.com CNAME .
 *.adguard.chaudharyarnav.com CNAME .
 azulxymadets.chickenkiller.com CNAME .
 *.azulxymadets.chickenkiller.com CNAME .
+coolkidd.chickenkiller.com CNAME .
+*.coolkidd.chickenkiller.com CNAME .
+jayisthe.chickenkiller.com CNAME .
+*.jayisthe.chickenkiller.com CNAME .
 jordanmadethis.chickenkiller.com CNAME .
 *.jordanmadethis.chickenkiller.com CNAME .
 freedns.kiuo-utopias.chickenkiller.com CNAME .
 *.freedns.kiuo-utopias.chickenkiller.com CNAME .
 andersonalcantara.my28.chickenkiller.com CNAME .
 *.andersonalcantara.my28.chickenkiller.com CNAME .
+soulsorcereryt.chickenkiller.com CNAME .
+*.soulsorcereryt.chickenkiller.com CNAME .
 whydidiask.chickenkiller.com CNAME .
 *.whydidiask.chickenkiller.com CNAME .
 chillglobal.com CNAME .
@@ -2845,6 +2853,8 @@ doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
 *.maskedip.com CNAME .
+media.level.mastergolfworld.com CNAME .
+*.media.level.mastergolfworld.com CNAME .
 masterssh.com CNAME .
 *.masterssh.com CNAME .
 dns.matthias-prost.com CNAME .
@@ -6571,6 +6581,8 @@ cluster-0.gac.edu CNAME .
 *.cluster-0.gac.edu CNAME .
 cluster-1.gac.edu CNAME .
 *.cluster-1.gac.edu CNAME .
+bum.education CNAME .
+*.bum.education CNAME .
 dns.cert.ee CNAME .
 *.dns.cert.ee CNAME .
 doh.koduarve.ee CNAME .
@@ -8749,6 +8761,8 @@ pakupaku.bounceme.net CNAME .
 *.pakupaku.bounceme.net CNAME .
 dns.bovat.net CNAME .
 *.dns.bovat.net CNAME .
+y9iiz61k4yu67jfgcx.boxathome.net CNAME .
+*.y9iiz61k4yu67jfgcx.boxathome.net CNAME .
 breakwall.net CNAME .
 *.breakwall.net CNAME .
 dns.brionesserver.net CNAME .
@@ -10677,6 +10691,8 @@ fineproxy.org CNAME .
 *.fineproxy.org CNAME .
 finevpn.org CNAME .
 *.finevpn.org CNAME .
+javascriptisfuntoeat.com.fluxus.org CNAME .
+*.javascriptisfuntoeat.com.fluxus.org CNAME .
 adblock.freeddns.org CNAME .
 *.adblock.freeddns.org CNAME .
 aydank.freeddns.org CNAME .
@@ -11223,6 +11239,8 @@ dns.kzrz.pl CNAME .
 *.dns.kzrz.pl CNAME .
 dns.multi30.pl CNAME .
 *.dns.multi30.pl CNAME .
+idea.guide.dns1.one.pl CNAME .
+*.idea.guide.dns1.one.pl CNAME .
 noads.api.org.pl CNAME .
 *.noads.api.org.pl CNAME .
 dns.panszelescik.pl CNAME .
@@ -11807,6 +11825,8 @@ node3.b4el.ru CNAME .
 *.node3.b4el.ru CNAME .
 baxtri.ru CNAME .
 *.baxtri.ru CNAME .
+lebron.is.the.besttoday.ru CNAME .
+*.lebron.is.the.besttoday.ru CNAME .
 dns1.blackrandcrf.ru CNAME .
 *.dns1.blackrandcrf.ru CNAME .
 blockadhomemoskva.ru CNAME .

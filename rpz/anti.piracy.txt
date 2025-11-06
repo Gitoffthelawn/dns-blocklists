@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762424820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762453560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 10:27 UTC
-; Version: 2025.1106.1027.56
+; Last modified: 06 Nov 2025 18:26 UTC
+; Version: 2025.1106.1826.06
 ; Syntax: RPZ
-; Number of entries: 22506
+; Number of entries: 22508
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1758,6 +1758,8 @@ zamunda.ch CNAME .
 *.zamunda.ch CNAME .
 zer0day.ch CNAME .
 *.zer0day.ch CNAME .
+zoink.ch CNAME .
+*.zoink.ch CNAME .
 hdmovie2.channel CNAME .
 *.hdmovie2.channel CNAME .
 cb01.charity CNAME .
