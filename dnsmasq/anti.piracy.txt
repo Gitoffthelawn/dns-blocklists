@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 02:40 UTC
-# Version: 2025.1107.0240.02
+# Last modified: 07 Nov 2025 09:53 UTC
+# Version: 2025.1107.0953.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11252
+# Number of entries: 11257
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -220,6 +220,7 @@ local=/1load.sx/
 local=/1movies.best/
 local=/1movies.is/
 local=/1movies.life/
+local=/1movies.nl/
 local=/1movieshd.cc/
 local=/1movieshd.com/
 local=/1movietv.com/
@@ -258,6 +259,7 @@ local=/250412.xyz/
 local=/266528.xyz/
 local=/2anime.xyz/
 local=/2bbit.com/
+local=/2bcalvi.com/
 local=/2ddl.it/
 local=/2ddl.ws/
 local=/2embed.cc/
@@ -294,6 +296,7 @@ local=/3dsdb.com/
 local=/3dsiso.com/
 local=/3dsroms.org/
 local=/bt.3kb.xyz/
+local=/3netbd.com/
 local=/3rcommunications.com/
 local=/generatory.3xg.pl/
 local=/402604020.xyz/
@@ -1794,6 +1797,7 @@ local=/cheat-gam3.com/
 local=/cheggit.net/
 local=/sports.chelsealivestream.com/
 local=/cheops.fm/
+local=/cherryclub88.com/
 local=/chia-anime.me/
 local=/chihaya.de/
 local=/chihiro-subs.com/
@@ -10387,6 +10391,7 @@ local=/vidcloudtv.net/
 local=/viddee.store/
 local=/viddseey.site/
 local=/vide.cx/
+local=/vide.ws/
 local=/vide0.com/
 local=/vide0.me/
 local=/vide0.net/

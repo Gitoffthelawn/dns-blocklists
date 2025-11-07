@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762483200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762509180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 02:40 UTC
-; Version: 2025.1107.0240.02
+; Last modified: 07 Nov 2025 09:53 UTC
+; Version: 2025.1107.0953.07
 ; Syntax: RPZ
-; Number of entries: 22504
+; Number of entries: 22514
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2548,6 +2548,8 @@ tracker.0x7c0.com CNAME .
 *.24urban.com CNAME .
 2bbit.com CNAME .
 *.2bbit.com CNAME .
+2bcalvi.com CNAME .
+*.2bcalvi.com CNAME .
 2ix2.com CNAME .
 *.2ix2.com CNAME .
 2kandy.com CNAME .
@@ -2572,6 +2574,8 @@ danime.2ya.com CNAME .
 *.3dsdb.com CNAME .
 3dsiso.com CNAME .
 *.3dsiso.com CNAME .
+3netbd.com CNAME .
+*.3netbd.com CNAME .
 3rcommunications.com CNAME .
 *.3rcommunications.com CNAME .
 456movie.com CNAME .
@@ -3520,6 +3524,8 @@ cheat-gam3.com CNAME .
 *.cheat-gam3.com CNAME .
 sports.chelsealivestream.com CNAME .
 *.sports.chelsealivestream.com CNAME .
+cherryclub88.com CNAME .
+*.cherryclub88.com CNAME .
 chihiro-subs.com CNAME .
 *.chihiro-subs.com CNAME .
 chilebt.com CNAME .
@@ -14494,6 +14500,8 @@ wawacity.ninja CNAME .
 *.wawacity.ninja CNAME .
 wearethereal.ninja CNAME .
 *.wearethereal.ninja CNAME .
+1movies.nl CNAME .
+*.1movies.nl CNAME .
 audiobookbay.nl CNAME .
 *.audiobookbay.nl CNAME .
 bmovies.nl CNAME .
@@ -21998,6 +22006,8 @@ twilight.ws CNAME .
 *.twilight.ws CNAME .
 twoddl.ws CNAME .
 *.twoddl.ws CNAME .
+vide.ws CNAME .
+*.vide.ws CNAME .
 vostfree.ws CNAME .
 *.vostfree.ws CNAME .
 warez-heaven.ws CNAME .

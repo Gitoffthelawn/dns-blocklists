@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Nov 2025 10:33 UTC
-! Version: 2025.1106.1033.55
+! Last modified: 07 Nov 2025 09:52 UTC
+! Version: 2025.1107.0952.00
 ! Syntax: AdBlock
-! Number of entries: 519
+! Number of entries: 552
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -20,12 +20,14 @@
 ||1and1-dns.de^
 ||233py.com^
 ||dns.240527.xyz^
+||doh.30x.me^
 ||dns.354688.xyz^
 ||doh.360.cn^
 ||3dns.eu^
 ||dns.3wv.de^
 ||dns.4-the.win^
 ||vpn.4-the.win^
+||doh.42l.fr^
 ||ns2.4netguides.org^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
@@ -34,6 +36,7 @@
 ||8888.google^
 ||dns.9999.sg^
 ||dns.a47.me^
+||doh.aaaab3n.moe^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.abdullahabas.de^
 ||adl.adfilter.net^
@@ -52,12 +55,15 @@
 ||resolvers-cn.httpdns.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||andrewnw.xyz^
+||doh.angry.im^
 ||doh.apad.pro^
 ||doh.dns.apple.com^
 ||applied-privacy.net^
 ||doh.appliedprivacy.net^
+||doh.armadillodns.net^
 ||nsec.arnor.org^
 ||dns.artikel10.org^
+||doh.asagiri.moe^
 ||dandelionsprout.asuscomm.com^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
@@ -82,13 +88,17 @@
 ||dns.blokada.org^
 ||bluemood.me^
 ||d.bod.lol^
+||doh.bortzmeyer.fr^
 ||cloudns.bosco.ovh^
 ||dns.brahma.world^
 ||bravedns.com^
+||doh.bt.com^
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||callies-online.site^
+||doh.captnemo.in^
 ||catdns.org^
+||doh.ccb-net.it^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
 ||deic-lgb.anycast.censurfridns.dk^
@@ -96,6 +106,7 @@
 ||cfdjb.org^
 ||ibuki.cgnat.net^
 ||chaos-system.de^
+||doh.cippapp.com^
 ||canadianshield.cira.ca^
 ||dns.circl.lu^
 ||cleanbrowsing.org^
@@ -106,6 +117,8 @@
 ||api.cloudflareclient.com^
 ||cloudflareresolve.com^
 ||dns.cmrg.net^
+||doh.cnetwork.cloud^
+||dns.gi.co.id^
 ||ns.nerdytechgeeks.co.za^
 ||sbdns.co.in^
 ||dns.7sec.com.br^
@@ -127,8 +140,10 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
+||doh-primary-pool.detoxifypornblocker.com^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
+||doh.disconnect.app^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -157,6 +172,7 @@
 ||tpa01.dnscry.pt^
 ||tpe01.dnscry.pt^
 ||dns1.dnscrypt.ca^
+||do.dnscrypt.uk^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.pub^
@@ -164,7 +180,9 @@
 ||doh.dnslify.com^
 ||dnslow.me^
 ||chuncheon.dnsovertor.cc^
+||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||dnswebvsn.com^
 ||doh.beauty^
 ||doh.buzz^
 ||doh.li^
@@ -191,6 +209,8 @@
 ||dns.eliv.kr^
 ||eth.link^
 ||opennic1.eth-services.de^
+||dns.extrawdw.net^
+||dns.f4a.fun^
 ||dns.faked.org^
 ||dnsvps.familiamv.net^
 ||dns.fancyorg.at^
@@ -199,6 +219,7 @@
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||fidelius.top^
+||dns.fizz.studio^
 ||doh.flashstart.com^
 ||dns01.flm9.net^
 ||ns1.flodns.net^
@@ -219,12 +240,17 @@
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
+||dns.girino.org^
 ||glacius.top^
+||dns.glorydns.com^
 ||moph.go.th^
+||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
+||dns.grqu.de^
 ||dns.guard.io^
+||dns.guardmydns.com^
 ||gztech.me^
 ||httpdns.ocloud.heytapmobi.com^
 ||dns.hinet.net^
@@ -298,6 +324,7 @@
 ||httpdnsmultiapivip.meituan.com^
 ||testaghome.meshkov.info^
 ||netcup.mismat.ch^
+||dnstls.mobik.com^
 ||morbitzer.de^
 ||ns.mtsoln.com^
 ||dns.mullvad.net^
@@ -325,6 +352,8 @@
 ||d.niaox.com^
 ||odvr.nic.cz^
 ||nickcan.xyz^
+||doh-own-recursion.nicolas-dorriere.fr^
+||doh-random-upstream.nicolas-dorriere.fr^
 ||nicsezcheckfbi.gov^
 ||dns.njal.la^
 ||sink.nolo.ltd^
@@ -337,6 +366,7 @@
 ||ns.nwps.fi^
 ||o1.lt^
 ||one.one.one.one^
+||doh-pure.onedns.net^
 ||tw2.ooroot.com^
 ||openbld.net^
 ||dns.opendns.com^
@@ -392,6 +422,7 @@
 ||dns12.quad9.net^
 ||dns9.quad9.net^
 ||dns.quiet.rocks^
+||dog.dns.qwer.pw^
 ||r1bnc.com^
 ||dns.rabbitdns.org^
 ||ns.ral9005.org^
@@ -424,10 +455,12 @@
 ||ns1.sc-lezhi.com^
 ||schimtar.com^
 ||2.dnscrypt-cert.dns.seby.io^
+||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
 ||d2.shabi.icu^
 ||shalenkov.dev^
+||do.shimul.me^
 ||sitdns.com^
 ||clientdns3.softcom.net^
 ||solaxy.live^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 10:01 UTC
-# Version: 2025.1031.1001.43
+# Last modified: 07 Nov 2025 10:04 UTC
+# Version: 2025.1107.1004.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 220
+# Number of entries: 223
 #
 *.vhs.wwstat.com.eo.unicomcdn.com.cn
 *.adxlog-adnet.vivo.com.cn
@@ -56,6 +56,7 @@
 *.asia-vcode-or.vivoglobal.com
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
+*.br-p.vivoglobal.com
 *.cl-vcode-od.vivoglobal.com
 *.cname-ali-asia-stsdk.vivoglobal.com
 *.cname-asia-st-exappupgrade.vivoglobal.com
@@ -111,6 +112,7 @@
 *.in-apport-stsdk.vivoglobal.com
 *.in-apppnrt-stsdk.vivoglobal.com
 *.in-appprt-stsdk.vivoglobal.com
+*.in-cfg-stsdk.vivoglobal.com
 *.in-cota.vivoglobal.com
 *.in-ctdbonrt-stsdk.vivoglobal.com
 *.in-ctdbort-stsdk.vivoglobal.com
@@ -228,5 +230,6 @@
 *.tr-weather.vivoglobal.com
 *.err.up.vivoglobal.com
 *.xn-ex-adreq-asa-c5b.vivoglobal.com
+*.zasc-cota.vivoglobal.com
 *.h4g3z1-native.vivo.web.app
 *.vhs.wwstat.com

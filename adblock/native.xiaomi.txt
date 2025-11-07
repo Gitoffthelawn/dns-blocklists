@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Oct 2025 15:35 UTC
-! Version: 2025.1020.1535.51
+! Last modified: 07 Nov 2025 10:05 UTC
+! Version: 2025.1107.1005.37
 ! Syntax: AdBlock
-! Number of entries: 360
+! Number of entries: 357
 !
 ||traffic-media.co.uk^
 ||mistat.india.xiaomi.com.edgesuite.net^
@@ -289,7 +289,6 @@
 ||bss.pandora.xiaomi.com^
 ||c3-bgp.pandora.xiaomi.com^
 ||c3mini.pandora.xiaomi.com^
-||c4.pandora.xiaomi.com^
 ||appstore.cdn.pandora.xiaomi.com^
 ||gallery.cdn.pandora.xiaomi.com^
 ||image.cdn.pandora.xiaomi.com^
@@ -320,7 +319,6 @@
 ||shop.pandora.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||bgp.tv.pandora.xiaomi.com^
-||mob.tv.pandora.xiaomi.com^
 ||tvboss.pandora.xiaomi.com^
 ||tvepg.pandora.xiaomi.com^
 ||upgrade.pandora.xiaomi.com^
@@ -369,5 +367,4 @@
 ||emq.xmpush.xiaomi.com^
 ||mina.xmpush.xiaomi.com^
 ||sandbox.xmpush.xiaomi.com^
-||test-api.xmpush.xiaomi.com^
 ||vip-api.xmpush.xiaomi.com^

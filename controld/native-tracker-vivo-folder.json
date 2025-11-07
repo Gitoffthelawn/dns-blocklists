@@ -274,6 +274,13 @@
       }
     },
     {
+      "PK": "br-p.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cl-vcode-od.vivoglobal.com",
       "action": {
         "do": 0,
@@ -674,6 +681,13 @@
     },
     {
       "PK": "in-appprt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "in-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1542,6 +1556,13 @@
     },
     {
       "PK": "xn-ex-adreq-asa-c5b.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-cota.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

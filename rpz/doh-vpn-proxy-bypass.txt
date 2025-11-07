@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762483500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762509120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 02:45 UTC
-; Version: 2025.1107.0245.53
+; Last modified: 07 Nov 2025 09:52 UTC
+; Version: 2025.1107.0952.07
 ; Syntax: RPZ
-; Number of entries: 13540
+; Number of entries: 13574
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -137,6 +137,12 @@ wiqi.app CNAME .
 *.wiqi.app CNAME .
 wirevpn.app CNAME .
 *.wirevpn.app CNAME .
+megaus.asistdoc.ar CNAME .
+*.megaus.asistdoc.ar CNAME .
+linemath.aislantesnuevaera.com.ar CNAME .
+*.linemath.aislantesnuevaera.com.ar CNAME .
+ud.data-express.com.ar CNAME .
+*.ud.data-express.com.ar CNAME .
 dns2.gregoret.com.ar CNAME .
 *.dns2.gregoret.com.ar CNAME .
 adguardcloud.iasm.com.ar CNAME .
@@ -669,6 +675,8 @@ adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
 *.onion.city CNAME .
+ji.alsarica.cl CNAME .
+*.ji.alsarica.cl CNAME .
 owens-engineering-info.aperture.cl CNAME .
 *.owens-engineering-info.aperture.cl CNAME .
 needhelp.callmark.cl CNAME .
@@ -677,6 +685,8 @@ lvpqirhbat.castroyasociados.cl CNAME .
 *.lvpqirhbat.castroyasociados.cl CNAME .
 ab.ctx.cl CNAME .
 *.ab.ctx.cl CNAME .
+deepcs.estiloescencial.cl CNAME .
+*.deepcs.estiloescencial.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
 btg.ludopop.cl CNAME .
@@ -687,8 +697,12 @@ katherine-dns.newcore.cl CNAME .
 *.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
+epicgrammar.quipasur.cl CNAME .
+*.epicgrammar.quipasur.cl CNAME .
 vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 *.vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
+topwriting.redalameda.cl CNAME .
+*.topwriting.redalameda.cl CNAME .
 pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
 start.succeed.cl CNAME .
@@ -2013,6 +2027,8 @@ fastusaproxy.com CNAME .
 *.fastusaproxy.com CNAME .
 fastvpn.com CNAME .
 *.fastvpn.com CNAME .
+clevercoding.fatibara.com CNAME .
+*.clevercoding.fatibara.com CNAME .
 feeproxy.com CNAME .
 *.feeproxy.com CNAME .
 home.fendya.com CNAME .
@@ -2405,6 +2421,8 @@ himedns.com CNAME .
 *.himedns.com CNAME .
 hit-proxy.com CNAME .
 *.hit-proxy.com CNAME .
+xc.hkieca.com CNAME .
+*.xc.hkieca.com CNAME .
 hmavpn.com CNAME .
 *.hmavpn.com CNAME .
 adguard.hoangcongchuc.com CNAME .
@@ -2613,6 +2631,8 @@ dns.itcosc.com CNAME .
 *.dns.itcosc.com CNAME .
 itopvpn.com CNAME .
 *.itopvpn.com CNAME .
+fl.ittqc.com CNAME .
+*.fl.ittqc.com CNAME .
 dns.itwht.com CNAME .
 *.dns.itwht.com CNAME .
 iuproxy.com CNAME .
@@ -2853,6 +2873,8 @@ doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
 *.maskedip.com CNAME .
+ultraus.masplenedigitalworld.com CNAME .
+*.ultraus.masplenedigitalworld.com CNAME .
 masterssh.com CNAME .
 *.masterssh.com CNAME .
 dns.matthias-prost.com CNAME .
@@ -2965,6 +2987,8 @@ nas-scheiben34.myasustor.com CNAME .
 *.nas-scheiben34.myasustor.com CNAME .
 zanty123456.myasustor.com CNAME .
 *.zanty123456.myasustor.com CNAME .
+nyc.mycityulife.com CNAME .
+*.nyc.mycityulife.com CNAME .
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
 *.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
 example.myclarevision.com CNAME .
@@ -3287,6 +3311,8 @@ draco.plan9-ns2.com CNAME .
 *.draco.plan9-ns2.com CNAME .
 play5r.com CNAME .
 *.play5r.com CNAME .
+edu.playariviera.com CNAME .
+*.edu.playariviera.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 *.secure-dns.pleumkungz.com CNAME .
 thanos.pleumkungz.com CNAME .
@@ -7663,6 +7689,8 @@ theproxy.ink CNAME .
 *.theproxy.ink CNAME .
 dns.tracker.ink CNAME .
 *.dns.tracker.ink CNAME .
+bannana.web-doge.42web.io CNAME .
+*.bannana.web-doge.42web.io CNAME .
 adguard.io CNAME .
 *.adguard.io CNAME .
 anonvpn.io CNAME .
@@ -7881,6 +7909,8 @@ grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 *.grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 ougonokaze.cheftayebeh.ir CNAME .
 *.ougonokaze.cheftayebeh.ir CNAME .
+qh.cheftayebeh.ir CNAME .
+*.qh.cheftayebeh.ir CNAME .
 de.deghy.ir CNAME .
 *.de.deghy.ir CNAME .
 th1.dnsfinder.ir CNAME .
@@ -10417,6 +10447,8 @@ ns2.4netguides.org CNAME .
 *.ns2.4netguides.org CNAME .
 dns.52306.org CNAME .
 *.dns.52306.org CNAME .
+9w9.org CNAME .
+*.9w9.org CNAME .
 vir.accesscam.org CNAME .
 *.vir.accesscam.org CNAME .
 adg.acrobyte.org CNAME .
@@ -11757,6 +11789,8 @@ dns.cloud.ionutl.ro CNAME .
 *.dns.cloud.ionutl.ro CNAME .
 dns.itdata.ro CNAME .
 *.dns.itdata.ro CNAME .
+brighthistory.juniorjobs.ro CNAME .
+*.brighthistory.juniorjobs.ro CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 dns1.slowb.ro CNAME .

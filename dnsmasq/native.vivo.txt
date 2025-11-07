@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 10:01 UTC
-# Version: 2025.1031.1001.43
+# Last modified: 07 Nov 2025 10:04 UTC
+# Version: 2025.1107.1004.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 220
+# Number of entries: 223
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/adxlog-adnet.vivo.com.cn/
@@ -56,6 +56,7 @@ local=/asia-vcode-od.vivoglobal.com/
 local=/asia-vcode-or.vivoglobal.com/
 local=/asia-vpushonrt-stsdk.vivoglobal.com/
 local=/asia-vpushort-stsdk.vivoglobal.com/
+local=/br-p.vivoglobal.com/
 local=/cl-vcode-od.vivoglobal.com/
 local=/cname-ali-asia-stsdk.vivoglobal.com/
 local=/cname-asia-st-exappupgrade.vivoglobal.com/
@@ -111,6 +112,7 @@ local=/in-apponrt-stsdk.vivoglobal.com/
 local=/in-apport-stsdk.vivoglobal.com/
 local=/in-apppnrt-stsdk.vivoglobal.com/
 local=/in-appprt-stsdk.vivoglobal.com/
+local=/in-cfg-stsdk.vivoglobal.com/
 local=/in-cota.vivoglobal.com/
 local=/in-ctdbonrt-stsdk.vivoglobal.com/
 local=/in-ctdbort-stsdk.vivoglobal.com/
@@ -228,5 +230,6 @@ local=/tr-vcode-or.vivoglobal.com/
 local=/tr-weather.vivoglobal.com/
 local=/err.up.vivoglobal.com/
 local=/xn-ex-adreq-asa-c5b.vivoglobal.com/
+local=/zasc-cota.vivoglobal.com/
 local=/h4g3z1-native.vivo.web.app/
 local=/vhs.wwstat.com/

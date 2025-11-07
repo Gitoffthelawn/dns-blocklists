@@ -834,13 +834,6 @@
       }
     },
     {
-      "PK": "rnd-aresocean-commercial.huawei.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "rnd-cbgpas01.huawei.com",
       "action": {
         "do": 0,

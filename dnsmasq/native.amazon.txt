@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 09:56 UTC
-# Version: 2025.1031.0956.36
+# Last modified: 07 Nov 2025 09:59 UTC
+# Version: 2025.1107.0959.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 313
+# Number of entries: 311
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -138,7 +138,6 @@ local=/axp.amazon-adsystem.com/
 local=/bugs.firebat.prime-video.amazon.dev/
 local=/bugsnag-event.monitor.core.app.alexa.a2z.com/
 local=/bugsnag-session.monitor.core.app.alexa.a2z.com/
-local=/bugsnag.appstore.a2z.com/
 local=/bugsnag.shopbop.amazon.dev/
 local=/c.amazon-adsystem.com/
 local=/cdn-a.amazon-adsystem.com/
@@ -300,7 +299,6 @@ local=/vfw-ap.amazon-adsystem.com/
 local=/vfw-eu-gamma.amazon-adsystem.com/
 local=/vfw-eu.amazon-adsystem.com/
 local=/vfw-gamma.amazon-adsystem.com/
-local=/vfw-us-gamma.amazon-adsystem.com/
 local=/vfw-us-west-gamma.amazon-adsystem.com/
 local=/vfw-us-west.amazon-adsystem.com/
 local=/vfw-us.amazon-adsystem.com/

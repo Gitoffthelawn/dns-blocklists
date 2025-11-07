@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:55 UTC
-# Version: 2025.1017.2255.24
+# Last modified: 07 Nov 2025 10:00 UTC
+# Version: 2025.1107.1000.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 122
+# Number of entries: 121
 #
 local=/browsercfg-drcn.cloud.dbankcloud.cn/
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
@@ -115,7 +115,6 @@ local=/log-dre.platform.hihonorcloud.com/
 local=/log-drru.platform.hihonorcloud.com/
 local=/ads.cloud.huawei.com/
 local=/ads-drru.cloud.huawei.ru/
-local=/rnd-aresocean-commercial.huawei.com/
 local=/rnd-cbgpas01.huawei.com/
 local=/uba.huaweicloud.com/
 local=/nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com/

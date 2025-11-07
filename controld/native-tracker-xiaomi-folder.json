@@ -547,13 +547,6 @@
       }
     },
     {
-      "PK": "c4.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "callback.xmpush.xiaomi.com",
       "action": {
         "do": 0,
@@ -1520,13 +1513,6 @@
       }
     },
     {
-      "PK": "mob.tv.pandora.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "mon.be.xiaomi.com",
       "action": {
         "do": 0,
@@ -2228,13 +2214,6 @@
     },
     {
       "PK": "test.admin.xmpush.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "test-api.xmpush.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

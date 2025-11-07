@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 15:35 UTC
-# Version: 2025.1020.1535.51
+# Last modified: 07 Nov 2025 10:05 UTC
+# Version: 2025.1107.1005.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 360
+# Number of entries: 357
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -288,7 +288,6 @@ local=/box.pandora.xiaomi.com/
 local=/bss.pandora.xiaomi.com/
 local=/c3-bgp.pandora.xiaomi.com/
 local=/c3mini.pandora.xiaomi.com/
-local=/c4.pandora.xiaomi.com/
 local=/appstore.cdn.pandora.xiaomi.com/
 local=/gallery.cdn.pandora.xiaomi.com/
 local=/image.cdn.pandora.xiaomi.com/
@@ -319,7 +318,6 @@ local=/bsp.sasdc.pandora.xiaomi.com/
 local=/shop.pandora.xiaomi.com/
 local=/stat.pandora.xiaomi.com/
 local=/bgp.tv.pandora.xiaomi.com/
-local=/mob.tv.pandora.xiaomi.com/
 local=/tvboss.pandora.xiaomi.com/
 local=/tvepg.pandora.xiaomi.com/
 local=/upgrade.pandora.xiaomi.com/
@@ -368,5 +366,4 @@ local=/callback.xmpush.xiaomi.com/
 local=/emq.xmpush.xiaomi.com/
 local=/mina.xmpush.xiaomi.com/
 local=/sandbox.xmpush.xiaomi.com/
-local=/test-api.xmpush.xiaomi.com/
 local=/vip-api.xmpush.xiaomi.com/

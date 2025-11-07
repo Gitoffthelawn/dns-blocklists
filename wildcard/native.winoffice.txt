@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 09:57 UTC
-# Version: 2025.1031.0957.19
+# Last modified: 07 Nov 2025 10:00 UTC
+# Version: 2025.1107.1000.12
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 375
 #
@@ -49,6 +49,7 @@
 *.raka.bing.com
 *.c.bingapis.com
 *.insights.cloud.microsoft
+*.westus-0.in.applicationinsights.azure.com.drandts.co.uk
 *.measure.office.net.edgesuite.net
 *.collector.azure.eaglex.ic.gov
 *.analytics.live.com
@@ -299,7 +300,6 @@
 *.analytics.trafficmanager.net
 *.analytics-listener.trafficmanager.net
 *.beacons.trafficmanager.net
-*.bf-analytics-tracker-tm.trafficmanager.net
 *.bingads.trafficmanager.net
 *.ch-asimov-leafs-events-data.trafficmanager.net
 *.collector-main.trafficmanager.net

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 09:54 UTC
-# Version: 2025.1031.0954.56
+# Last modified: 07 Nov 2025 09:57 UTC
+# Version: 2025.1107.0957.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 882
+# Number of entries: 883
 #
 2ch.org
 4cdn.org
@@ -679,6 +679,7 @@ p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 p16-tiktok-ls-product-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com
+p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 parse.com
 periscope.tv

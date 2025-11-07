@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 09:57 UTC
-# Version: 2025.1031.0957.19
+# Last modified: 07 Nov 2025 10:00 UTC
+# Version: 2025.1107.1000.12
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 375
 #
@@ -49,6 +49,7 @@ local=/g.bing.com/
 local=/raka.bing.com/
 local=/c.bingapis.com/
 local=/insights.cloud.microsoft/
+local=/westus-0.in.applicationinsights.azure.com.drandts.co.uk/
 local=/measure.office.net.edgesuite.net/
 local=/collector.azure.eaglex.ic.gov/
 local=/analytics.live.com/
@@ -299,7 +300,6 @@ local=/agps-location-livenet.trafficmanager.net/
 local=/analytics.trafficmanager.net/
 local=/analytics-listener.trafficmanager.net/
 local=/beacons.trafficmanager.net/
-local=/bf-analytics-tracker-tm.trafficmanager.net/
 local=/bingads.trafficmanager.net/
 local=/ch-asimov-leafs-events-data.trafficmanager.net/
 local=/collector-main.trafficmanager.net/

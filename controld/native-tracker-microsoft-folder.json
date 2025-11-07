@@ -379,13 +379,6 @@
       }
     },
     {
-      "PK": "bf-analytics-tracker-tm.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bingads.microsoft.com",
       "action": {
         "do": 0,
@@ -2578,6 +2571,13 @@
     },
     {
       "PK": "wayfinderanalytics.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "westus-0.in.applicationinsights.azure.com.drandts.co.uk",
       "action": {
         "do": 0,
         "status": 1
