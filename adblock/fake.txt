@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 05:27 UTC
-! Version: 2025.1109.0527.37
+! Last modified: 09 Nov 2025 09:27 UTC
+! Version: 2025.1109.0927.15
 ! Syntax: AdBlock
-! Number of entries: 14279
+! Number of entries: 14298
 !
 ||01broker.com^
 ||01crypto.com^
@@ -280,7 +280,6 @@
 ||akku-laden.at^
 ||akku-staubsauger.eu^
 ||akkuschrauber-heinrich.com^
-||akkusmir.de^
 ||akkusnotebook.at^
 ||akronreia.com^
 ||akselinvest.pro^
@@ -1679,6 +1678,7 @@
 ||blue-mart.shop^
 ||bluebananabrandeu.shop^
 ||bluebellalingerie.com^
+||blueblom.com^
 ||blueboltchargers.com^
 ||bluecasadecor.com^
 ||bluehend-land.de^
@@ -2401,7 +2401,6 @@
 ||cliniqueloccitane.com^
 ||clisicerity.com^
 ||clivechristianuk.com^
-||cllusatoam.com^
 ||clockwisek.com^
 ||clorislife.com^
 ||clotha-boutique.de^
@@ -6503,7 +6502,6 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
-||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -6600,7 +6598,6 @@
 ||intonationu.com^
 ||introducek.com^
 ||introductiont.com^
-||inumerabl.com^
 ||invaluablte.com^
 ||inventoryretailer.com^
 ||platform.invesco-trading.com^
@@ -9246,7 +9243,6 @@
 ||northwaveoff.com^
 ||northwavestore.com^
 ||norvatix.io^
-||norwayhotel.net^
 ||not-bad.shop^
 ||not-schlosser.at^
 ||notationi.com^
@@ -9502,7 +9498,6 @@
 ||onlinekamagra.com^
 ||onlinekmnwi.com^
 ||onlinekuche.com^
-||app.onlinelebenslauf.com^
 ||onlinemaripe.com^
 ||onlinemessershop.com^
 ||onlinepharmx.com^
@@ -10321,7 +10316,6 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
-||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -12360,6 +12354,7 @@
 ||tbyyf.com^
 ||tbz-versand.de^
 ||tchibode.shop^
+||tchibooo-de.shop^
 ||tchiboutlets.shop^
 ||tcomplex.de^
 ||tddexpresslogistics.com^
@@ -12388,6 +12383,7 @@
 ||techno-x.de^
 ||technologiesgroup.org^
 ||technologykr.com^
+||technopers.com^
 ||techswap.de^
 ||techtaskforcede.com^
 ||techtraum.com^
@@ -12395,6 +12391,7 @@
 ||techvantagens.com^
 ||techviy.com^
 ||ted-bakerdeutschland.de^
+||tedbaker-berlin.de^
 ||tedbakereesti.com^
 ||tedbakerireland.net^
 ||tedbakeroutletsuomi.com^
@@ -12429,6 +12426,7 @@
 ||teniskyunderarmour.sk^
 ||tennis-babolat.com^
 ||tennisbedarf.com^
+||tentssaleshop.com^
 ||teodoroautopecas.com^
 ||terange.com^
 ||terea-polen.com^
@@ -12453,6 +12451,8 @@
 ||testheld.me^
 ||testorino.de^
 ||tether-group.com^
+||tetherc.com^
+||teufel-eu.shop^
 ||teva-austria.com^
 ||teva-osterreich.at^
 ||teva-polska.com^
@@ -12481,6 +12481,7 @@
 ||thanesar.com^
 ||thatistsay.com^
 ||the-beauty-trends.de^
+||the-ethereumcode-pro.com^
 ||the-faze.com^
 ||the-gentleman.store^
 ||the-immediateconnect.com^
@@ -12498,6 +12499,7 @@
 ||thebellabelle.com^
 ||thebitindex.ai^
 ||ge.thebloomcar.com^
+||thebookishshop.shop^
 ||thebrooklyn.net^
 ||thebutlerspecialty.com^
 ||thecameron.xyz^
@@ -12572,6 +12574,7 @@
 ||thesneakershouse.com^
 ||thesportcategory.com^
 ||thesportsua.com^
+||thestarnewstoday.com^
 ||thestoragecleaning.com^
 ||thetabuy.com^
 ||thetennisaccessories.com^
@@ -12720,6 +12723,7 @@
 ||tonies-rabattpreis.com^
 ||tonies-sonderangebot.com^
 ||tonies-spezialangebot.com^
+||tooeut.com^
 ||tool-discount.com^
 ||toolandmaintenance.com^
 ||toolburndy.com^
@@ -12755,6 +12759,7 @@
 ||topbrennstoffe.de^
 ||topcollectibleshop.com^
 ||topdrap.com^
+||topeuro-shop.com^
 ||topfahrradzubehor.com^
 ||topflexibility.com^
 ||topgood.xyz^
@@ -12789,6 +12794,7 @@
 ||tormeister.at^
 ||torontonewsnet.com^
 ||toryburchosterreich.com^
+||tosahomeappliances.com^
 ||totogifthouse.com^
 ||totrendybags.com^
 ||toutetplus.com^
@@ -12926,6 +12932,7 @@
 ||trendzo.org^
 ||trennschleiferde.com^
 ||trenzjar.com^
+||trexox.com^
 ||trikoa.com^
 ||trikotarena.com^
 ||trikotfachshop.com^
@@ -12940,6 +12947,7 @@
 ||trockenesholz.de^
 ||troiphveilla.de^
 ||troll-kinderladen.com^
+||tronixrise.com^
 ||tropical-rain-forest.net^
 ||tropical-tides.com^
 ||tropicaltopics.com^
@@ -12991,12 +12999,15 @@
 ||ttl-logistik.de^
 ||tttrilliant-fx.net^
 ||tucnea.com^
+||tudio.de^
 ||tuftex-balloons.com^
 ||tuinbalkon.com^
 ||tunepart.com^
 ||tuninglinie.de^
 ||tupforward.com^
 ||tupperware-de.shop^
+||tupperware-uaeonline.com^
+||tupperwarestore-us.com^
 ||tupperwarestores.com^
 ||turbolidlcraft.com^
 ||turboplanter.at^
@@ -13024,6 +13035,7 @@
 ||tyrwien.at^
 ||tyu-trade.com^
 ||u-inv.com^
+||uaedisscount.com^
 ||uaqcx.shop^
 ||uastudioshop.com^
 ||ubadindies.top^
@@ -13043,8 +13055,10 @@
 ||uhren-heinrich.com^
 ||uhren-walter.com^
 ||uhrenvip.de^
+||uhrhaus24.de^
 ||uhrstern.net^
 ||uhvcti.shop^
+||adidasuk.uk.com^
 ||adidasyeezy.uk.com^
 ||dunkluu.uk.com^
 ||jordan1.uk.com^
@@ -13058,6 +13072,7 @@
 ||ukchristmasdecor.com^
 ||ukeprice.com^
 ||ulbey.com^
+||ulends.fr^
 ||ullis-immo.com^
 ||ulta-beauty-us.com^
 ||at.ultimate-gainz.com^
@@ -13101,11 +13116,14 @@
 ||unique-exchange.co^
 ||uniquego.com^
 ||uniqueshop-us.com^
+||unisonmen.de^
 ||unitechnica.com^
 ||united-meds.com^
+||uniteddeliveryagency.com^
 ||unitednudesale.com^
 ||unityappliances.store^
 ||unitywait.com^
+||universalbourse.com^
 ||universalbundle.com^
 ||universalcyclinghelmet.com^
 ||universalprotection.de^
@@ -13161,6 +13179,7 @@
 ||yeezy-700.us.com^
 ||yeezy-shoes.us.com^
 ||yeezy350s.us.com^
+||yeezyadidass.us.com^
 ||yeezyslides.us.com^
 ||yeezyy.us.com^
 ||yzyshoes.us.com^

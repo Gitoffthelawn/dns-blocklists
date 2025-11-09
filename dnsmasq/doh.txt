@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 02:36 UTC
-# Version: 2025.1109.0236.21
+# Last modified: 09 Nov 2025 10:35 UTC
+# Version: 2025.1109.1035.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3385
+# Number of entries: 3386
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3105,6 +3105,7 @@ local=/dns.trust404.win/
 local=/truta.org/
 local=/swe.try-dns.com/
 local=/dns.tryk.app/
+local=/adg.tshost.no/
 local=/net.tt6.net/
 local=/doh.ibr.cs.tu-bs.de/
 local=/dns.tuankhaiit.com/

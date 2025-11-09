@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762666140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762680480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 05:29 UTC
-; Version: 2025.1109.0529.19
+; Last modified: 09 Nov 2025 09:28 UTC
+; Version: 2025.1109.0928.53
 ; Syntax: RPZ
-; Number of entries: 18870
+; Number of entries: 18892
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1709,6 +1709,8 @@ uos.cc CNAME .
 *.uos.cc CNAME .
 urlbox.cc CNAME .
 *.urlbox.cc CNAME .
+urlday.cc CNAME .
+*.urlday.cc CNAME .
 urlme.cc CNAME .
 *.urlme.cc CNAME .
 urlsshares.cc CNAME .
@@ -6331,6 +6333,8 @@ teenyfy.com CNAME .
 *.teenyfy.com CNAME .
 teknut.com CNAME .
 *.teknut.com CNAME .
+telegramviral.com CNAME .
+*.telegramviral.com CNAME .
 developer.telesign.com CNAME .
 *.developer.telesign.com CNAME .
 tellurl.com CNAME .
@@ -6365,6 +6369,8 @@ thejoekuskie.com CNAME .
 *.thejoekuskie.com CNAME .
 chat.thekphub.com CNAME .
 *.chat.thekphub.com CNAME .
+thekreww.com CNAME .
+*.thekreww.com CNAME .
 thelinkmaster.com CNAME .
 *.thelinkmaster.com CNAME .
 themestub.com CNAME .
@@ -6455,6 +6461,8 @@ titaniumlinks.com CNAME .
 *.titaniumlinks.com CNAME .
 titleagentmarketing.com CNAME .
 *.titleagentmarketing.com CNAME .
+tkkor.com CNAME .
+*.tkkor.com CNAME .
 tklinknow.com CNAME .
 *.tklinknow.com CNAME .
 tklinks.com CNAME .
@@ -6699,6 +6707,8 @@ urlbind.com CNAME .
 *.urlbind.com CNAME .
 urlbity.com CNAME .
 *.urlbity.com CNAME .
+urlbrief.com CNAME .
+*.urlbrief.com CNAME .
 urlcentre.com CNAME .
 *.urlcentre.com CNAME .
 urlcort.com CNAME .
@@ -6741,6 +6751,8 @@ urlifypoint.com CNAME .
 *.urlifypoint.com CNAME .
 urlifys.com CNAME .
 *.urlifys.com CNAME .
+urlinko.com CNAME .
+*.urlinko.com CNAME .
 urlintel.com CNAME .
 *.urlintel.com CNAME .
 urlkai.com CNAME .
@@ -7513,6 +7525,8 @@ go.tomary.de CNAME .
 *.go.tomary.de CNAME .
 lnk.tu-bs.de CNAME .
 *.lnk.tu-bs.de CNAME .
+twiturl.de CNAME .
+*.twiturl.de CNAME .
 u6e.de CNAME .
 *.u6e.de CNAME .
 ukoeln.de CNAME .
@@ -7859,6 +7873,8 @@ smlk.es CNAME .
 *.smlk.es CNAME .
 thetim.es CNAME .
 *.thetim.es CNAME .
+thrdl.es CNAME .
+*.thrdl.es CNAME .
 tkz.es CNAME .
 *.tkz.es CNAME .
 tnot.es CNAME .
@@ -11199,6 +11215,8 @@ offzo.lat CNAME .
 *.offzo.lat CNAME .
 slink.lat CNAME .
 *.slink.lat CNAME .
+tik.lat CNAME .
+*.tik.lat CNAME .
 tvt.lat CNAME .
 *.tvt.lat CNAME .
 whcs.law CNAME .
@@ -17475,6 +17493,8 @@ thrill.to CNAME .
 *.thrill.to CNAME .
 tnw.to CNAME .
 *.tnw.to CNAME .
+trimmer.to CNAME .
+*.trimmer.to CNAME .
 trot.to CNAME .
 *.trot.to CNAME .
 trydevi.to CNAME .
@@ -18541,6 +18561,8 @@ ss777.win CNAME .
 *.ss777.win CNAME .
 tinyurl.win CNAME .
 *.tinyurl.win CNAME .
+twitspin.win CNAME .
+*.twitspin.win CNAME .
 vpn2.win CNAME .
 *.vpn2.win CNAME .
 jetzt.work CNAME .

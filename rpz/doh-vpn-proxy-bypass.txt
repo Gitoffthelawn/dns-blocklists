@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762670280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762684560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 06:38 UTC
-; Version: 2025.1109.0638.44
+; Last modified: 09 Nov 2025 10:36 UTC
+; Version: 2025.1109.1036.19
 ; Syntax: RPZ
-; Number of entries: 13710
+; Number of entries: 13722
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -329,6 +329,8 @@ unblock3d.biz CNAME .
 *.unblock3d.biz CNAME .
 unblockbook.biz CNAME .
 *.unblockbook.biz CNAME .
+unblocked.biz CNAME .
+*.unblocked.biz CNAME .
 unblocked2.biz CNAME .
 *.unblocked2.biz CNAME .
 unblocksite.biz CNAME .
@@ -7701,6 +7703,10 @@ surfbytes.info CNAME .
 *.surfbytes.info CNAME .
 vpn.technicule.info CNAME .
 *.vpn.technicule.info CNAME .
+testvpn.info CNAME .
+*.testvpn.info CNAME .
+thebestproxy.info CNAME .
+*.thebestproxy.info CNAME .
 login.thegalleryofart.info CNAME .
 *.login.thegalleryofart.info CNAME .
 theproxy2.info CNAME .
@@ -7709,6 +7715,8 @@ topsecure.info CNAME .
 *.topsecure.info CNAME .
 tradeadspace.info CNAME .
 *.tradeadspace.info CNAME .
+travelvpn.info CNAME .
+*.travelvpn.info CNAME .
 tvone.info CNAME .
 *.tvone.info CNAME .
 ublocker.info CNAME .
@@ -10045,6 +10053,8 @@ ultimateproxy.net CNAME .
 *.ultimateproxy.net CNAME .
 ultrafun.net CNAME .
 *.ultrafun.net CNAME .
+unblockblocked.net CNAME .
+*.unblockblocked.net CNAME .
 unblocked2.net CNAME .
 *.unblocked2.net CNAME .
 unblockedonline.net CNAME .
@@ -10315,6 +10325,8 @@ adguard.wirimij.nl CNAME .
 *.adguard.wirimij.nl CNAME .
 dns.anon.no CNAME .
 *.dns.anon.no CNAME .
+adg.tshost.no CNAME .
+*.adg.tshost.no CNAME .
 pleaseworkiwantutopia.faizinternational.com.np CNAME .
 *.pleaseworkiwantutopia.faizinternational.com.np CNAME .
 bdns.nu CNAME .

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 05:29 UTC
-! Version: 2025.1109.0529.19
+! Last modified: 09 Nov 2025 09:28 UTC
+! Version: 2025.1109.0928.53
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -6686,7 +6686,6 @@
 @@||shorturl.lk^
 @@||shorturl.re^
 @@||shorturl.ru^
-@@||shorturl.win^
 @@||shorturl.ws^
 @@||shorturl88.com^
 @@||shorturlapp.com^
@@ -7393,6 +7392,7 @@
 @@||tek.io^
 @@||teknut.com^
 @@||telega.io^
+@@||telegramviral.com^
 @@||teleko.me^
 @@||developer.telesign.com^
 @@||tellurl.com^
@@ -7451,6 +7451,7 @@
 @@||thein.fo^
 @@||thejoekuskie.com^
 @@||chat.thekphub.com^
+@@||thekreww.com^
 @@||thelegends.land^
 @@||thelinkmaster.com^
 @@||themestub.com^
@@ -7480,6 +7481,7 @@
 @@||thoschi.com^
 @@||thpsn.org^
 @@||thr.cm^
+@@||thrdl.es^
 @@||thrill.to^
 @@||thts.gg^
 @@||thursik.com^
@@ -7504,6 +7506,7 @@
 @@||tighturl.com^
 @@||tiis.cc^
 @@||tik.la^
+@@||tik.lat^
 @@||tik.lol^
 @@||tik.so^
 @@||tiklagit.net^
@@ -7609,6 +7612,7 @@
 @@||tiy.be^
 @@||tj.wtf^
 @@||tj-bet88.store^
+@@||tkkor.com^
 @@||tkla.be^
 @@||tklinknow.com^
 @@||tklinks.com^
@@ -7779,6 +7783,7 @@
 @@||trimlink.net^
 @@||trimlynk.com^
 @@||trimm.link^
+@@||trimmer.to^
 @@||trimrly.com^
 @@||trimrr.link^
 @@||trims.me^
@@ -7886,7 +7891,9 @@
 @@||twirl.at^
 @@||twishx.com^
 @@||twishx.io^
+@@||twitspin.win^
 @@||twitthis.com^
+@@||twiturl.de^
 @@||twixar.com^
 @@||twm5g.co^
 @@||two.re^
@@ -8104,6 +8111,7 @@
 @@||urlbit.pro^
 @@||urlbity.com^
 @@||urlbox.cc^
+@@||urlbrief.com^
 @@||urlbutter.link^
 @@||urlc.net^
 @@||urlcentre.com^
@@ -8116,6 +8124,7 @@
 @@||urlcut.com^
 @@||urlcut.cv^
 @@||urlcut.in^
+@@||urlday.cc^
 @@||urlday.com^
 @@||urldeclic.com^
 @@||urldirect21-1.org^
@@ -8150,6 +8159,7 @@
 @@||urlifys.com^
 @@||urlin.bio^
 @@||urlin.it^
+@@||urlinko.com^
 @@||urlinkz.me^
 @@||urlino.net^
 @@||urlintel.com^

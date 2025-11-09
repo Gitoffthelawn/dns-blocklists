@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 06:38 UTC
-# Version: 2025.1109.0638.44
+# Last modified: 09 Nov 2025 10:36 UTC
+# Version: 2025.1109.1036.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6855
+# Number of entries: 6861
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -5891,10 +5891,12 @@ local=/sg.teradns.org/
 local=/apne1.dns.terumi.club/
 local=/dns.soldier.terumi.club/
 local=/dns.tesem.dog/
+local=/testvpn.info/
 local=/adguard.tetnet.net/
 local=/cloud.tezoi.com/
 local=/thankvpn.com/
 local=/the-cloak.com/
+local=/thebestproxy.info/
 local=/thebestvpn.com/
 local=/dns.thebuckners.org/
 local=/theclickcheck.com/
@@ -6045,6 +6047,7 @@ local=/traffmonetizer.com/
 local=/resolv1.trash.net/
 local=/resolv2.trash.net/
 local=/resolv3.trash.net/
+local=/travelvpn.info/
 local=/travelvpn.net/
 local=/ns.trcnet.fi/
 local=/adguard.treexhd.me/
@@ -6070,6 +6073,7 @@ local=/truta.org/
 local=/swe.try-dns.com/
 local=/dns.tryk.app/
 local=/arxthegoat.ts0880.es/
+local=/adg.tshost.no/
 local=/seible.tsurukawa.org/
 local=/net.tt6.net/
 local=/doh.ibr.cs.tu-bs.de/
@@ -6152,11 +6156,13 @@ local=/unblockaccess.com/
 local=/unblockadultsites.com/
 local=/unblockandsurf.com/
 local=/unblockanything.com/
+local=/unblockblocked.net/
 local=/unblockbook.biz/
 local=/unblockdirect.com/
 local=/unblocked.ac/
 local=/unblocked.africa/
 local=/unblocked.asia/
+local=/unblocked.biz/
 local=/unblocked.black/
 local=/unblocked.buzz/
 local=/unblocked.cloud/

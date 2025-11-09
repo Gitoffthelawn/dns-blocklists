@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 02:36 UTC
-# Version: 2025.1109.0236.21
+# Last modified: 09 Nov 2025 10:35 UTC
+# Version: 2025.1109.1035.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3861
+# Number of entries: 3862
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3538,6 +3538,7 @@
 0.0.0.0 truta.org
 0.0.0.0 swe.try-dns.com
 0.0.0.0 dns.tryk.app
+0.0.0.0 adg.tshost.no
 0.0.0.0 net.tt6.net
 0.0.0.0 doh.ibr.cs.tu-bs.de
 0.0.0.0 dns.tuankhaiit.com

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 05:29 UTC
-# Version: 2025.1109.0529.19
+# Last modified: 09 Nov 2025 09:28 UTC
+# Version: 2025.1109.0928.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9435
+# Number of entries: 9446
 #
 local=/0.gp/
 local=/00m.in/
@@ -7587,6 +7587,7 @@ local=/teil.cc/
 local=/tek.io/
 local=/teknut.com/
 local=/telega.io/
+local=/telegramviral.com/
 local=/teleko.me/
 local=/developer.telesign.com/
 local=/tellurl.com/
@@ -7647,6 +7648,7 @@ local=/thefunkymonkey.lu/
 local=/thein.fo/
 local=/thejoekuskie.com/
 local=/chat.thekphub.com/
+local=/thekreww.com/
 local=/thelegends.land/
 local=/thelinkmaster.com/
 local=/themestub.com/
@@ -7677,6 +7679,7 @@ local=/thn.news/
 local=/thoschi.com/
 local=/thpsn.org/
 local=/thr.cm/
+local=/thrdl.es/
 local=/thrill.to/
 local=/thts.gg/
 local=/thursik.com/
@@ -7701,6 +7704,7 @@ local=/tigerlink.me/
 local=/tighturl.com/
 local=/tiis.cc/
 local=/tik.la/
+local=/tik.lat/
 local=/tik.lol/
 local=/tik.so/
 local=/tiklagit.net/
@@ -7809,6 +7813,7 @@ local=/tiurl.link/
 local=/tiy.be/
 local=/tj.wtf/
 local=/tj-bet88.store/
+local=/tkkor.com/
 local=/tkla.be/
 local=/tklinknow.com/
 local=/tklinks.com/
@@ -7980,6 +7985,7 @@ local=/trimlink.ai/
 local=/trimlink.net/
 local=/trimlynk.com/
 local=/trimm.link/
+local=/trimmer.to/
 local=/trimrly.com/
 local=/trimrr.link/
 local=/trims.me/
@@ -8087,8 +8093,10 @@ local=/twilink.me/
 local=/twirl.at/
 local=/twishx.com/
 local=/twishx.io/
+local=/twitspin.win/
 local=/twitterpan.com/
 local=/twitthis.com/
+local=/twiturl.de/
 local=/twixar.com/
 local=/twm5g.co/
 local=/two.re/
@@ -8315,6 +8323,7 @@ local=/urlbit.online/
 local=/urlbit.pro/
 local=/urlbity.com/
 local=/urlbox.cc/
+local=/urlbrief.com/
 local=/urlbutter.link/
 local=/urlc.net/
 local=/urlcentre.com/
@@ -8327,6 +8336,7 @@ local=/urlcut.ch/
 local=/urlcut.com/
 local=/urlcut.cv/
 local=/urlcut.in/
+local=/urlday.cc/
 local=/urlday.com/
 local=/urldeclic.com/
 local=/urldirect21-1.org/
@@ -8361,6 +8371,7 @@ local=/urlifypoint.com/
 local=/urlifys.com/
 local=/urlin.bio/
 local=/urlin.it/
+local=/urlinko.com/
 local=/urlinkz.me/
 local=/urlino.net/
 local=/urlintel.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Nov 2025 21:58 UTC
-# Version: 2025.1108.2158.45
+# Last modified: 09 Nov 2025 09:56 UTC
+# Version: 2025.1109.0956.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1331
+# Number of entries: 1332
 #
 local=/000a.de/
 local=/000space.com/
@@ -1138,6 +1138,7 @@ local=/testingnow.me/
 local=/tggame.xyz/
 local=/th.gp/
 local=/thisistap.com/
+local=/ticketxking.com/
 local=/tiiny.host/
 local=/tilda.ws/
 local=/timeforchangecounselling.com/
