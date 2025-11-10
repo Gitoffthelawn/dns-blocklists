@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762713120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762741800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 18:32 UTC
-; Version: 2025.1109.1832.02
+; Last modified: 10 Nov 2025 02:30 UTC
+; Version: 2025.1110.0230.40
 ; Syntax: RPZ
-; Number of entries: 157658
+; Number of entries: 157666
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -97170,6 +97170,8 @@ do-game.itch.io CNAME .
 *.do-game.itch.io CNAME .
 down-bad-smut-games.itch.io CNAME .
 *.down-bad-smut-games.itch.io CNAME .
+dragons-bondage.itch.io CNAME .
+*.dragons-bondage.itch.io CNAME .
 dreamteamstudiodevs.itch.io CNAME .
 *.dreamteamstudiodevs.itch.io CNAME .
 drunkrobot.itch.io CNAME .
@@ -97464,6 +97466,8 @@ scottycomics.itch.io CNAME .
 *.scottycomics.itch.io CNAME .
 scribbles.itch.io CNAME .
 *.scribbles.itch.io CNAME .
+scrufflesdev.itch.io CNAME .
+*.scrufflesdev.itch.io CNAME .
 sharkfurryman.itch.io CNAME .
 *.sharkfurryman.itch.io CNAME .
 shinlalala.itch.io CNAME .
@@ -97474,6 +97478,8 @@ side-b.itch.io CNAME .
 *.side-b.itch.io CNAME .
 siluman.itch.io CNAME .
 *.siluman.itch.io CNAME .
+slashersim.itch.io CNAME .
+*.slashersim.itch.io CNAME .
 slootydamedev.itch.io CNAME .
 *.slootydamedev.itch.io CNAME .
 smoke-mob-games.itch.io CNAME .
@@ -132788,6 +132794,8 @@ clipphot18.store CNAME .
 *.clipphot18.store CNAME .
 clipphot18pro.store CNAME .
 *.clipphot18pro.store CNAME .
+clipphot69org.store CNAME .
+*.clipphot69org.store CNAME .
 clipphot69pro.store CNAME .
 *.clipphot69pro.store CNAME .
 clipphotlux.store CNAME .

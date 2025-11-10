@@ -2198,6 +2198,13 @@
       }
     },
     {
+      "PK": "fireshinegames.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fishing",
       "action": {
         "do": 0,

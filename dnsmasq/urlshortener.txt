@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 17:28 UTC
-# Version: 2025.1109.1728.48
+# Last modified: 10 Nov 2025 01:28 UTC
+# Version: 2025.1110.0128.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9452
+# Number of entries: 9453
 #
 local=/0.gp/
 local=/00m.in/
@@ -6729,6 +6729,7 @@ local=/shortenerlink.net/
 local=/shortenerlink.xyz/
 local=/shortenerreviews.com/
 local=/shorteners.net/
+local=/shortenerurl.site/
 local=/shortenfor.me/
 local=/shortengine.dev/
 local=/shortenlab.com/

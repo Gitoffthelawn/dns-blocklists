@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 18:32 UTC
-# Version: 2025.1109.1832.02
+# Last modified: 10 Nov 2025 02:30 UTC
+# Version: 2025.1110.0230.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 78829
+# Number of entries: 78833
 #
 local=/001-adult-toys-n-sex-dolls.com/
 local=/001218.xyz/
@@ -13552,6 +13552,7 @@ local=/clipphot.net/
 local=/clipphot.store/
 local=/clipphot18.store/
 local=/clipphot18pro.store/
+local=/clipphot69org.store/
 local=/clipphot69pro.store/
 local=/clipphotlux.store/
 local=/clipphotorg.store/
@@ -35191,6 +35192,7 @@ local=/dinotonte.itch.io/
 local=/dirtysockgames.itch.io/
 local=/do-game.itch.io/
 local=/down-bad-smut-games.itch.io/
+local=/dragons-bondage.itch.io/
 local=/dreamteamstudiodevs.itch.io/
 local=/drunkrobot.itch.io/
 local=/drybonex.itch.io/
@@ -35338,11 +35340,13 @@ local=/satyroom.itch.io/
 local=/scissorsisters.itch.io/
 local=/scottycomics.itch.io/
 local=/scribbles.itch.io/
+local=/scrufflesdev.itch.io/
 local=/sharkfurryman.itch.io/
 local=/shinlalala.itch.io/
 local=/short-hair-simp.itch.io/
 local=/side-b.itch.io/
 local=/siluman.itch.io/
+local=/slashersim.itch.io/
 local=/slootydamedev.itch.io/
 local=/smoke-mob-games.itch.io/
 local=/solomonfletcher.itch.io/

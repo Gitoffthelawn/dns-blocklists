@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 17:28 UTC
-! Version: 2025.1109.1728.48
+! Last modified: 10 Nov 2025 01:28 UTC
+! Version: 2025.1110.0128.39
 ! Syntax: AdBlock
-! Number of entries: 9452
+! Number of entries: 9453
 !
 ||0.gp^
 ||00m.in^
@@ -6730,6 +6730,7 @@
 ||shortenerlink.xyz^
 ||shortenerreviews.com^
 ||shorteners.net^
+||shortenerurl.site^
 ||shortenfor.me^
 ||shortengine.dev^
 ||shortenlab.com^

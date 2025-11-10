@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 18:30 UTC
-# Version: 2025.1109.1830.09
+# Last modified: 10 Nov 2025 02:28 UTC
+# Version: 2025.1110.0228.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11545
+# Number of entries: 11544
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -9164,7 +9164,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

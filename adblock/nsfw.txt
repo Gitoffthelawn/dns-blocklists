@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 18:32 UTC
-! Version: 2025.1109.1832.02
+! Last modified: 10 Nov 2025 02:30 UTC
+! Version: 2025.1110.0230.40
 ! Syntax: AdBlock
-! Number of entries: 78829
+! Number of entries: 78833
 !
 ||001-adult-toys-n-sex-dolls.com^
 ||001218.xyz^
@@ -13553,6 +13553,7 @@
 ||clipphot.store^
 ||clipphot18.store^
 ||clipphot18pro.store^
+||clipphot69org.store^
 ||clipphot69pro.store^
 ||clipphotlux.store^
 ||clipphotorg.store^
@@ -35192,6 +35193,7 @@
 ||dirtysockgames.itch.io^
 ||do-game.itch.io^
 ||down-bad-smut-games.itch.io^
+||dragons-bondage.itch.io^
 ||dreamteamstudiodevs.itch.io^
 ||drunkrobot.itch.io^
 ||drybonex.itch.io^
@@ -35339,11 +35341,13 @@
 ||scissorsisters.itch.io^
 ||scottycomics.itch.io^
 ||scribbles.itch.io^
+||scrufflesdev.itch.io^
 ||sharkfurryman.itch.io^
 ||shinlalala.itch.io^
 ||short-hair-simp.itch.io^
 ||side-b.itch.io^
 ||siluman.itch.io^
+||slashersim.itch.io^
 ||slootydamedev.itch.io^
 ||smoke-mob-games.itch.io^
 ||solomonfletcher.itch.io^
