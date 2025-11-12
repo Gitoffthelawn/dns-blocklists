@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 09:15 UTC
-# Version: 2025.1111.0915.35
+# Last modified: 12 Nov 2025 09:15 UTC
+# Version: 2025.1112.0915.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 1270
+# Number of entries: 1271
 #
 1-aclk.net
 1aurl.io
@@ -851,6 +851,7 @@ mobiotud.com
 link.mobupps.com
 api-01.moengage.com
 api-02.moengage.com
+api-03.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com

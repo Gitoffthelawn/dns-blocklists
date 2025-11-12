@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 10:34 UTC
-! Version: 2025.1111.1034.32
+! Last modified: 12 Nov 2025 10:35 UTC
+! Version: 2025.1112.1035.17
 ! Syntax: AdBlock
-! Number of entries: 687
+! Number of entries: 695
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -37,7 +37,6 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
-||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -124,6 +123,7 @@
 ||httpdns1.cc.cdnhwc5.com^
 ||deic-lgb.anycast.censurfridns.dk^
 ||deic-ore.anycast.censurfridns.dk^
+||unicast.censurfridns.dk^
 ||dns.cert.ee^
 ||cfdjb.org^
 ||ibuki.cgnat.net^
@@ -139,6 +139,7 @@
 ||cloudflare-gateway.com^
 ||api.cloudflareclient.com^
 ||cloudflareresolve.com^
+||us.doh.cloudveil.org^
 ||dns.cmrg.net^
 ||doh.cnetwork.cloud^
 ||dns.gi.co.id^
@@ -227,6 +228,7 @@
 ||tpe01.dnscry.pt^
 ||trf01.dnscry.pt^
 ||tsm01.dnscry.pt^
+||tyo01.dnscry.pt^
 ||yhz01.dnscry.pt^
 ||yyc01.dnscry.pt^
 ||dns1.dnscrypt.ca^
@@ -237,7 +239,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -266,6 +267,7 @@
 ||dns.dynx.pro^
 ||dns.edgeburnmedia.com^
 ||edgy-dns.com^
+||dns.tuna.tsinghua.edu.cn^
 ||dns.elemental.software^
 ||dns.eliv.kr^
 ||eth.link^
@@ -395,6 +397,8 @@
 ||landerbrauver.ru^
 ||lastentarvike.fi^
 ||eu1.dns.lavate.ch^
+||us1.dns.lavate.ch^
+||iterator.lazada.com^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||doh.libredns.gr^
@@ -447,6 +451,8 @@
 ||de-fsn-w-p-1.nashkan.net^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
+||us-hil-w-f-1.nashkan.net^
+||us-kan-w-f-1.nashkan.net^
 ||dns.aa.net.uk^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
@@ -585,9 +591,9 @@
 ||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
+||pates.services.sfr.fr.casepp.sfr.fr^
 ||d2.shabi.icu^
 ||shalenkov.dev^
-||free.shecan.ir^
 ||do.shimul.me^
 ||sitdns.com^
 ||clientdns3.softcom.net^
@@ -633,6 +639,7 @@
 ||d.toairs.com^
 ||toaster.lol^
 ||nsc.torgues.net^
+||ns.trcnet.fi^
 ||tri-dns.net^
 ||tributh.net^
 ||tuskythehusky.tech^
@@ -642,6 +649,7 @@
 ||typaza.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
+||unasw.eu^
 ||uncensoreddns.org^
 ||dns.unerror.network^
 ||dns.unx.io^
