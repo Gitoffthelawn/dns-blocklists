@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 18:30 UTC
-# Version: 2025.1111.1830.02
+# Last modified: 12 Nov 2025 02:27 UTC
+# Version: 2025.1112.0227.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 47777
+# Number of entries: 47775
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -16324,7 +16324,6 @@ local=/coolzinocasino.de/
 local=/coolzinocasino.fr/
 local=/coolzinocasinobelgie.com/
 local=/coolzinocasinoosterreich.com/
-local=/coolzinocasinos.fr/
 local=/coolzinocasinos.net/
 local=/coop4dgas.com/
 local=/coop4dkui.com/
@@ -38712,7 +38711,6 @@ local=/rtpubiasli.xyz/
 local=/rtpubipolawin.xyz/
 local=/rtpvalbet.live/
 local=/rtpvip.live/
-local=/rtpvip.site/
 local=/rtpvipcorla.xyz/
 local=/rtpwinlive4d.com/
 local=/rtpwtobet.guru/

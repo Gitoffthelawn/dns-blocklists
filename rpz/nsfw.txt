@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762900140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762914600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 22:29 UTC
-; Version: 2025.1111.2229.53
+; Last modified: 12 Nov 2025 02:30 UTC
+; Version: 2025.1112.0230.09
 ; Syntax: RPZ
-; Number of entries: 156490
+; Number of entries: 156500
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -33702,6 +33702,8 @@ freemoviegalleries.com CNAME .
 *.freemoviegalleries.com CNAME .
 freemovienetwork.com CNAME .
 *.freemovienetwork.com CNAME .
+freemovieplace.com CNAME .
+*.freemovieplace.com CNAME .
 freemyforumadult.com CNAME .
 *.freemyforumadult.com CNAME .
 freenakedmengayporn.com CNAME .
@@ -95460,6 +95462,8 @@ boafoda.info CNAME .
 *.boafoda.info CNAME .
 bobtv.info CNAME .
 *.bobtv.info CNAME .
+bokepinfo.info CNAME .
+*.bokepinfo.info CNAME .
 bolgar.info CNAME .
 *.bolgar.info CNAME .
 brasileiro.info CNAME .
@@ -99958,6 +99962,8 @@ goodsex.lol CNAME .
 *.goodsex.lol CNAME .
 hayley-porn.lol CNAME .
 *.hayley-porn.lol CNAME .
+hdbokep.lol CNAME .
+*.hdbokep.lol CNAME .
 hdporn24.lol CNAME .
 *.hdporn24.lol CNAME .
 hdpornblue.lol CNAME .
@@ -131538,6 +131544,8 @@ hdporno.skin CNAME .
 *.hdporno.skin CNAME .
 hindisexxxvideos.skin CNAME .
 *.hindisexxxvideos.skin CNAME .
+igobokep.skin CNAME .
+*.igobokep.skin CNAME .
 jav.skin CNAME .
 *.jav.skin CNAME .
 mobiblog.skin CNAME .
@@ -141492,6 +141500,8 @@ onlyfullporn.video CNAME .
 *.onlyfullporn.video CNAME .
 onlyspanking.video CNAME .
 *.onlyspanking.video CNAME .
+penthousetv.video CNAME .
+*.penthousetv.video CNAME .
 piccoletrasgressioni.video CNAME .
 *.piccoletrasgressioni.video CNAME .
 porn-clips.video CNAME .

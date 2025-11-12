@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 18:29 UTC
-# Version: 2025.1111.1829.30
+# Last modified: 12 Nov 2025 02:27 UTC
+# Version: 2025.1112.0227.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 90195
+# Number of entries: 90193
 #
 0-casino.info
 000-online-casino.com
@@ -31663,7 +31663,6 @@ coolzinocasino.de
 coolzinocasino.fr
 coolzinocasinobelgie.com
 coolzinocasinoosterreich.com
-coolzinocasinos.fr
 coolzinocasinos.net
 coop4dgas.com
 coop4dkui.com
@@ -73370,7 +73369,6 @@ rtpunyu168.online
 rtpunyu168.store
 rtpvalbet.live
 rtpvip.live
-rtpvip.site
 rtpvipcorla.xyz
 rtpviraltogel.xyz
 rtpvwslot4.club

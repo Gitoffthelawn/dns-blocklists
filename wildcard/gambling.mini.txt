@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 18:30 UTC
-# Version: 2025.1111.1830.02
+# Last modified: 12 Nov 2025 02:27 UTC
+# Version: 2025.1112.0227.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 47777
+# Number of entries: 47775
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -16324,7 +16324,6 @@
 *.coolzinocasino.fr
 *.coolzinocasinobelgie.com
 *.coolzinocasinoosterreich.com
-*.coolzinocasinos.fr
 *.coolzinocasinos.net
 *.coop4dgas.com
 *.coop4dkui.com
@@ -38712,7 +38711,6 @@
 *.rtpubipolawin.xyz
 *.rtpvalbet.live
 *.rtpvip.live
-*.rtpvip.site
 *.rtpvipcorla.xyz
 *.rtpwinlive4d.com
 *.rtpwtobet.guru

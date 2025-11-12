@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 22:29 UTC
-! Version: 2025.1111.2229.53
+! Last modified: 12 Nov 2025 02:30 UTC
+! Version: 2025.1112.0230.09
 ! Syntax: AdBlock
-! Number of entries: 78245
+! Number of entries: 78250
 !
 ||001-adult-toys-n-sex-dolls.com^
 ||001218.xyz^
@@ -9585,6 +9585,7 @@
 ||bokepindonesia.me^
 ||bokepindonesia.net^
 ||bokepindotv.site^
+||bokepinfo.info^
 ||bokepjilbab.cc^
 ||bokepkamu.com^
 ||bokepkita.co^
@@ -25139,6 +25140,7 @@
 ||freemoney.gay^
 ||freemoviegalleries.com^
 ||freemovienetwork.com^
+||freemovieplace.com^
 ||freemoviepost.net^
 ||freemyforumadult.com^
 ||freenakedmengayporn.com^
@@ -30435,6 +30437,7 @@
 ||hdblackporn.com^
 ||hdblog.me^
 ||hdbluefilm.com^
+||hdbokep.lol^
 ||hdbokep.me^
 ||hdbokep.site^
 ||hdbooty.com^
@@ -33530,6 +33533,7 @@
 ||iglives.tv^
 ||ignore4k.com^
 ||igo-bokep.beauty^
+||igobokep.skin^
 ||igodesu.tv^
 ||igor-krein.ru^
 ||igotdahookupdating.com^
@@ -47448,6 +47452,7 @@
 ||penthousemag.com^
 ||penthousemagazine.com^
 ||penthousepets.net^
+||penthousetv.video^
 ||peoplebdsm.com^
 ||peoplebegay.com^
 ||peopleokwithmurderingassange.com^

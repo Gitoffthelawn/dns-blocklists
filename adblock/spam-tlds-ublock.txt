@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 18:37 UTC
-! Version: 2025.1111.1837.06
+! Last modified: 12 Nov 2025 02:34 UTC
+! Version: 2025.1112.0234.44
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -141,7 +141,7 @@
 ||homes^$doc,domain=~stremio.homes
 ||hot^$doc
 ||house^$doc,domain=~nature.house
-||how^$doc,domain=~mond.how
+||how^$doc,domain=~mond.how|~notrace.how
 ||icu^$doc,domain=~intervals.icu|~lunar.icu|~mon.icu
 ||ink^$doc,domain=~filepress.ink|~ishortn.ink|~mez.ink|~next.ink|~rdl.ink|~shrinkme.ink|~simple.ink|~sumerian.ink|~work.ink
 ||international^$doc

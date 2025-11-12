@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 22:29 UTC
-# Version: 2025.1111.2229.53
+# Last modified: 12 Nov 2025 02:30 UTC
+# Version: 2025.1112.0230.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 78245
+# Number of entries: 78250
 #
 local=/001-adult-toys-n-sex-dolls.com/
 local=/001218.xyz/
@@ -9584,6 +9584,7 @@ local=/bokepindone.online/
 local=/bokepindonesia.me/
 local=/bokepindonesia.net/
 local=/bokepindotv.site/
+local=/bokepinfo.info/
 local=/bokepjilbab.cc/
 local=/bokepkamu.com/
 local=/bokepkita.co/
@@ -25138,6 +25139,7 @@ local=/freemomsex.me/
 local=/freemoney.gay/
 local=/freemoviegalleries.com/
 local=/freemovienetwork.com/
+local=/freemovieplace.com/
 local=/freemoviepost.net/
 local=/freemyforumadult.com/
 local=/freenakedmengayporn.com/
@@ -30434,6 +30436,7 @@ local=/hdblackass.com/
 local=/hdblackporn.com/
 local=/hdblog.me/
 local=/hdbluefilm.com/
+local=/hdbokep.lol/
 local=/hdbokep.me/
 local=/hdbokep.site/
 local=/hdbooty.com/
@@ -33529,6 +33532,7 @@ local=/igirl.in/
 local=/iglives.tv/
 local=/ignore4k.com/
 local=/igo-bokep.beauty/
+local=/igobokep.skin/
 local=/igodesu.tv/
 local=/igor-krein.ru/
 local=/igotdahookupdating.com/
@@ -47447,6 +47451,7 @@ local=/penthousegold.com/
 local=/penthousemag.com/
 local=/penthousemagazine.com/
 local=/penthousepets.net/
+local=/penthousetv.video/
 local=/peoplebdsm.com/
 local=/peoplebegay.com/
 local=/peopleokwithmurderingassange.com/

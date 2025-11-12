@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762885800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762914420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 18:30 UTC
-; Version: 2025.1111.1830.02
+; Last modified: 12 Nov 2025 02:27 UTC
+; Version: 2025.1112.0227.42
 ; Syntax: RPZ
-; Number of entries: 95554
+; Number of entries: 95550
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -57606,8 +57606,6 @@ comparatif-casino.fr CNAME .
 *.comparatif-casino.fr CNAME .
 coolzinocasino.fr CNAME .
 *.coolzinocasino.fr CNAME .
-coolzinocasinos.fr CNAME .
-*.coolzinocasinos.fr CNAME .
 curacaocasino.fr CNAME .
 *.curacaocasino.fr CNAME .
 dagris.fr CNAME .
@@ -77108,8 +77106,6 @@ rtpransslot88h.site CNAME .
 *.rtpransslot88h.site CNAME .
 rtpslotjitu88.site CNAME .
 *.rtpslotjitu88.site CNAME .
-rtpvip.site CNAME .
-*.rtpvip.site CNAME .
 rumuscuanhokage.site CNAME .
 *.rumuscuanhokage.site CNAME .
 sacasino.site CNAME .
