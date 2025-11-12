@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Nov 2025 14:31 UTC
-! Version: 2025.1112.1431.06
+! Last modified: 12 Nov 2025 18:31 UTC
+! Version: 2025.1112.1831.14
 ! Syntax: AdBlock
-! Number of entries: 77996
+! Number of entries: 77999
 !
 ||001-adult-toys-n-sex-dolls.com^
 ||001218.xyz^
@@ -4292,7 +4292,6 @@
 ||amusesex.xyz^
 ||amusex.xyz^
 ||amusexxx.xyz^
-||amxorion.com^
 ||amxxx69beraelan.shop^
 ||amydsouza.in^
 ||amyleighcutler.com^
@@ -5495,6 +5494,7 @@
 ||arxnxxxxxhd.store^
 ||arxnxxxxxhd.tattoo^
 ||arxnxxxxxhd.top^
+||arxnxxxxxhd.wiki^
 ||arxnxxxxxhd.xyz^
 ||arxnxxxxxxhd.autos^
 ||arxnxxxxxxhd.beauty^
@@ -7721,7 +7721,6 @@
 ||beautyai.fun^
 ||beautyandwellnessexpressions.com^
 ||beautyass.com^
-||beautyass.vip^
 ||beautybay.com^
 ||beautybigtits.com^
 ||beautyescortsmunich.com^
@@ -12029,6 +12028,7 @@
 ||chandigarhescorts.club^
 ||chandigarhescorts.co^
 ||chandigarhescorts.com^
+||chandigarhescorts.net^
 ||chandigarhescorts4you.com^
 ||chandigarhescortservice.com^
 ||chandigarhescortservices.org^
@@ -22032,7 +22032,6 @@
 ||ever-garden.jp^
 ||ever-lusting-games.com^
 ||ever-lusting-life.com^
-||everafterromance.com^
 ||everia.club^
 ||everiaclub.com^
 ||everlastingblort.com^
@@ -34633,6 +34632,7 @@
 ||malerouille.itch.io^
 ||maratduodev.itch.io^
 ||mastercollector.itch.io^
+||matpneumatos.itch.io^
 ||medibang.itch.io^
 ||medibang-manga.itch.io^
 ||mefistofeles.itch.io^
@@ -34719,6 +34719,7 @@
 ||spacerock99.itch.io^
 ||squirclegames.itch.io^
 ||stick4luck.itch.io^
+||stinkstonegames.itch.io^
 ||strange-girl-studios.itch.io^
 ||subsupreme.itch.io^
 ||succudev.itch.io^
@@ -36404,7 +36405,6 @@
 ||jysexoh.info^
 ||jystthegays.com^
 ||jyukujyoerotvmovie.com^
-||jyukujyomanko.com^
 ||jyukujyowareme.com^
 ||jyukusiri.net^
 ||jyxxx.vip^
@@ -36413,6 +36413,7 @@
 ||k-hentai.org^
 ||k-y.com^
 ||k1no.ru^
+||k20io.com^
 ||k2s.club^
 ||k2sporn.com^
 ||k2sporn.net^
@@ -39676,6 +39677,7 @@
 ||maal69.click^
 ||maal69.com^
 ||maal69.in^
+||maal69.to^
 ||maal69.tv^
 ||maalmasti.com^
 ||maanobilli.com^
@@ -46301,7 +46303,6 @@
 ||essexnhw.org.uk^
 ||essexrecovery.org.uk^
 ||eurasia.org.ru^
-||extremeporn.org.uk^
 ||frank.org.au^
 ||gaycounselling.org.uk^
 ||golflottery.org.uk^
@@ -58097,6 +58098,7 @@
 ||sexcuba.xyz^
 ||sexcult.io^
 ||sexcum.click^
+||sexcum.net^
 ||sexcumvideos.com^
 ||sexcurious.xyz^
 ||sexcustom.xyz^
@@ -63443,7 +63445,6 @@
 ||sigilfactory.com^
 ||sigilfinthora.net^
 ||sigilfinthora.org^
-||sigilfinthora-app.com^
 ||sigilfinthora-invest.com^
 ||sigloxxx.net^
 ||sigmaboy.gay^
@@ -71075,6 +71076,7 @@
 ||veryxxxxhd.world^
 ||veryxxxxxhd.cam^
 ||veryxxxxxhd.click^
+||veryxxxxxhd.cyou^
 ||veryxxxxxhd.icu^
 ||veryxxxxxhd.lol^
 ||vespermedia.co^
@@ -72440,6 +72442,7 @@
 ||waterdamagesandiego.org^
 ||waterfallsofparadise.com^
 ||waterporn.pro^
+||watersports.ws^
 ||watkinsexteriors.net^
 ||watpabodhgaya.com^
 ||watporn.com^

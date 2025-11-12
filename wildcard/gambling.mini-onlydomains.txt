@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 14:28 UTC
-# Version: 2025.1112.1428.29
+# Last modified: 12 Nov 2025 18:28 UTC
+# Version: 2025.1112.1828.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 48013
+# Number of entries: 48012
 #
 0-casino.info
 000-online-casino.com
@@ -1316,7 +1316,6 @@ images.191829838.com
 1xfabet.casino
 1xgames.online
 1xjlcasino.com
-1xlite-5227452.bar
 1xlite-93399.world
 1xmag.com
 1xmatch.com

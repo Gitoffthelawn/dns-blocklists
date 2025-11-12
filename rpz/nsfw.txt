@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762957860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762972260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 14:31 UTC
-; Version: 2025.1112.1431.06
+; Last modified: 12 Nov 2025 18:31 UTC
+; Version: 2025.1112.1831.14
 ; Syntax: RPZ
-; Number of entries: 155992
+; Number of entries: 155998
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -15372,8 +15372,6 @@ amuangay.com CNAME .
 *.amuangay.com CNAME .
 amurz.com CNAME .
 *.amurz.com CNAME .
-amxorion.com CNAME .
-*.amxorion.com CNAME .
 amyleighcutler.com CNAME .
 *.amyleighcutler.com CNAME .
 amysadultgifts.com CNAME .
@@ -30998,8 +30996,6 @@ ever-lusting-games.com CNAME .
 *.ever-lusting-games.com CNAME .
 ever-lusting-life.com CNAME .
 *.ever-lusting-life.com CNAME .
-everafterromance.com CNAME .
-*.everafterromance.com CNAME .
 everiaclub.com CNAME .
 *.everiaclub.com CNAME .
 everlastingblort.com CNAME .
@@ -44866,8 +44862,6 @@ jystthegays.com CNAME .
 *.jystthegays.com CNAME .
 jyukujyoerotvmovie.com CNAME .
 *.jyukujyoerotvmovie.com CNAME .
-jyukujyomanko.com CNAME .
-*.jyukujyomanko.com CNAME .
 jyukujyowareme.com CNAME .
 *.jyukujyowareme.com CNAME .
 jzxxxyg.com CNAME .
@@ -44876,6 +44870,8 @@ jzzo.com CNAME .
 *.jzzo.com CNAME .
 k-y.com CNAME .
 *.k-y.com CNAME .
+k20io.com CNAME .
+*.k20io.com CNAME .
 k2sporn.com CNAME .
 *.k2sporn.com CNAME .
 k3jewelry.com CNAME .
@@ -69710,8 +69706,6 @@ sigayanbay.com CNAME .
 *.sigayanbay.com CNAME .
 sigilfactory.com CNAME .
 *.sigilfactory.com CNAME .
-sigilfinthora-app.com CNAME .
-*.sigilfinthora-app.com CNAME .
 sigilfinthora-invest.com CNAME .
 *.sigilfinthora-invest.com CNAME .
 signalsex.com CNAME .
@@ -84878,6 +84872,8 @@ uuxxx.cyou CNAME .
 *.uuxxx.cyou CNAME .
 v4ip.cyou CNAME .
 *.v4ip.cyou CNAME .
+veryxxxxxhd.cyou CNAME .
+*.veryxxxxxhd.cyou CNAME .
 videoseks.cyou CNAME .
 *.videoseks.cyou CNAME .
 womananimalporn.cyou CNAME .
@@ -97918,6 +97914,8 @@ maratduodev.itch.io CNAME .
 *.maratduodev.itch.io CNAME .
 mastercollector.itch.io CNAME .
 *.mastercollector.itch.io CNAME .
+matpneumatos.itch.io CNAME .
+*.matpneumatos.itch.io CNAME .
 medibang.itch.io CNAME .
 *.medibang.itch.io CNAME .
 medibang-manga.itch.io CNAME .
@@ -98090,6 +98088,8 @@ squirclegames.itch.io CNAME .
 *.squirclegames.itch.io CNAME .
 stick4luck.itch.io CNAME .
 *.stick4luck.itch.io CNAME .
+stinkstonegames.itch.io CNAME .
+*.stinkstonegames.itch.io CNAME .
 strange-girl-studios.itch.io CNAME .
 *.strange-girl-studios.itch.io CNAME .
 subsupreme.itch.io CNAME .
@@ -104554,6 +104554,8 @@ chandigarhcallgirls.net CNAME .
 *.chandigarhcallgirls.net CNAME .
 chandigarhescort.net CNAME .
 *.chandigarhescort.net CNAME .
+chandigarhescorts.net CNAME .
+*.chandigarhescorts.net CNAME .
 channelporn.net CNAME .
 *.channelporn.net CNAME .
 charbelrouhana.net CNAME .
@@ -109560,6 +109562,8 @@ sexcoins.net CNAME .
 *.sexcoins.net CNAME .
 sexcotrang.net CNAME .
 *.sexcotrang.net CNAME .
+sexcum.net CNAME .
+*.sexcum.net CNAME .
 sexdamvn.net CNAME .
 *.sexdamvn.net CNAME .
 sexdoc.net CNAME .
@@ -133506,6 +133510,8 @@ lendirjavindo.to CNAME .
 *.lendirjavindo.to CNAME .
 lewdgames.to CNAME .
 *.lewdgames.to CNAME .
+maal69.to CNAME .
+*.maal69.to CNAME .
 manhwahentai.to CNAME .
 *.manhwahentai.to CNAME .
 metadoll.to CNAME .
@@ -140872,8 +140878,6 @@ essexnhw.org.uk CNAME .
 *.essexnhw.org.uk CNAME .
 essexrecovery.org.uk CNAME .
 *.essexrecovery.org.uk CNAME .
-extremeporn.org.uk CNAME .
-*.extremeporn.org.uk CNAME .
 gaycounselling.org.uk CNAME .
 *.gaycounselling.org.uk CNAME .
 golflottery.org.uk CNAME .
@@ -141710,8 +141714,6 @@ avcar.vip CNAME .
 *.avcar.vip CNAME .
 banglachoti.vip CNAME .
 *.banglachoti.vip CNAME .
-beautyass.vip CNAME .
-*.beautyass.vip CNAME .
 beon.vip CNAME .
 *.beon.vip CNAME .
 bessporno.vip CNAME .
@@ -142540,6 +142542,8 @@ aifun.wiki CNAME .
 *.aifun.wiki CNAME .
 alxxnxxxsex.wiki CNAME .
 *.alxxnxxxsex.wiki CNAME .
+arxnxxxxxhd.wiki CNAME .
+*.arxnxxxxxhd.wiki CNAME .
 bbw.wiki CNAME .
 *.bbw.wiki CNAME .
 chigua-porn.wiki CNAME .
@@ -143226,6 +143230,8 @@ tabooflix.ws CNAME .
 *.tabooflix.ws CNAME .
 teenporn.ws CNAME .
 *.teenporn.ws CNAME .
+watersports.ws CNAME .
+*.watersports.ws CNAME .
 wowne.ws CNAME .
 *.wowne.ws CNAME .
 xxxincestos.ws CNAME .

@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 09:27 UTC
-# Version: 2025.1112.0927.07
+# Last modified: 12 Nov 2025 17:27 UTC
+# Version: 2025.1112.1727.07
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 14352
 #
@@ -1171,7 +1171,6 @@ local=/baumasters.com/
 local=/baumeistermodels.com/
 local=/baumwollbabywholesale.shop/
 local=/bauprofimaschinen.com/
-local=/baur-best.com/
 local=/baurino.com/
 local=/baushopping.com/
 local=/baustellenbedarfbillig.com/
@@ -4646,6 +4645,7 @@ local=/followjetzt.at/
 local=/followslow.com/
 local=/fomozo.de/
 local=/fondluck.com/
+local=/fondsavenue.com/
 local=/foodixs.com/
 local=/foodsprings.shop/
 local=/footballcamp.at/
