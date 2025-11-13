@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Nov 2025 10:35 UTC
-! Version: 2025.1112.1035.17
+! Last modified: 13 Nov 2025 10:33 UTC
+! Version: 2025.1113.1033.15
 ! Syntax: AdBlock
-! Number of entries: 695
+! Number of entries: 715
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -29,6 +29,7 @@
 ||vpn.4-the.win^
 ||doh.42l.fr^
 ||ns2.4netguides.org^
+||kids.5ososea.com^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
@@ -145,6 +146,7 @@
 ||dns.gi.co.id^
 ||ns.nerdytechgeeks.co.za^
 ||sbdns.co.in^
+||jpdns.cola16.app^
 ||dns.7sec.com.br^
 ||dns.weixin.qq.com.cn^
 ||dns.redhosting.com.ar^
@@ -208,6 +210,11 @@
 ||ist01.dnscry.pt^
 ||kiv01.dnscry.pt^
 ||las01.dnscry.pt^
+||lax01.dnscry.pt^
+||lax02.dnscry.pt^
+||lim02.dnscry.pt^
+||lis01.dnscry.pt^
+||llk01.dnscry.pt^
 ||lon01.dnscry.pt^
 ||mad01.dnscry.pt^
 ||man01.dnscry.pt^
@@ -259,6 +266,7 @@
 ||droyd.top^
 ||agh.dshubham.xyz^
 ||jurre-home.duckdns.org^
+||krtekvpn.duckdns.org^
 ||osefcorp.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
@@ -275,6 +283,7 @@
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
+||jp1.f7b6h9.tk^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -339,6 +348,7 @@
 ||dns.hinet.net^
 ||hitian.me^
 ||pihole4.hoerli.net^
+||keithchung.hopto.org^
 ||dns.horcrux.vip^
 ||dns.internal.hosmatic.com^
 ||dns.hostux.net^
@@ -388,9 +398,11 @@
 ||dns.kapite.in^
 ||dns.karadag.me^
 ||dns.kastner-online.de^
+||kavkaz.monster^
 ||dns.kawa.tf^
 ||dns.keweon.center^
 ||dns1.klcd.eu^
+||ko-18948-tr.xyz^
 ||korzhov.dev^
 ||dart.kpsn.org^
 ||hdns.ksyun.com^
@@ -401,7 +413,9 @@
 ||iterator.lazada.com^
 ||leecurrylawfirm.com^
 ||lelux.fi^
+||lewsha.lol^
 ||doh.libredns.gr^
+||lifeisa.live^
 ||loadlow.me^
 ||doh.phdns2.lonet.org^
 ||doh.phdns3.lonet.org^
@@ -449,6 +463,7 @@
 ||chungocoai.name.vn^
 ||de-fra-w-p-1.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
+||kz-pav-w-p-1.nashkan.net^
 ||nl-dro-w-f-1.nashkan.net^
 ||nl-dro-w-p-1.nashkan.net^
 ||us-hil-w-f-1.nashkan.net^
@@ -484,6 +499,9 @@
 ||one.one.one.one^
 ||doh.onedns.net^
 ||doh-pure.onedns.net^
+||jp2.ooroot.com^
+||kr1.ooroot.com^
+||kr2.ooroot.com^
 ||tw2.ooroot.com^
 ||openbld.net^
 ||dns.opendns.com^
@@ -521,6 +539,7 @@
 ||dns.porteii.com^
 ||doh.powerdns.org^
 ||dns.ha-dvin.pp.ua^
+||lindung.pp.ua^
 ||sundalandia.pp.ua^
 ||dns.pragmasec.nl^
 ||de.dns.privex.io^
@@ -695,6 +714,7 @@
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^
 ||dns.yatima.tv^
+||lion.yazilimatolye.com^
 ||yovbak.com^
 ||httpdns.yunxindns.com^
 ||dns.yuu-g.net^

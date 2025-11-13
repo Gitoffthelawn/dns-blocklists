@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 17:27 UTC
-# Version: 2025.1112.1727.07
+# Last modified: 13 Nov 2025 09:26 UTC
+# Version: 2025.1113.0926.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14352
+# Number of entries: 14354
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1681,7 +1681,6 @@ local=/blue-mart.shop/
 local=/bluebananabrandeu.shop/
 local=/bluebellalingerie.com/
 local=/blueblom.com/
-local=/blueboltchargers.com/
 local=/bluecasadecor.com/
 local=/bluehend-land.de/
 local=/bluelock.store/
@@ -2239,6 +2238,7 @@ local=/centsyshop.com/
 local=/cerabone.cz/
 local=/ceramicjapan-de.com/
 local=/ceramictablewareshop.com/
+local=/cerebrum-iq.com/
 local=/certainlyo.com/
 local=/cervus-bike.de/
 local=/cescory.com/
@@ -2651,6 +2651,7 @@ local=/geri-fashion.company.site/
 local=/hoeschag.company.site/
 local=/pellet-bio.company.site/
 local=/pellet-ecos.company.site/
+local=/comparatiq.com/
 local=/comparisonp.com/
 local=/compensair.com/
 local=/competitiog.com/
@@ -4024,7 +4025,6 @@ local=/estilobrasilofertas.com/
 local=/estrategen.de/
 local=/esyqefp.top/
 local=/etcydecor.de/
-local=/etercitenal.com/
 local=/eternity.business/
 local=/eternity-diamond.com/
 local=/hippo2.eth.limo/
@@ -7602,6 +7602,7 @@ local=/lh-crypto.com/
 local=/lhk-group.com/
 local=/lhvw-profis.de/
 local=/li-me.com/
+local=/liabilis.com/
 local=/atu.liades.shop/
 local=/liaopo.top/
 local=/liberalm.com/
@@ -9342,6 +9343,7 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
+local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
