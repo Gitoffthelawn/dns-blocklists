@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762986660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763002140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 22:31 UTC
-; Version: 2025.1112.2231.08
+; Last modified: 13 Nov 2025 02:49 UTC
+; Version: 2025.1113.0249.31
 ; Syntax: RPZ
 ; Number of entries: 155994
 ;
@@ -10094,6 +10094,8 @@ porncomicsai.club CNAME .
 *.porncomicsai.club CNAME .
 porndig.club CNAME .
 *.porndig.club CNAME .
+pornfeeds.club CNAME .
+*.pornfeeds.club CNAME .
 pornfilms.club CNAME .
 *.pornfilms.club CNAME .
 porngame.club CNAME .
@@ -26532,6 +26534,8 @@ deshikapornow.com CNAME .
 *.deshikapornow.com CNAME .
 desi-college-girls.com CNAME .
 *.desi-college-girls.com CNAME .
+desi-cum.com CNAME .
+*.desi-cum.com CNAME .
 desi-fap.com CNAME .
 *.desi-fap.com CNAME .
 desi-porn-videos.com CNAME .
@@ -32482,8 +32486,6 @@ ffstockings.com CNAME .
 *.ffstockings.com CNAME .
 fftoons.com CNAME .
 *.fftoons.com CNAME .
-fgtube.com CNAME .
-*.fgtube.com CNAME .
 fhaccess.com CNAME .
 *.fhaccess.com CNAME .
 fhblogs.com CNAME .
@@ -55708,8 +55710,6 @@ onqueerstreet.com CNAME .
 *.onqueerstreet.com CNAME .
 onsexyporn.com CNAME .
 *.onsexyporn.com CNAME .
-onthestripvegas.com CNAME .
-*.onthestripvegas.com CNAME .
 onusexchange.com CNAME .
 *.onusexchange.com CNAME .
 onvatrad.com CNAME .
@@ -72108,8 +72108,6 @@ superchatlive.com CNAME .
 *.superchatlive.com CNAME .
 supercumtube.com CNAME .
 *.supercumtube.com CNAME .
-superfame.com CNAME .
-*.superfame.com CNAME .
 supergayman.com CNAME .
 *.supergayman.com CNAME .
 supergaymen.com CNAME .
@@ -77802,6 +77800,8 @@ usnewsexpres.com CNAME .
 *.usnewsexpres.com CNAME .
 uspsdelivered.com CNAME .
 *.uspsdelivered.com CNAME .
+uspsexpress.com CNAME .
+*.uspsexpress.com CNAME .
 ussexy.com CNAME .
 *.ussexy.com CNAME .
 ussw.com CNAME .
@@ -99056,6 +99056,8 @@ sexguys.lat CNAME .
 *.sexguys.lat CNAME .
 sexies.lat CNAME .
 *.sexies.lat CNAME .
+sexiluna1.lat CNAME .
+*.sexiluna1.lat CNAME .
 sexwife.lat CNAME .
 *.sexwife.lat CNAME .
 sexyhube.lat CNAME .
@@ -124550,8 +124552,6 @@ salenavolge.ru CNAME .
 *.salenavolge.ru CNAME .
 samsim.ru CNAME .
 *.samsim.ru CNAME .
-samvbolgariu.ru CNAME .
-*.samvbolgariu.ru CNAME .
 saule-blog.ru CNAME .
 *.saule-blog.ru CNAME .
 savnebo.ru CNAME .

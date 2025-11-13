@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762827900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763002020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 02:25 UTC
-; Version: 2025.1111.0225.53
+; Last modified: 13 Nov 2025 02:47 UTC
+; Version: 2025.1113.0247.44
 ; Syntax: RPZ
-; Number of entries: 23238
+; Number of entries: 23234
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4272,8 +4272,6 @@ elaach.com CNAME .
 *.elaach.com CNAME .
 elamigos-games.com CNAME .
 *.elamigos-games.com CNAME .
-elementsbrowser.com CNAME .
-*.elementsbrowser.com CNAME .
 elevensports.com CNAME .
 *.elevensports.com CNAME .
 elit-bg.com CNAME .
@@ -11022,8 +11020,6 @@ hdmovie2.irish CNAME .
 *.1337x.is CNAME .
 1377x.is CNAME .
 *.1377x.is CNAME .
-tracker.1h.is CNAME .
-*.tracker.1h.is CNAME .
 1movies.is CNAME .
 *.1movies.is CNAME .
 open.8a.is CNAME .

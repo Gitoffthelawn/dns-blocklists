@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 22:31 UTC
-# Version: 2025.1112.2231.08
+# Last modified: 13 Nov 2025 02:49 UTC
+# Version: 2025.1113.0249.31
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 77997
 #
@@ -17470,6 +17470,7 @@ local=/desexxx18rtsunr.shop/
 local=/deshikapornow.com/
 local=/desi-bhabhi-xxx.net/
 local=/desi-college-girls.com/
+local=/desi-cum.com/
 local=/desi-fap.com/
 local=/desi-masti.info/
 local=/desi-porn.mobi/
@@ -23454,7 +23455,6 @@ local=/fglandahlanxxx1.shop/
 local=/fglandsexbfland.shop/
 local=/fglaxxx18ndhsta.shop/
 local=/fglaxxx69ndocea.shop/
-local=/fgtube.com/
 local=/fh-xy.net/
 local=/fhaccess.com/
 local=/fhblogs.com/
@@ -46146,7 +46146,6 @@ local=/onsexprime.fr/
 local=/onsexyporn.com/
 local=/onsexyxrapid.shop/
 local=/ontai.de/
-local=/onthestripvegas.com/
 local=/onusexchange.com/
 local=/onvatrad.com/
 local=/onwin1729.com/
@@ -49294,6 +49293,7 @@ local=/pornfappy.com/
 local=/pornfaze.com/
 local=/pornfaze2.com/
 local=/pornfd.com/
+local=/pornfeeds.club/
 local=/pornfeel.com/
 local=/pornfeel.ru/
 local=/pornfes18.com/
@@ -55720,7 +55720,6 @@ local=/samsunluescort.pro/
 local=/samuigay.com/
 local=/samurai15.com/
 local=/samusar.com/
-local=/samvbolgariu.ru/
 local=/san.am/
 local=/sana-khan.com/
 local=/sanakaur.com/
@@ -58995,6 +58994,7 @@ local=/sexillionairefashion.shop/
 local=/sexillionairefashion.store/
 local=/sexiluna.lol/
 local=/sexiluna.org/
+local=/sexiluna1.lat/
 local=/sexiluna1.lol/
 local=/sexiluna17.click/
 local=/sexiluna22.click/
@@ -65614,7 +65614,6 @@ local=/supercumtube.com/
 local=/superdoujin.net/
 local=/superdudes.nl/
 local=/superdxxxa.org/
-local=/superfame.com/
 local=/superfans.top/
 local=/supergayman.com/
 local=/supergaymen.com/
@@ -70672,6 +70671,7 @@ local=/usppp.top/
 local=/uspros.net/
 local=/uspsdelivered.com/
 local=/uspsexpress.click/
+local=/uspsexpress.com/
 local=/ussexy.com/
 local=/usssh.top/
 local=/ussw.com/

@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Nov 2025 22:31 UTC
-! Version: 2025.1112.2231.08
+! Last modified: 13 Nov 2025 02:49 UTC
+! Version: 2025.1113.0249.31
 ! Syntax: AdBlock
 ! Number of entries: 77997
 !
@@ -17471,6 +17471,7 @@
 ||deshikapornow.com^
 ||desi-bhabhi-xxx.net^
 ||desi-college-girls.com^
+||desi-cum.com^
 ||desi-fap.com^
 ||desi-masti.info^
 ||desi-porn.mobi^
@@ -23455,7 +23456,6 @@
 ||fglandsexbfland.shop^
 ||fglaxxx18ndhsta.shop^
 ||fglaxxx69ndocea.shop^
-||fgtube.com^
 ||fh-xy.net^
 ||fhaccess.com^
 ||fhblogs.com^
@@ -46147,7 +46147,6 @@
 ||onsexyporn.com^
 ||onsexyxrapid.shop^
 ||ontai.de^
-||onthestripvegas.com^
 ||onusexchange.com^
 ||onvatrad.com^
 ||onwin1729.com^
@@ -49295,6 +49294,7 @@
 ||pornfaze.com^
 ||pornfaze2.com^
 ||pornfd.com^
+||pornfeeds.club^
 ||pornfeel.com^
 ||pornfeel.ru^
 ||pornfes18.com^
@@ -55721,7 +55721,6 @@
 ||samuigay.com^
 ||samurai15.com^
 ||samusar.com^
-||samvbolgariu.ru^
 ||san.am^
 ||sana-khan.com^
 ||sanakaur.com^
@@ -58996,6 +58995,7 @@
 ||sexillionairefashion.store^
 ||sexiluna.lol^
 ||sexiluna.org^
+||sexiluna1.lat^
 ||sexiluna1.lol^
 ||sexiluna17.click^
 ||sexiluna22.click^
@@ -65615,7 +65615,6 @@
 ||superdoujin.net^
 ||superdudes.nl^
 ||superdxxxa.org^
-||superfame.com^
 ||superfans.top^
 ||supergayman.com^
 ||supergaymen.com^
@@ -70673,6 +70672,7 @@
 ||uspros.net^
 ||uspsdelivered.com^
 ||uspsexpress.click^
+||uspsexpress.com^
 ||ussexy.com^
 ||usssh.top^
 ||ussw.com^
