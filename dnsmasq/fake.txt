@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 05:27 UTC
-# Version: 2025.1114.0527.23
+# Last modified: 14 Nov 2025 09:28 UTC
+# Version: 2025.1114.0928.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14354
+# Number of entries: 14358
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -459,6 +459,7 @@ local=/altrasuomioutlet.com/
 local=/aluhsda.com/
 local=/alureva.de/
 local=/alvaxi.com/
+local=/alvinegroup.com/
 local=/alzaccess.com/
 local=/am-dessous.shop/
 local=/am-luxury.de/
@@ -490,6 +491,7 @@ local=/americaneagledeutschland.de/
 local=/amessa24.de/
 local=/amethysts.de/
 local=/amf-cloudmail.org/
+local=/amffrance.org/
 local=/aminatakidseu.shop/
 local=/amira-boutique.de/
 local=/amkleidung.com/
@@ -1727,6 +1729,7 @@ local=/body-gear.to/
 local=/bodygo.com/
 local=/boekerrabatt.com/
 local=/boerty.com/
+local=/bofblockchain.com/
 local=/bog-apotheke.com/
 local=/bogsschuhe.de/
 local=/bohnenfreude.de/
@@ -5157,6 +5160,7 @@ local=/geschirrs-de.com/
 local=/gesichtkorperbeauty.com/
 local=/gesichtsreinigungnachtpflege.com/
 local=/gestion.finance/
+local=/impact-am.gestion-espace.com/
 local=/gestiondupatrimoine.net/
 local=/gestionpatrimoine-bsi.com/
 local=/gesund.world/

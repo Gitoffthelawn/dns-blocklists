@@ -46,6 +46,7 @@ jjpool.fr
 *.cloudhost.id
 *.ddog-gov.com
 *.digidip.net
+*.dns.grc.com
 *.doubleclick.net
 *.genyoutube.online
 *.githubusercontent.com

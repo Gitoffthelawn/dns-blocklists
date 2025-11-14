@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Nov 2025 10:33 UTC
-! Version: 2025.1113.1033.15
+! Last modified: 14 Nov 2025 10:38 UTC
+! Version: 2025.1114.1038.33
 ! Syntax: AdBlock
-! Number of entries: 715
+! Number of entries: 740
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -20,9 +20,11 @@
 ||1and1-dns.de^
 ||233py.com^
 ||dns.240527.xyz^
+||doh003.280blocker.net^
 ||doh.30x.me^
 ||dns.354688.xyz^
 ||doh.360.cn^
+||dot.360.cn^
 ||3dns.eu^
 ||dns.3wv.de^
 ||dns.4-the.win^
@@ -67,6 +69,7 @@
 ||dns.applewebkit.dev^
 ||applied-privacy.net^
 ||doh.appliedprivacy.net^
+||dot1.appliedprivacy.net^
 ||dns.aquilenet.fr^
 ||dns.ares-taiwan.com^
 ||dns.arkbotech.com^
@@ -78,6 +81,8 @@
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
 ||dns.azsopro.net^
+||doh1.b-cdn.net^
+||doh2.b-cdn.net^
 ||dns.b33.space^
 ||dns.b612.me^
 ||httpsdns.baidu.com^
@@ -104,6 +109,8 @@
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
+||dot-de.blahdns.com^
+||dot-sg.blahdns.com^
 ||example.doh.blockerdns.com^
 ||dns.blokada.org^
 ||bluemood.me^
@@ -144,6 +151,7 @@
 ||dns.cmrg.net^
 ||doh.cnetwork.cloud^
 ||dns.gi.co.id^
+||dns.neilzone.co.uk^
 ||ns.nerdytechgeeks.co.za^
 ||sbdns.co.in^
 ||jpdns.cola16.app^
@@ -202,6 +210,7 @@
 ||cph01.dnscry.pt^
 ||cvt01.dnscry.pt^
 ||den01.dnscry.pt^
+||dtw01.dnscry.pt^
 ||dub01.dnscry.pt^
 ||fra01.dnscry.pt^
 ||geg01.dnscry.pt^
@@ -273,6 +282,7 @@
 ||dukun.de^
 ||dupatruwi22.fun^
 ||dns.dynx.pro^
+||easyhandshake.com^
 ||dns.edgeburnmedia.com^
 ||edgy-dns.com^
 ||dns.tuna.tsinghua.edu.cn^
@@ -293,6 +303,7 @@
 ||ns1.fdn.fr^
 ||dns.fehlsprache.de^
 ||doh.ffmuc.net^
+||dot.ffmuc.net^
 ||dns.ffnw.de^
 ||fidelius.top^
 ||dns.filipccz.eu^
@@ -380,6 +391,7 @@
 ||dns.is0mino.com^
 ||mickedi.isgood.host^
 ||dns.ishan.pw^
+||pdns.itxe.net^
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||jcdns.fun^
@@ -415,6 +427,7 @@
 ||lelux.fi^
 ||lewsha.lol^
 ||doh.libredns.gr^
+||dot.libredns.gr^
 ||lifeisa.live^
 ||loadlow.me^
 ||doh.phdns2.lonet.org^
@@ -427,13 +440,13 @@
 ||mabuktogel.builders^
 ||mabuktogel.business^
 ||mabuktogel.cards^
+||mabuktogel.creditcard^
 ||mabuktogel.degree^
 ||mabuktogel.enterprises^
 ||mabuktogel.immobilien^
 ||mabuktogel.limited^
 ||mabuktogel.ltd^
 ||mabuktogel.solutions^
-||maqgie.xyz^
 ||multi.dns.marbledfennec.net^
 ||masters-of-cloud.de^
 ||mc-sft.cn^
@@ -446,6 +459,7 @@
 ||testaghome.meshkov.info^
 ||muli.stusta.mhn.de^
 ||mikezhang.xyz^
+||dns.milkpie.one^
 ||netcup.mismat.ch^
 ||dnstls.mobik.com^
 ||naganohara-yoimiya.momokko.moe^
@@ -459,8 +473,10 @@
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
+||dns.n23.io^
 ||najiakeji.top^
 ||chungocoai.name.vn^
+||dns.narl.app^
 ||de-fra-w-p-1.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
 ||kz-pav-w-p-1.nashkan.net^
@@ -468,6 +484,7 @@
 ||nl-dro-w-p-1.nashkan.net^
 ||us-hil-w-f-1.nashkan.net^
 ||us-kan-w-f-1.nashkan.net^
+||dns.neeb.it^
 ||dns.aa.net.uk^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
@@ -534,6 +551,7 @@
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
+||draco.plan9-ns2.com^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
 ||dns.porteii.com^
@@ -564,7 +582,9 @@
 ||dns11.quad9.net^
 ||dns12.quad9.net^
 ||dns9.quad9.net^
+||dns.quickline.ch^
 ||doh.quickline.ch^
+||dot.quickline.ch^
 ||dns.quiet.rocks^
 ||dog.dns.qwer.pw^
 ||r1bnc.com^
@@ -594,6 +614,7 @@
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||doh.runsel.id^
+||drs.rustsword.com^
 ||dns1.ryan-palmer.com^
 ||safeservedns.com^
 ||doh.safesurfer.io^
@@ -608,6 +629,7 @@
 ||dns.scuola.org^
 ||2.dnscrypt-cert.dns.seby.io^
 ||doh-2.seby.io^
+||dot.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
 ||pates.services.sfr.fr.casepp.sfr.fr^
@@ -657,6 +679,7 @@
 ||tlz.asia^
 ||d.toairs.com^
 ||toaster.lol^
+||dot.tooli.ca^
 ||nsc.torgues.net^
 ||ns.trcnet.fi^
 ||tri-dns.net^
@@ -686,6 +709,7 @@
 ||vorlif.org^
 ||dns.w3ctag.org^
 ||darkness.is.my.waifu.cz^
+||megumin.is.my.waifu.cz^
 ||dns.wang.art^
 ||dns.wargan.io^
 ||dns.warma.me^
@@ -705,6 +729,7 @@
 ||xbcpb668.com^
 ||xenergy.cc^
 ||doh.xfinity.com^
+||dot.xfinity.com^
 ||doh2.gslb2.xfinity.com^
 ||dns.xlion.tw^
 ||xn--durhre-yxa.de^

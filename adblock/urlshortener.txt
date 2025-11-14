@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Nov 2025 06:05 UTC
-! Version: 2025.1113.0605.13
+! Last modified: 14 Nov 2025 09:29 UTC
+! Version: 2025.1114.0929.50
 ! Syntax: AdBlock
-! Number of entries: 9492
+! Number of entries: 9491
 !
 ||0.gp^
 ||00m.in^
@@ -67,7 +67,6 @@
 ||138beo.site^
 ||139.my^
 ||13k.nz^
-||14103231082025domain.com^
 ||15.tn^
 ||153in.net^
 ||166.lv^

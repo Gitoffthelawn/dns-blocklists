@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763101860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763116320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 06:31 UTC
-; Version: 2025.1114.0631.22
+; Last modified: 14 Nov 2025 10:32 UTC
+; Version: 2025.1114.1032.14
 ; Syntax: RPZ
-; Number of entries: 23234
+; Number of entries: 23228
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -784,8 +784,6 @@ streamingcommunityz.bio CNAME .
 *.streamingcommunityz.bio CNAME .
 vegamovies.bio CNAME .
 *.vegamovies.bio CNAME .
-123moviesonline.biz CNAME .
-*.123moviesonline.biz CNAME .
 altadefinizione.biz CNAME .
 *.altadefinizione.biz CNAME .
 amedia.biz CNAME .
@@ -1304,8 +1302,6 @@ newalbumreleases.unblockit.cat CNAME .
 *.123movie.cc CNAME .
 12canime.cc CNAME .
 *.12canime.cc CNAME .
-1movieshd.cc CNAME .
-*.1movieshd.cc CNAME .
 1watch-free.cc CNAME .
 *.1watch-free.cc CNAME .
 2embed.cc CNAME .
@@ -12714,8 +12710,6 @@ guardaserie.money CNAME .
 *.guardaserie.money CNAME .
 hdmovie2.money CNAME .
 *.hdmovie2.money CNAME .
-123unblock.monster CNAME .
-*.123unblock.monster CNAME .
 flemmix.monster CNAME .
 *.flemmix.monster CNAME .
 ilgeniodellostreaming.monster CNAME .
