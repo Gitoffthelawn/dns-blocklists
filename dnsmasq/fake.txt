@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 09:26 UTC
-# Version: 2025.1115.0926.57
+# Last modified: 15 Nov 2025 13:27 UTC
+# Version: 2025.1115.1327.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14371
+# Number of entries: 14357
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2680,7 +2680,6 @@ local=/convergek.com/
 local=/converse-finland.com/
 local=/conversealesuomi.com/
 local=/conversebrasil.com/
-local=/converseoutlethelsinki.com/
 local=/converseshoesmalaysia.com/
 local=/conversesrbija.com/
 local=/conversesuomi.com/
@@ -2758,7 +2757,6 @@ local=/crankroadbikede.com/
 local=/craveless.at/
 local=/crazyer.shop/
 local=/crazygames.shop/
-local=/crealiveonline.shop/
 local=/creamairs.com/
 local=/creammusicava.shop/
 local=/creatableshop.com/
@@ -2804,7 +2802,6 @@ local=/cryptoassetscontrol.com/
 local=/cryptobourse.net/
 local=/cryptocash24.com/
 local=/cryptofast.net/
-local=/cryptofundfx.com/
 local=/cryptoinnovatebot.net/
 local=/cryptomonaies.com/
 local=/cryptomoney888.com/
@@ -2853,7 +2850,6 @@ local=/custably.com/
 local=/customalls.com/
 local=/cutblajat.com/
 local=/cutcy.com/
-local=/cutepets.site/
 local=/cutlerymarkets.com/
 local=/cutterfarm.de/
 local=/cvc-capital-partners.com/
@@ -2861,7 +2857,6 @@ local=/cvmaker.de/
 local=/cvneed.com/
 local=/cwl-experts.org/
 local=/cyber-haus.de/
-local=/cyberearth.org/
 local=/cyberfoxy.store/
 local=/cycle100percent.com/
 local=/cycleexplorer.com/
@@ -2930,7 +2925,6 @@ local=/dannerschuhe.at/
 local=/dannerwandelschoen.com/
 local=/danster-gmbh.de/
 local=/dantesavoy.de/
-local=/danysmusicshopcheap.shop/
 local=/dapperlogistik.com/
 local=/dar-germany.de/
 local=/darasports.de/
@@ -3008,7 +3002,6 @@ local=/deaddictedtohandbagsapp.com/
 local=/deairecru.com/
 local=/dealfundus.de/
 local=/dealira.com/
-local=/dealit-quick-nl.com/
 local=/dealmanias.com/
 local=/dealparty.nl/
 local=/dealpinaverkauf.com/
@@ -3101,7 +3094,6 @@ local=/dekarcheck.com/
 local=/dekhujoshop.com/
 local=/dekoartikelrabatt.de/
 local=/dekodolphin.de/
-local=/dekoorialeu.shop/
 local=/dekoration-store.com/
 local=/dekorationsmeister.com/
 local=/dekotext.com/
@@ -3227,7 +3219,6 @@ local=/deutschegrammophoneu-outlets.shop/
 local=/deutschezeltwelt.com/
 local=/deutschla.de/
 local=/deutschland.com/
-local=/deutschlandschuh.com/
 local=/deutschlandsonas.de/
 local=/deutschlandticket.website/
 local=/devado.de/
@@ -3239,7 +3230,6 @@ local=/devicesair.com/
 local=/devoteonese.com/
 local=/devoza.de/
 local=/deweins.com/
-local=/dexonirax.com/
 local=/dfdge.shop/
 local=/dfeoq.com/
 local=/dgeyone.com/
@@ -3256,7 +3246,6 @@ local=/diamony.com/
 local=/diamsinvest.fr/
 local=/didro.de/
 local=/die-garten-meister.de/
-local=/die-sattelgalerie.shop/
 local=/diebestenparfums.xyz/
 local=/diection.com/
 local=/diekaffeeverkauf.com/
@@ -4801,7 +4790,6 @@ local=/funfiy.com/
 local=/funjobs.online/
 local=/funlfball.shop/
 local=/funsporthandel.com/
-local=/eldraw.funvisual.rest/
 local=/furdielandwirtschaft.com/
 local=/furnishfinds.com/
 local=/furnituremodish.com/
@@ -12471,7 +12459,6 @@ local=/terminatei.com/
 local=/termink.com/
 local=/terminologe.com/
 local=/termoidraulica.de/
-local=/terra-consult.net/
 local=/terra-tools24.de/
 local=/terragaming.com/
 local=/teslacoin.io/
@@ -13912,7 +13899,6 @@ local=/werners24.de/
 local=/wernersweinwelt.shop/
 local=/wernerzapp.de/
 local=/west-tek.com/
-local=/tryaim.westbush.surf/
 local=/westen-berg.de/
 local=/westensale.com/
 local=/wester-finance.com/

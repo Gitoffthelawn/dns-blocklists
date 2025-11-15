@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 10:29 UTC
-! Version: 2025.1115.1029.14
+! Last modified: 15 Nov 2025 14:30 UTC
+! Version: 2025.1115.1430.29
 ! Syntax: AdBlock
-! Number of entries: 11603
+! Number of entries: 11601
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -2204,7 +2204,6 @@
 ||courseclub.me^
 ||cpasbien.bz^
 ||cpasbien.ch^
-||cpasbien.cm^
 ||cpasbien.com^
 ||cpasbien.io^
 ||cpasbien.me^
@@ -2409,7 +2408,6 @@
 ||dark-angel.ws^
 ||darkanime.stream^
 ||darkarea.pl^
-||darkbooter.com^
 ||darkdata.net^
 ||darkino.co^
 ||darklight.to^

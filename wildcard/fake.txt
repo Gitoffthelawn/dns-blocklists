@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 09:26 UTC
-# Version: 2025.1115.0926.57
+# Last modified: 15 Nov 2025 13:27 UTC
+# Version: 2025.1115.1327.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14371
+# Number of entries: 14357
 #
 *.01broker.com
 *.01crypto.com
@@ -2680,7 +2680,6 @@
 *.converse-finland.com
 *.conversealesuomi.com
 *.conversebrasil.com
-*.converseoutlethelsinki.com
 *.converseshoesmalaysia.com
 *.conversesrbija.com
 *.conversesuomi.com
@@ -2758,7 +2757,6 @@
 *.craveless.at
 *.crazyer.shop
 *.crazygames.shop
-*.crealiveonline.shop
 *.creamairs.com
 *.creammusicava.shop
 *.creatableshop.com
@@ -2804,7 +2802,6 @@
 *.cryptobourse.net
 *.cryptocash24.com
 *.cryptofast.net
-*.cryptofundfx.com
 *.cryptoinnovatebot.net
 *.cryptomonaies.com
 *.cryptomoney888.com
@@ -2853,7 +2850,6 @@
 *.customalls.com
 *.cutblajat.com
 *.cutcy.com
-*.cutepets.site
 *.cutlerymarkets.com
 *.cutterfarm.de
 *.cvc-capital-partners.com
@@ -2861,7 +2857,6 @@
 *.cvneed.com
 *.cwl-experts.org
 *.cyber-haus.de
-*.cyberearth.org
 *.cyberfoxy.store
 *.cycle100percent.com
 *.cycleexplorer.com
@@ -2930,7 +2925,6 @@
 *.dannerwandelschoen.com
 *.danster-gmbh.de
 *.dantesavoy.de
-*.danysmusicshopcheap.shop
 *.dapperlogistik.com
 *.dar-germany.de
 *.darasports.de
@@ -3008,7 +3002,6 @@
 *.deairecru.com
 *.dealfundus.de
 *.dealira.com
-*.dealit-quick-nl.com
 *.dealmanias.com
 *.dealparty.nl
 *.dealpinaverkauf.com
@@ -3101,7 +3094,6 @@
 *.dekhujoshop.com
 *.dekoartikelrabatt.de
 *.dekodolphin.de
-*.dekoorialeu.shop
 *.dekoration-store.com
 *.dekorationsmeister.com
 *.dekotext.com
@@ -3227,7 +3219,6 @@
 *.deutschezeltwelt.com
 *.deutschla.de
 *.deutschland.com
-*.deutschlandschuh.com
 *.deutschlandsonas.de
 *.deutschlandticket.website
 *.devado.de
@@ -3239,7 +3230,6 @@
 *.devoteonese.com
 *.devoza.de
 *.deweins.com
-*.dexonirax.com
 *.dfdge.shop
 *.dfeoq.com
 *.dgeyone.com
@@ -3256,7 +3246,6 @@
 *.diamsinvest.fr
 *.didro.de
 *.die-garten-meister.de
-*.die-sattelgalerie.shop
 *.diebestenparfums.xyz
 *.diection.com
 *.diekaffeeverkauf.com
@@ -4801,7 +4790,6 @@
 *.funjobs.online
 *.funlfball.shop
 *.funsporthandel.com
-*.eldraw.funvisual.rest
 *.furdielandwirtschaft.com
 *.furnishfinds.com
 *.furnituremodish.com
@@ -12471,7 +12459,6 @@
 *.termink.com
 *.terminologe.com
 *.termoidraulica.de
-*.terra-consult.net
 *.terra-tools24.de
 *.terragaming.com
 *.teslacoin.io
@@ -13912,7 +13899,6 @@
 *.wernersweinwelt.shop
 *.wernerzapp.de
 *.west-tek.com
-*.tryaim.westbush.surf
 *.westen-berg.de
 *.westensale.com
 *.wester-finance.com

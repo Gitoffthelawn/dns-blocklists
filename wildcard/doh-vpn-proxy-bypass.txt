@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 10:35 UTC
-# Version: 2025.1115.1035.26
+# Last modified: 15 Nov 2025 14:37 UTC
+# Version: 2025.1115.1437.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6929
+# Number of entries: 6928
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -1280,7 +1280,6 @@
 *.pltw.csproject.org
 *.dns.csswg.org
 *.ct-vpn.com
-*.ab.ctx.cl
 *.webdav.cubecloud.win
 *.cubedns.com
 *.qual.cuprum.ru

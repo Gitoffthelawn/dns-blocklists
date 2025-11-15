@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 10:29 UTC
-# Version: 2025.1115.1029.14
+# Last modified: 15 Nov 2025 14:30 UTC
+# Version: 2025.1115.1430.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11603
+# Number of entries: 11601
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2203,7 +2203,6 @@ local=/couchtuner0.com/
 local=/courseclub.me/
 local=/cpasbien.bz/
 local=/cpasbien.ch/
-local=/cpasbien.cm/
 local=/cpasbien.com/
 local=/cpasbien.io/
 local=/cpasbien.me/
@@ -2408,7 +2407,6 @@ local=/danishbits.org/
 local=/dark-angel.ws/
 local=/darkanime.stream/
 local=/darkarea.pl/
-local=/darkbooter.com/
 local=/darkdata.net/
 local=/darkino.co/
 local=/darklight.to/

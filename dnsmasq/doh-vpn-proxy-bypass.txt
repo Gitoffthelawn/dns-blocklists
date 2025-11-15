@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 10:35 UTC
-# Version: 2025.1115.1035.26
+# Last modified: 15 Nov 2025 14:37 UTC
+# Version: 2025.1115.1437.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6929
+# Number of entries: 6928
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1280,7 +1280,6 @@ local=/a5135324.csie.io/
 local=/pltw.csproject.org/
 local=/dns.csswg.org/
 local=/ct-vpn.com/
-local=/ab.ctx.cl/
 local=/webdav.cubecloud.win/
 local=/cubedns.com/
 local=/qual.cuprum.ru/

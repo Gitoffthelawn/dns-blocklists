@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 10:28 UTC
-# Version: 2025.1115.1028.50
+# Last modified: 15 Nov 2025 14:30 UTC
+# Version: 2025.1115.1430.06
 # Syntax: Domains (without subdomains)
-# Number of entries: 48799
+# Number of entries: 48777
 #
 0-casino.info
 000-online-casino.com
@@ -700,7 +700,6 @@ images.191829838.com
 1wincasino-rulf.buzz
 1wincasino-rume.buzz
 1wincasino-vhod.gives
-1wincasino222.buzz
 1wincasino247.ru
 1wincasino3.com
 1wincasinoa1.online
@@ -1710,7 +1709,6 @@ images.191829838.com
 22bet-bet.com
 22bet-casino.cz
 22bet-casino.sk
-22bet-casino-az.net
 22bet-casino-cz.com
 22bet-casino-de.com
 22bet-casino-es.com
@@ -2326,7 +2324,6 @@ images.394993282.com
 453slotsbar.com
 454slotsbar.com
 4555betbets.com
-4562bets10.com
 4567.quest
 456bet.com
 456bet.sg
@@ -3480,7 +3477,6 @@ images.6929183.com
 7k0019.casino
 7k0021.casino
 7k0210.casino
-7k0312.casino
 7k0711.casino
 7k071125.casino
 7k10070.casino
@@ -8601,7 +8597,6 @@ bigobets899.icu
 bigobets899.lol
 bigobets899.site
 bigplay7899.link
-bigpodcast88.site
 bigsatu.xyz
 bigsembilan.xyz
 bigsepuluh.xyz
@@ -9655,6 +9650,7 @@ bra.com
 bra.vip
 bra.win
 bra365.com
+bra365.game
 bra88.bet
 braarbetsliv.se
 brabet.com
@@ -16855,7 +16851,6 @@ comeonwetten.de
 cometa-casino-registraciya7.info
 comicplaycasino.com
 comicplaycasino.site
-commaltcasinogiris.com
 commercecasino.com
 commissionedcomic.com
 commissionkings.ag
@@ -16874,7 +16869,6 @@ comvdcasino.com
 comvegaslotsonline.com
 conbets.com
 concessionaria.shop
-concierge-contracts.com
 concursodevinoscasinodemadrid.es
 condorbet.casino
 confiancasports.com
@@ -16971,7 +16965,6 @@ cosmoslotsgoldendust.com
 costabingo.com
 costagames.com
 costaricacasinos.ca
-costumeshalloween.biz
 cote-casino.com
 countryclubhyderabad.com
 countrylifecountrywife.com
@@ -17099,7 +17092,6 @@ cricketbettingguru.com
 cricketonlinebetting.in
 crictips.com
 criptocasino.cc
-criseucassinodeslots.online
 cristal.bet
 cristalcasinopl.com
 cristalpalaceonline.com
@@ -17194,7 +17186,6 @@ cryptoboss333.casino
 cryptoboss777casino22.top
 cryptoboss888casino22.top
 cryptobosscasino.com
-cryptobosscasino.fun
 cryptobosscasino.info
 cryptobosscasino.xyz
 cryptobosscasino-mm8t.ru
@@ -17406,7 +17397,6 @@ dachbet.com
 dachbet-casino.com
 dachbet-casino.dk
 dadatu.app
-daddy-casino.monster
 daddy-casino.network
 daddy-casino-1sx0.ru
 daddy-casino-eay.top
@@ -17432,7 +17422,6 @@ daddy-casino654.org
 daddy-casinoo.cc
 daddy-casinos.com
 daddy-casinoz.cam
-daddy203.casino
 daddy2053.casino
 daddy637c.casino
 daddy77casino.com
@@ -17553,7 +17542,6 @@ danatoto126.com
 danatoto130.com
 dance-battle.com
 dancebet90.casino
-dancelegacyinc.com
 danganronpamerch.shop
 dangky1xbet.com
 dangkyok365.vip
@@ -17660,7 +17648,6 @@ dclottery.com
 dcmdirect.com
 dd0622.com
 dd8jogo.website
-ddaddycasino578.com
 ddbolakaki.xyz
 ddbolaseblak.xyz
 dddjogo.com
@@ -17668,7 +17655,6 @@ dduu3.com
 dduu5.com
 deadhomersociety.com
 deadspin.com
-deafpokerfever.live
 dealbet.co
 dealbet.io
 dealemupcasino.net
@@ -17752,9 +17738,7 @@ denderacasino-de.com
 dendycasino25.ru
 deneme-bonusu-casino.pro
 denmarkcasinozone.com
-denverindiaexpress.com
 deonlinecasino.com
-depo89live.lol
 depobos139.com
 deposit-withdraw.com
 depositbonustopcasino.com
@@ -17810,7 +17794,6 @@ dewacash.com
 dewacasino.co
 dewacasino168vip.lol
 dewacasinoalternatiflink.xyz
-dewacasinopage.com
 dewagacor99.monster
 dewagameslot.bio
 dewaharta88.com
@@ -17878,12 +17861,10 @@ digibet.com
 digiminds.net
 digislotsr.lat
 digitalartserved.com
-digitalbiggy.com
 digitalentrepreneur.id
 digitalmarkettech.com
 digitalphono.com
 digitastudio.com
-dikutip.com
 dimensionhipica.net
 dinamobet.com
 ding-casino.com
@@ -17940,7 +17921,6 @@ djbet133.com
 djbet44.com
 djbet55.com
 djbetsport.com
-djfrenic.com
 djifshuie89shjdhsdxbvckrgio.com
 dk-casino-online.com
 dk-casinoeronline.com
@@ -20489,7 +20469,6 @@ freshcasino012.site
 freshcasino030.site
 freshcasino101.site
 freshcasino102.site
-freshcasino103.site
 freshcasino1342.com
 freshcasino2.com
 freshcasino2566.com
@@ -25300,7 +25279,6 @@ jojobetcasinoplatformu.com
 jojobets1087.com
 jojobets1095.com
 jojobets1096.com
-jojobets1097.com
 jojobets970.com
 jojobets971.com
 jojobets972.com
@@ -26028,7 +26006,6 @@ kangenduit.xyz
 kangtukang.id
 kangubet.com
 kanjengslot.store
-kankoku.org
 kannada247.co
 kannada247.in
 kano777.homes
@@ -26301,7 +26278,6 @@ kentcasino222.buzz
 kentcasino312.buzz
 kentcasino378.buzz
 kentcasino44.buzz
-kentcasino674.buzz
 kentcasino777.buzz
 kentcasino98.buzz
 kentcasinobonus.pro
@@ -30779,6 +30755,7 @@ mirrorbingo.com
 mirrormarathonbet.com
 mirrorpoker.top
 miscasasdeapuestas.com
+misli.az
 misli.com
 miso88.com
 miso88-5.com
@@ -33391,7 +33368,6 @@ onlinecasinomaldives.com
 onlinecasinomanitoba.com
 onlinecasinomitstartguthaben.org
 onlinecasinomsia.com
-onlinecasinomyanmar.com
 onlinecasinonewzealand.nz
 onlinecasinonm.com
 onlinecasinonodeposit001.com
@@ -37748,7 +37724,6 @@ r7-1878.casino
 r7-2878.casino
 r7-3878.casino
 r7-521.casino
-r7-549.casino
 r7-917.casino
 r7-921.casino
 r7-922.casino
@@ -41495,7 +41470,6 @@ spadesqueen.com
 spamreducer.net
 spanien.casino
 sparesortcasino.com
-spark.poker
 sparkleslots.com
 sparkleslots1.com
 sparkleslotsbet.com
@@ -42695,7 +42669,6 @@ sweepslots.com
 sweepsroyal.com
 sweepstake.mobi
 sweepstakescasino.com
-sweet-bonanza-giris-casino.ink
 sweet777slots.net
 sweetsweeps.com
 sweetsweepscasinos.com
@@ -44513,7 +44486,10 @@ ultrarich888casino.com
 ultrarich88casino.com
 ultrasbet.com
 ultraspinscasino.com
+um1.bet
 uma-x.jp
+umbet1.com
+umbet4.com
 umbingo.com
 umcasinobrasil.com
 umdilabs.com
@@ -44903,7 +44879,6 @@ vavada60d.casino
 vavada61d.casino
 vavada62d.casino
 vavada63d.casino
-vavada643.casino
 vavada64d.casino
 vavada65d.casino
 vavada66d.casino
@@ -45619,6 +45594,7 @@ vipjlblackjack.com
 vipjlcasino.com
 vipjlpoker.com
 vipjlslots.com
+vipkz99901.com
 vipleyu.com
 vipmlnslots.com
 vippari-160130.top
@@ -47637,6 +47613,7 @@ winshark.com
 winshark.link
 winshark-casino-australia.com
 winshark-casino-es.com
+winshark02.com
 winshark1.com
 winsharkcasino-au.com
 winsharkcasinoaustralia.com
@@ -47779,6 +47756,7 @@ wjslots.cc
 wjslots.club
 wk777casino.com
 wkbet.com
+wkbet32.com
 wlatogel.click
 wlive888.com
 wm55-casino.app

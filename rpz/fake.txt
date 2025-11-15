@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763198760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763213220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 09:26 UTC
-; Version: 2025.1115.0926.57
+; Last modified: 15 Nov 2025 13:27 UTC
+; Version: 2025.1115.1327.35
 ; Syntax: RPZ
-; Number of entries: 28742
+; Number of entries: 28714
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4670,8 +4670,6 @@ conversealesuomi.com CNAME .
 *.conversealesuomi.com CNAME .
 conversebrasil.com CNAME .
 *.conversebrasil.com CNAME .
-converseoutlethelsinki.com CNAME .
-*.converseoutlethelsinki.com CNAME .
 converseshoesmalaysia.com CNAME .
 *.converseshoesmalaysia.com CNAME .
 conversesrbija.com CNAME .
@@ -4824,8 +4822,6 @@ cryptoassetscontrol.com CNAME .
 *.cryptoassetscontrol.com CNAME .
 cryptocash24.com CNAME .
 *.cryptocash24.com CNAME .
-cryptofundfx.com CNAME .
-*.cryptofundfx.com CNAME .
 cryptomonaies.com CNAME .
 *.cryptomonaies.com CNAME .
 cryptomoney888.com CNAME .
@@ -5058,8 +5054,6 @@ deairecru.com CNAME .
 *.deairecru.com CNAME .
 dealira.com CNAME .
 *.dealira.com CNAME .
-dealit-quick-nl.com CNAME .
-*.dealit-quick-nl.com CNAME .
 dealmanias.com CNAME .
 *.dealmanias.com CNAME .
 dealpinaverkauf.com CNAME .
@@ -5290,8 +5284,6 @@ deutschezeltwelt.com CNAME .
 *.deutschezeltwelt.com CNAME .
 deutschland.com CNAME .
 *.deutschland.com CNAME .
-deutschlandschuh.com CNAME .
-*.deutschlandschuh.com CNAME .
 developmeny.com CNAME .
 *.developmeny.com CNAME .
 devicesair.com CNAME .
@@ -5300,8 +5292,6 @@ devoteonese.com CNAME .
 *.devoteonese.com CNAME .
 deweins.com CNAME .
 *.deweins.com CNAME .
-dexonirax.com CNAME .
-*.dexonirax.com CNAME .
 dfeoq.com CNAME .
 *.dfeoq.com CNAME .
 dgeyone.com CNAME .
@@ -25706,8 +25696,6 @@ tedbakersuomi.net CNAME .
 *.tedbakersuomi.net CNAME .
 telefoonshop.net CNAME .
 *.telefoonshop.net CNAME .
-terra-consult.net CNAME .
-*.terra-consult.net CNAME .
 teslaxx.net CNAME .
 *.teslaxx.net CNAME .
 thebrooklyn.net CNAME .
@@ -26018,8 +26006,6 @@ corgiswap.org CNAME .
 *.corgiswap.org CNAME .
 cwl-experts.org CNAME .
 *.cwl-experts.org CNAME .
-cyberearth.org CNAME .
-*.cyberearth.org CNAME .
 digipoint.org CNAME .
 *.digipoint.org CNAME .
 easy-software.org CNAME .
@@ -26316,8 +26302,6 @@ ziviveo5.pro CNAME .
 *.ziviveo5.pro CNAME .
 l6shop.pw CNAME .
 *.l6shop.pw CNAME .
-eldraw.funvisual.rest CNAME .
-*.eldraw.funvisual.rest CNAME .
 greeceex.rest CNAME .
 *.greeceex.rest CNAME .
 aaaclothing.ru CNAME .
@@ -26590,8 +26574,6 @@ crazyer.shop CNAME .
 *.crazyer.shop CNAME .
 crazygames.shop CNAME .
 *.crazygames.shop CNAME .
-crealiveonline.shop CNAME .
-*.crealiveonline.shop CNAME .
 creammusicava.shop CNAME .
 *.creammusicava.shop CNAME .
 crgshopava.shop CNAME .
@@ -26604,8 +26586,6 @@ dailyjoy.shop CNAME .
 *.dailyjoy.shop CNAME .
 daleofnorway-eu.shop CNAME .
 *.daleofnorway-eu.shop CNAME .
-danysmusicshopcheap.shop CNAME .
-*.danysmusicshopcheap.shop CNAME .
 de-rimowa.shop CNAME .
 *.de-rimowa.shop CNAME .
 de4teslaava.shop CNAME .
@@ -26630,8 +26610,6 @@ deinglueckswinkel.shop CNAME .
 *.deinglueckswinkel.shop CNAME .
 deinwennbuch.shop CNAME .
 *.deinwennbuch.shop CNAME .
-dekoorialeu.shop CNAME .
-*.dekoorialeu.shop CNAME .
 dentrotecdeeu.shop CNAME .
 *.dentrotecdeeu.shop CNAME .
 desss.shop CNAME .
@@ -26646,8 +26624,6 @@ deutschegrammophoneu-outlets.shop CNAME .
 *.deutschegrammophoneu-outlets.shop CNAME .
 dfdge.shop CNAME .
 *.dfdge.shop CNAME .
-die-sattelgalerie.shop CNAME .
-*.die-sattelgalerie.shop CNAME .
 diestrumpfmacherava.shop CNAME .
 *.diestrumpfmacherava.shop CNAME .
 digiopdesign.shop CNAME .
@@ -27920,8 +27896,6 @@ pellet-bio.company.site CNAME .
 *.pellet-bio.company.site CNAME .
 pellet-ecos.company.site CNAME .
 *.pellet-ecos.company.site CNAME .
-cutepets.site CNAME .
-*.cutepets.site CNAME .
 depanten-gel.site CNAME .
 *.depanten-gel.site CNAME .
 depickedwell.site CNAME .
@@ -28250,8 +28224,6 @@ bitcoinasystem.su CNAME .
 *.bitcoinasystem.su CNAME .
 d-ticket.su CNAME .
 *.d-ticket.su CNAME .
-tryaim.westbush.surf CNAME .
-*.tryaim.westbush.surf CNAME .
 applified.tech CNAME .
 *.applified.tech CNAME .
 autoled.tech CNAME .

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 09:28 UTC
-! Version: 2025.1115.0928.38
+! Last modified: 15 Nov 2025 13:29 UTC
+! Version: 2025.1115.1329.17
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1903,7 +1903,6 @@
 @@||cut.pe^
 @@||cut.sk^
 @@||cut-ly.com^
-@@||cut2.ir^
 @@||cutdown.link^
 @@||cute.link^
 @@||cutearns.com^
@@ -2146,7 +2145,6 @@
 @@||djo924.com^
 @@||djp.li^
 @@||djurl.com^
-@@||dkly.me^
 @@||dkng.co^
 @@||dky.bz^
 @@||dl.gl^

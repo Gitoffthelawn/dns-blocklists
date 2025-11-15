@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 18:36 UTC
-# Version: 2025.1114.1836.56
+# Last modified: 15 Nov 2025 13:57 UTC
+# Version: 2025.1115.1357.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1331
+# Number of entries: 1330
 #
 local=/000a.de/
 local=/000space.com/
@@ -448,7 +448,6 @@ local=/cprapid.com/
 local=/sitebeat.crazydomains.com/
 local=/creatorlink.net/
 local=/crossurl.shop/
-local=/crypto-market-world.com/
 local=/cryptofinancetrack.com/
 local=/cryptonight.net/
 local=/cs-clan.org/
