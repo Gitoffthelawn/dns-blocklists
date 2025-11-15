@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 22:37 UTC
-# Version: 2025.1114.2237.21
+# Last modified: 15 Nov 2025 06:37 UTC
+# Version: 2025.1115.0637.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6924
+# Number of entries: 6921
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -412,7 +412,6 @@ local=/anonproxy.eu/
 local=/anonproxy.org/
 local=/anonvpn.io/
 local=/anonwebproxy.com/
-local=/anonymitynetwork.com/
 local=/anonymize.com/
 local=/anonymizer.com/
 local=/anonymizing.com/
@@ -458,7 +457,6 @@ local=/appshost.us/
 local=/iron-dot-cobalt-antenna-219709.appspot.com/
 local=/vpn.appsverse.com/
 local=/dns.aquilenet.fr/
-local=/locval.araminimichael.ch/
 local=/arashi.solutions/
 local=/arcai.com/
 local=/doh.archuser.org/
@@ -528,7 +526,6 @@ local=/home.azagra.dev/
 local=/vdsn-nl-2.azatmutq.com/
 local=/dns.azcom.dev/
 local=/dns.azfar.my/
-local=/learn.azimei.cn/
 local=/azirevpn.com/
 local=/doh.azoris.ovh/
 local=/dns.azsopro.net/

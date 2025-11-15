@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Nov 2025 22:16 UTC
-! Version: 2025.1114.2216.01
+! Last modified: 15 Nov 2025 05:29 UTC
+! Version: 2025.1115.0529.37
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -689,11 +689,9 @@
 @@||anda.li^
 @@||andauth.co^
 @@||andmdo.com^
-@@||ane.ong^
 @@||aneed.net^
 @@||angl.at^
 @@||anh.to^
-@@||anizam.ru^
 @@||url.ankur-kumar.in^
 @@||anlink.eu^
 @@||anmeld.biz^
@@ -846,7 +844,6 @@
 @@||avlne.ws^
 @@||avlr.co^
 @@||avtk.io^
-@@||avtub.pw^
 @@||avyc.io^
 @@||avydn.co^
 @@||awactools.com^
@@ -858,7 +855,6 @@
 @@||aww.al^
 @@||awwurl.com^
 @@||awy.to^
-@@||axcme.com^
 @@||axees.ir^
 @@||axiom.link^
 @@||axios.link^
@@ -919,7 +915,6 @@
 @@||baktifranchise.live^
 @@||balls.no^
 @@||it.baltgroup.com^
-@@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
 @@||bankua.xyz^
@@ -1110,7 +1105,6 @@
 @@||bitlyshort.com^
 @@||bitlyvi.com^
 @@||bitlz.cc^
-@@||bitnew.us^
 @@||bitq.link^
 @@||bitradex.net^
 @@||bitri.link^
@@ -1323,7 +1317,6 @@
 @@||bujo.li^
 @@||buk.me^
 @@||buka.coffee^
-@@||buka.red^
 @@||bul.lu^
 @@||bulangiul.net^
 @@||bulink.co^
@@ -4315,6 +4308,7 @@
 @@||linkxl.de^
 @@||linky.cc^
 @@||linky.is^
+@@||linky.ph^
 @@||linky31.com^
 @@||linkye.net^
 @@||linkyvicky.com^

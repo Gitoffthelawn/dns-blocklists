@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 22:37 UTC
-# Version: 2025.1114.2237.21
+# Last modified: 15 Nov 2025 06:37 UTC
+# Version: 2025.1115.0637.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6924
+# Number of entries: 6921
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -412,7 +412,6 @@
 *.anonproxy.org
 *.anonvpn.io
 *.anonwebproxy.com
-*.anonymitynetwork.com
 *.anonymize.com
 *.anonymizer.com
 *.anonymizing.com
@@ -458,7 +457,6 @@
 *.iron-dot-cobalt-antenna-219709.appspot.com
 *.vpn.appsverse.com
 *.dns.aquilenet.fr
-*.locval.araminimichael.ch
 *.arashi.solutions
 *.arcai.com
 *.doh.archuser.org
@@ -528,7 +526,6 @@
 *.vdsn-nl-2.azatmutq.com
 *.dns.azcom.dev
 *.dns.azfar.my
-*.learn.azimei.cn
 *.azirevpn.com
 *.doh.azoris.ovh
 *.dns.azsopro.net

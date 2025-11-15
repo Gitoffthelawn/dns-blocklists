@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 22:16 UTC
-# Version: 2025.1114.2216.01
+# Last modified: 15 Nov 2025 05:29 UTC
+# Version: 2025.1115.0529.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9553
+# Number of entries: 9547
 #
 local=/0.gp/
 local=/00m.in/
@@ -712,11 +712,9 @@ local=/and.ee/
 local=/anda.li/
 local=/andauth.co/
 local=/andmdo.com/
-local=/ane.ong/
 local=/aneed.net/
 local=/angl.at/
 local=/anh.to/
-local=/anizam.ru/
 local=/url.ankur-kumar.in/
 local=/anlink.eu/
 local=/anmeld.biz/
@@ -876,7 +874,6 @@ local=/avl.mx/
 local=/avlne.ws/
 local=/avlr.co/
 local=/avtk.io/
-local=/avtub.pw/
 local=/avyc.io/
 local=/avydn.co/
 local=/awactools.com/
@@ -888,7 +885,6 @@ local=/awtgatp.com/
 local=/aww.al/
 local=/awwurl.com/
 local=/awy.to/
-local=/axcme.com/
 local=/axees.ir/
 local=/axiom.link/
 local=/axios.link/
@@ -949,7 +945,6 @@ local=/baixeapk.com/
 local=/baktifranchise.live/
 local=/balls.no/
 local=/it.baltgroup.com/
-local=/bamaccoin.com/
 local=/bamerus.top/
 local=/banaccroblox.com/
 local=/bankua.xyz/
@@ -1149,7 +1144,6 @@ local=/bitlylinks.com/
 local=/bitlyshort.com/
 local=/bitlyvi.com/
 local=/bitlz.cc/
-local=/bitnew.us/
 local=/bitq.link/
 local=/bitradex.net/
 local=/bitri.link/
@@ -1366,7 +1360,6 @@ local=/builthow.live/
 local=/bujo.li/
 local=/buk.me/
 local=/buka.coffee/
-local=/buka.red/
 local=/bul.lu/
 local=/bulangiul.net/
 local=/bulink.co/
@@ -4430,6 +4423,7 @@ local=/linkwizz.com/
 local=/linkxl.de/
 local=/linky.cc/
 local=/linky.is/
+local=/linky.ph/
 local=/linky31.com/
 local=/linkye.net/
 local=/linkyvicky.com/

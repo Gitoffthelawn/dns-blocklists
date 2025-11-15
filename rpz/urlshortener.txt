@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763158560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763184540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 22:16 UTC
-; Version: 2025.1114.2216.01
+; Last modified: 15 Nov 2025 05:29 UTC
+; Version: 2025.1115.0529.37
 ; Syntax: RPZ
-; Number of entries: 19106
+; Number of entries: 19094
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3325,8 +3325,6 @@ awtgatp.com CNAME .
 *.awtgatp.com CNAME .
 awwurl.com CNAME .
 *.awwurl.com CNAME .
-axcme.com CNAME .
-*.axcme.com CNAME .
 azhfoom.com CNAME .
 *.azhfoom.com CNAME .
 azipurl.com CNAME .
@@ -3347,8 +3345,6 @@ baixeapk.com CNAME .
 *.baixeapk.com CNAME .
 it.baltgroup.com CNAME .
 *.it.baltgroup.com CNAME .
-bamaccoin.com CNAME .
-*.bamaccoin.com CNAME .
 banaccroblox.com CNAME .
 *.banaccroblox.com CNAME .
 bannercho.com CNAME .
@@ -15203,8 +15199,6 @@ urltiny.one CNAME .
 *.urltiny.one CNAME .
 youz.one CNAME .
 *.youz.one CNAME .
-ane.ong CNAME .
-*.ane.ong CNAME .
 ali.onl CNAME .
 *.ali.onl CNAME .
 amoz.onl CNAME .
@@ -15855,6 +15849,8 @@ mpfi.com.ph CNAME .
 *.mpfi.com.ph CNAME .
 used.com.ph CNAME .
 *.used.com.ph CNAME .
+linky.ph CNAME .
+*.linky.ph CNAME .
 ofx.ph CNAME .
 *.ofx.ph CNAME .
 tts.sh.ph CNAME .
@@ -16237,8 +16233,6 @@ thefp.pub CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
 *.amzn.pw CNAME .
-avtub.pw CNAME .
-*.avtub.pw CNAME .
 bely.pw CNAME .
 *.bely.pw CNAME .
 bitly.pw CNAME .
@@ -16391,8 +16385,6 @@ zlw.re CNAME .
 *.zlw.re CNAME .
 atres.red CNAME .
 *.atres.red CNAME .
-buka.red CNAME .
-*.buka.red CNAME .
 gacor123.red CNAME .
 *.gacor123.red CNAME .
 giv.red CNAME .
@@ -16515,8 +16507,6 @@ weare.rs CNAME .
 *.27g.ru CNAME .
 3le.ru CNAME .
 *.3le.ru CNAME .
-anizam.ru CNAME .
-*.anizam.ru CNAME .
 b23.ru CNAME .
 *.b23.ru CNAME .
 bio-links.ru CNAME .
@@ -18221,8 +18211,6 @@ beeb.us CNAME .
 *.beeb.us CNAME .
 beif.us CNAME .
 *.beif.us CNAME .
-bitnew.us CNAME .
-*.bitnew.us CNAME .
 bn8.us CNAME .
 *.bn8.us CNAME .
 bofh.us CNAME .

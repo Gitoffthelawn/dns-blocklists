@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 22:31 UTC
-# Version: 2025.1114.2231.22
+# Last modified: 15 Nov 2025 06:30 UTC
+# Version: 2025.1115.0630.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11610
+# Number of entries: 11604
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -650,7 +650,6 @@ local=/altadefinizione01.love/
 local=/altadefinizione01.online/
 local=/altadefinizione01.photo/
 local=/altadefinizione01.promo/
-local=/altadefinizione01.site/
 local=/altadefinizione01.tel/
 local=/altadefinizione01.top/
 local=/altadefinizione01.vg/
@@ -883,7 +882,6 @@ local=/apkmaniafull.com/
 local=/apkmate.com/
 local=/apkmb.com/
 local=/apkmine.com/
-local=/apkmirrorfull.com/
 local=/apkmod9.com/
 local=/apkmodbrasil.com/
 local=/apkmodct.com/
@@ -1470,7 +1468,6 @@ local=/bonsaihd.fun/
 local=/bt.bontal.net/
 local=/tracker.bontal.net/
 local=/bookaudiobook.net/
-local=/bookaura.top/
 local=/bookddl.com/
 local=/bookfinder.tech/
 local=/bookgrill.com/
@@ -1480,7 +1477,6 @@ local=/books-share.com/
 local=/booktracker.org/
 local=/boomep.com/
 local=/boommovie.org/
-local=/boooooooooooog.top/
 local=/boostfluence.com/
 local=/boot.lu/
 local=/boot.ml/
@@ -1646,7 +1642,6 @@ local=/calcio.pub/
 local=/calcio.ws/
 local=/calibrecompanion.co/
 local=/caly-film.pl/
-local=/cambro.tv/
 local=/cambros.tv/
 local=/camclips.tv/
 local=/camflow.tv/
@@ -2563,7 +2558,6 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
-local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/

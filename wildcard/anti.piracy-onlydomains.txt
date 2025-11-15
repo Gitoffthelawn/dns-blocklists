@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 22:31 UTC
-# Version: 2025.1114.2231.22
+# Last modified: 15 Nov 2025 06:30 UTC
+# Version: 2025.1115.0630.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 11610
+# Number of entries: 11604
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -650,7 +650,6 @@ altadefinizione01.love
 altadefinizione01.online
 altadefinizione01.photo
 altadefinizione01.promo
-altadefinizione01.site
 altadefinizione01.tel
 altadefinizione01.top
 altadefinizione01.vg
@@ -883,7 +882,6 @@ apkmaniafull.com
 apkmate.com
 apkmb.com
 apkmine.com
-apkmirrorfull.com
 apkmod9.com
 apkmodbrasil.com
 apkmodct.com
@@ -1470,7 +1468,6 @@ bonsaihd.fun
 bt.bontal.net
 tracker.bontal.net
 bookaudiobook.net
-bookaura.top
 bookddl.com
 bookfinder.tech
 bookgrill.com
@@ -1480,7 +1477,6 @@ books-share.com
 booktracker.org
 boomep.com
 boommovie.org
-boooooooooooog.top
 boostfluence.com
 boot.lu
 boot.ml
@@ -1646,7 +1642,6 @@ calcio.pub
 calcio.ws
 calibrecompanion.co
 caly-film.pl
-cambro.tv
 cambros.tv
 camclips.tv
 camflow.tv
@@ -2563,7 +2558,6 @@ mixes.dfx.at
 tr-rh-zhuqiy.dgj055.icu
 tr-zhuqiy-1.dgj055.icu
 tr-zhuqiy-2.dgj055.icu
-tracker-zhuqiy.dgj055.icu
 trl-zhuqiy.dgj055.icu
 tracker.zhuqiy.dgj055.icu
 dhakadownload.com

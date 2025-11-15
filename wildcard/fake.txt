@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 21:27 UTC
-# Version: 2025.1114.2127.56
+# Last modified: 15 Nov 2025 05:27 UTC
+# Version: 2025.1115.0527.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14356
+# Number of entries: 14331
 #
 *.01broker.com
 *.01crypto.com
@@ -353,7 +353,6 @@
 *.allesfurzuhause.de
 *.allesheizung.de
 *.alleuropills.com
-*.allfree.me
 *.allgamesinone.com
 *.allgifts.site
 *.allgoodssale.com
@@ -456,7 +455,6 @@
 *.alvaxi.com
 *.alvinegroup.com
 *.alzaccess.com
-*.am-dessous.shop
 *.am-luxury.de
 *.amagliecalcio.com
 *.ntqcp9y.amapolaproject.eu
@@ -466,7 +464,6 @@
 *.amazenda.com
 *.amazonboxus.com
 *.amazoncoin.su
-*.amazonglobal.live
 *.amazongori.com
 *.amazonliw.com
 *.amazonspallet.com
@@ -663,8 +660,6 @@
 *.appworldng.com
 *.apremiumsurf.com
 *.aprodello.de
-*.apropos-provence.shop
-*.aprs-karlsruhe.de
 *.aprwipley.life
 *.aptekabg24.com
 *.aptekabg247.com
@@ -721,7 +716,6 @@
 *.arketrabatt.de
 *.arl-handel.de
 *.arlbergatelier.at
-*.arlequininvest.io
 *.arlodesire.com
 *.armanivives.com
 *.armedangelsrabatt.de
@@ -769,7 +763,6 @@
 *.asfinag.me
 *.asfinag.today
 *.asfinaga.com
-*.asfinagl.com
 *.asfintarg.com
 *.asflnaq.me
 *.ashatoslombardini.com
@@ -785,7 +778,6 @@
 *.asphaltgoldde.live
 *.aspierhireworksde.com
 *.aspierhireworksde.works
-*.stocks.asppeglobal-pro.com
 *.assemblytoolprada.com
 *.assess-health.com
 *.asset-ace.org
@@ -818,7 +810,6 @@
 *.atikisoi.com
 *.atinvesting212.co
 *.atlantictrikot.de
-*.atologiesm.com
 *.aton-invest.com
 *.atossy.de
 *.atpgoldenpass.com
@@ -849,11 +840,9 @@
 *.aufsperrdienst-hilfe.at
 *.aufsperrdienst-service.at
 *.aufsperrhilfe.at
-*.auftrag-rezeptfrei.de
 *.augenbrauenlidschatten.com
 *.augenmanufaktur.shop
 *.augennstern.com
-*.auggener-wein.shop
 *.aupair-mama.de
 *.aura-basel.ch
 *.aurainfusions.com
@@ -969,7 +958,6 @@
 *.axonrcparts.com
 *.axpsv.com
 *.axxionallliance.com
-*.ay-grunflache.com
 *.ayanan.shop
 *.aybl.at
 *.aybl.pl
@@ -1035,7 +1023,6 @@
 *.bademodeschritte.com
 *.badespielzeugstore.com
 *.badezimmerfein.com
-*.badgyalbrand.com
 *.badhaushalt.com
 *.badspiegelstore.com
 *.badundheizungshop.de
@@ -1166,14 +1153,12 @@
 *.baumarktverkauf.de
 *.baumasters.com
 *.baumeistermodels.com
-*.baumwollbabywholesale.shop
 *.bauprofimaschinen.com
 *.baurino.com
 *.baushopping.com
 *.baustellenbedarfbillig.com
 *.baustellenbedarfrabatt.com
 *.baustoffe-koehn.de
-*.baustoffzentrale.shop
 *.bauundwerkzeug.com
 *.bauzeug.de
 *.baya-bikini.de
@@ -1186,7 +1171,6 @@
 *.bba-shopify.com
 *.bbcnewstoday.com
 *.bbgadget.de
-*.bbladi.shop
 *.bbqaccessoriessale.com
 *.bc-rheine.de
 *.bcgroups-lond.com
@@ -1437,7 +1421,6 @@
 *.betterwishes-shop.com
 *.betthimmel.de
 *.bettyshops.com
-*.beuniger.de
 *.beweich.de
 *.bewerte-den-shop.de
 *.bexisassets.com
@@ -1503,7 +1486,6 @@
 *.bikepartsale.com
 *.bikepartsneu.com
 *.bikepower.shop
-*.bikeprodukte.com
 *.bikeridestore.com
 *.bikes-pro.com
 *.bikesattel.at
@@ -1611,7 +1593,6 @@
 *.bitcoinloophole.io
 *.bitcoinminetrix.com
 *.bitcoinmotion.com
-*.bitcoinmotion.io
 *.bitcoinprofit-fr.com
 *.bitcoinrevolution.org
 *.bitconnect.co
@@ -1645,7 +1626,6 @@
 *.blackgurlzsmagickloset.com
 *.blacksheepsportseu.shop
 *.bladebasics.com
-*.blaesshuhn-konstanz.shop
 *.blagabo.com
 *.blakecompute.com
 *.blakelydeutschland.com
@@ -1754,7 +1734,6 @@
 *.bonnieandbloom.com
 *.bonprixsho.shop
 *.bonsaiexperte.com
-*.bonvoue.de
 *.boohoo-shop.com
 *.booken.shop
 *.bookinginfo.at
@@ -2060,7 +2039,6 @@
 *.camperseur.com
 *.campertrading.com
 *.campfuns.com
-*.campidoo.shop
 *.camping-basar.com
 *.camping-bewegung.com
 *.camping-de.com
@@ -2085,7 +2063,6 @@
 *.canadianhealthcarepharmacymall.com
 *.canadianhealthncaremall.com
 *.canadiannewstoday.com
-*.canapechic.com
 *.canaryrentalvillas.com
 *.canaryvacationhome.com
 *.canbeloutlet.com
@@ -2101,7 +2078,6 @@
 *.cantaiyi.com
 *.cantheme.com
 *.canvasvista.com
-*.cap10-wallet.com
 *.capacityk.com
 *.capatee.com
 *.capital-coins.com
@@ -2152,7 +2128,6 @@
 *.carqiwireless.com
 *.carriageglobal.com
 *.carrieri-handel.de
-*.carrujos.com
 *.carshades.at
 *.ytjef.carsonarchitectsinc.com
 *.carstruckstoy.com

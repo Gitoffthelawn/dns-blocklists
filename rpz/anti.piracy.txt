@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763159460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763188200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 22:31 UTC
-; Version: 2025.1114.2231.22
+; Last modified: 15 Nov 2025 06:30 UTC
+; Version: 2025.1115.0630.58
 ; Syntax: RPZ
-; Number of entries: 23220
+; Number of entries: 23208
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2980,8 +2980,6 @@ apkmb.com CNAME .
 *.apkmb.com CNAME .
 apkmine.com CNAME .
 *.apkmine.com CNAME .
-apkmirrorfull.com CNAME .
-*.apkmirrorfull.com CNAME .
 apkmod9.com CNAME .
 *.apkmod9.com CNAME .
 apkmodbrasil.com CNAME .
@@ -10084,8 +10082,6 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
-tracker-zhuqiy.dgj055.icu CNAME .
-*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -19264,8 +19260,6 @@ tracker.52pt.site CNAME .
 *.tracker.52pt.site CNAME .
 allinonedownloadzz.site CNAME .
 *.allinonedownloadzz.site CNAME .
-altadefinizione01.site CNAME .
-*.altadefinizione01.site CNAME .
 ambassadorddl.site CNAME .
 *.ambassadorddl.site CNAME .
 antenasport.site CNAME .
@@ -20768,10 +20762,6 @@ altadefinizione01.top CNAME .
 *.altadefinizione01.top CNAME .
 bclearning.top CNAME .
 *.bclearning.top CNAME .
-bookaura.top CNAME .
-*.bookaura.top CNAME .
-boooooooooooog.top CNAME .
-*.boooooooooooog.top CNAME .
 btracker.top CNAME .
 *.btracker.top CNAME .
 buddyfly.top CNAME .
@@ -21180,8 +21170,6 @@ bunkr.tv CNAME .
 *.bunkr.tv CNAME .
 tracker.bwtorrents.tv CNAME .
 *.tracker.bwtorrents.tv CNAME .
-cambro.tv CNAME .
-*.cambro.tv CNAME .
 cambros.tv CNAME .
 *.cambros.tv CNAME .
 camclips.tv CNAME .
